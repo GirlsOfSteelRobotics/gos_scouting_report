@@ -1,0 +1,3815 @@
+[
+    {
+        "team": 148,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Robowranglers",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 58.53,
+                "sd": 8.55
+            },
+            "unitless": 1666.0,
+            "norm": 1829.0,
+            "conf": [
+                -0.79,
+                1.13
+            ],
+            "breakdown": {
+                "total_points": 58.53,
+                "auto_points": 11.59,
+                "teleop_points": 38.8,
+                "endgame_points": 8.14,
+                "auto_rp": 0.4689,
+                "coral_rp": 0.0942,
+                "barge_rp": 0.5475,
+                "tiebreaker_points": 0.14,
+                "auto_leave_points": 3.6,
+                "auto_coral": 1.22,
+                "auto_coral_points": 7.99,
+                "teleop_coral": 8.28,
+                "teleop_coral_points": 32.7,
+                "coral_l1": 1.58,
+                "coral_l2": 0.73,
+                "coral_l3": 2.46,
+                "coral_l4": 4.58,
+                "total_coral_points": 40.69,
+                "processor_algae": 0.42,
+                "processor_algae_points": 1.26,
+                "net_algae": 1.21,
+                "net_algae_points": 4.84,
+                "total_algae_points": 6.1,
+                "total_game_pieces": 10.99,
+                "barge_points": 8.14,
+                "rp_1": 0.4689,
+                "rp_2": 0.0942,
+                "rp_3": 0.5475
+            },
+            "stats": {
+                "start": 47.39,
+                "pre_elim": 54.03,
+                "mean": 51.79,
+                "max": 59.24
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 11,
+                "losses": 1,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.9167,
+                "rps": 54,
+                "rps_per_match": 4.5,
+                "rank": 1,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 5,
+                "losses": 0,
+                "ties": 0,
+                "count": 5,
+                "winrate": 1.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 16,
+                "losses": 1,
+                "ties": 0,
+                "count": 17,
+                "winrate": 0.9412
+            }
+        },
+        "district_points": 21
+    },
+    {
+        "team": 418,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Purple Haze",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 39.98,
+                "sd": 6.46
+            },
+            "unitless": 1553.0,
+            "norm": 1656.0,
+            "conf": [
+                -0.75,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 39.98,
+                "auto_points": 6.06,
+                "teleop_points": 31.21,
+                "endgame_points": 2.71,
+                "auto_rp": 0.2915,
+                "coral_rp": 0.0806,
+                "barge_rp": 0.267,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 3.14,
+                "auto_coral": 0.47,
+                "auto_coral_points": 2.93,
+                "teleop_coral": 6.55,
+                "teleop_coral_points": 29.11,
+                "coral_l1": 0.68,
+                "coral_l2": 0.42,
+                "coral_l3": 0.71,
+                "coral_l4": 5.04,
+                "total_coral_points": 32.03,
+                "processor_algae": -0.05,
+                "processor_algae_points": -0.14,
+                "net_algae": 0.56,
+                "net_algae_points": 2.25,
+                "total_algae_points": 2.1,
+                "total_game_pieces": 7.37,
+                "barge_points": 2.71,
+                "rp_1": 0.2915,
+                "rp_2": 0.0806,
+                "rp_3": 0.267
+            },
+            "stats": {
+                "start": 31.52,
+                "pre_elim": 35.56,
+                "mean": 33.44,
+                "max": 39.61
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 39,
+                "rps_per_match": 3.25,
+                "rank": 9,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 2,
+                "ties": 0,
+                "count": 4,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 10,
+                "losses": 6,
+                "ties": 0,
+                "count": 16,
+                "winrate": 0.625
+            }
+        },
+        "district_points": 13
+    },
+    {
+        "team": 1296,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Full Metal Jackets",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 37.35,
+                "sd": 5.08
+            },
+            "unitless": 1537.0,
+            "norm": 1630.0,
+            "conf": [
+                -0.94,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 37.35,
+                "auto_points": 5.25,
+                "teleop_points": 24.98,
+                "endgame_points": 7.12,
+                "auto_rp": 0.2168,
+                "coral_rp": -0.0825,
+                "barge_rp": 0.4438,
+                "tiebreaker_points": 0.11,
+                "auto_leave_points": 2.84,
+                "auto_coral": 0.38,
+                "auto_coral_points": 2.41,
+                "teleop_coral": 5.38,
+                "teleop_coral_points": 24.78,
+                "coral_l1": 0.64,
+                "coral_l2": -0.04,
+                "coral_l3": 0.27,
+                "coral_l4": 4.83,
+                "total_coral_points": 27.2,
+                "processor_algae": 0.1,
+                "processor_algae_points": 0.29,
+                "net_algae": -0.02,
+                "net_algae_points": -0.1,
+                "total_algae_points": 0.19,
+                "total_game_pieces": 5.77,
+                "barge_points": 7.12,
+                "rp_1": 0.2168,
+                "rp_2": -0.0825,
+                "rp_3": 0.4438
+            },
+            "stats": {
+                "start": 36.5,
+                "pre_elim": 36.45,
+                "mean": 36.44,
+                "max": 40.08
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.75,
+                "rps": 43,
+                "rps_per_match": 3.5833,
+                "rank": 6,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 9,
+                "losses": 5,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.6429
+            }
+        },
+        "district_points": 17
+    },
+    {
+        "team": 2158,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "the ausTIN CANs",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 9.42,
+                "sd": 5.35
+            },
+            "unitless": 1366.0,
+            "norm": 1357.0,
+            "conf": [
+                -1.08,
+                0.87
+            ],
+            "breakdown": {
+                "total_points": 9.42,
+                "auto_points": 3.42,
+                "teleop_points": 4.37,
+                "endgame_points": 1.63,
+                "auto_rp": 0.01,
+                "coral_rp": -0.107,
+                "barge_rp": 0.0601,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.82,
+                "auto_coral": 0.02,
+                "auto_coral_points": 0.6,
+                "teleop_coral": 1.03,
+                "teleop_coral_points": 3.58,
+                "coral_l1": 0.29,
+                "coral_l2": 0.37,
+                "coral_l3": -0.11,
+                "coral_l4": 0.6,
+                "total_coral_points": 4.17,
+                "processor_algae": -0.01,
+                "processor_algae_points": -0.03,
+                "net_algae": 0.2,
+                "net_algae_points": 0.82,
+                "total_algae_points": 0.79,
+                "total_game_pieces": 1.35,
+                "barge_points": 1.64,
+                "rp_1": 0.01,
+                "rp_2": -0.107,
+                "rp_3": 0.0601
+            },
+            "stats": {
+                "start": 26.05,
+                "pre_elim": 10.82,
+                "mean": 12.04,
+                "max": 26.05
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 19,
+                "rps_per_match": 1.5833,
+                "rank": 35,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 2,
+                "ties": 0,
+                "count": 4,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 6,
+                "losses": 10,
+                "ties": 0,
+                "count": 16,
+                "winrate": 0.375
+            }
+        },
+        "district_points": 13
+    },
+    {
+        "team": 2468,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Team Appreciate",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 27.89,
+                "sd": 9.28
+            },
+            "unitless": 1479.0,
+            "norm": 1532.0,
+            "conf": [
+                -1.13,
+                0.86
+            ],
+            "breakdown": {
+                "total_points": 27.89,
+                "auto_points": 4.91,
+                "teleop_points": 19.36,
+                "endgame_points": 3.62,
+                "auto_rp": 0.0974,
+                "coral_rp": -0.0008,
+                "barge_rp": 0.2534,
+                "tiebreaker_points": 0.07,
+                "auto_leave_points": 3.45,
+                "auto_coral": 0.28,
+                "auto_coral_points": 1.46,
+                "teleop_coral": 4.02,
+                "teleop_coral_points": 16.08,
+                "coral_l1": -0.18,
+                "coral_l2": 1.71,
+                "coral_l3": 1.37,
+                "coral_l4": 1.36,
+                "total_coral_points": 17.55,
+                "processor_algae": 0.53,
+                "processor_algae_points": 1.59,
+                "net_algae": 0.42,
+                "net_algae_points": 1.69,
+                "total_algae_points": 3.28,
+                "total_game_pieces": 5.23,
+                "barge_points": 3.61,
+                "rp_1": 0.0974,
+                "rp_2": -0.0008,
+                "rp_3": 0.2534
+            },
+            "stats": {
+                "start": 52.61,
+                "pre_elim": 26.09,
+                "mean": 36.05,
+                "max": 52.61
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 25,
+                "rps_per_match": 2.0833,
+                "rank": 23,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 9,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.3571
+            }
+        },
+        "district_points": 11
+    },
+    {
+        "team": 2582,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "PantherBots",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 41.65,
+                "sd": 5.32
+            },
+            "unitless": 1563.0,
+            "norm": 1673.0,
+            "conf": [
+                -0.72,
+                1.17
+            ],
+            "breakdown": {
+                "total_points": 41.65,
+                "auto_points": 5.72,
+                "teleop_points": 28.99,
+                "endgame_points": 6.94,
+                "auto_rp": 0.1975,
+                "coral_rp": 0.1674,
+                "barge_rp": 0.5235,
+                "tiebreaker_points": 0.12,
+                "auto_leave_points": 2.87,
+                "auto_coral": 0.47,
+                "auto_coral_points": 2.85,
+                "teleop_coral": 6.16,
+                "teleop_coral_points": 24.96,
+                "coral_l1": 0.37,
+                "coral_l2": 1.37,
+                "coral_l3": 1.98,
+                "coral_l4": 2.8,
+                "total_coral_points": 27.82,
+                "processor_algae": 1.02,
+                "processor_algae_points": 3.05,
+                "net_algae": 0.24,
+                "net_algae_points": 0.97,
+                "total_algae_points": 4.02,
+                "total_game_pieces": 7.79,
+                "barge_points": 6.93,
+                "rp_1": 0.1975,
+                "rp_2": 0.1674,
+                "rp_3": 0.5235
+            },
+            "stats": {
+                "start": 38.78,
+                "pre_elim": 37.73,
+                "mean": 39.34,
+                "max": 41.27
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.75,
+                "rps": 47,
+                "rps_per_match": 3.9167,
+                "rank": 3,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 2,
+                "ties": 0,
+                "count": 4,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 11,
+                "losses": 5,
+                "ties": 0,
+                "count": 16,
+                "winrate": 0.6875
+            }
+        },
+        "district_points": 22
+    },
+    {
+        "team": 2583,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Orange Dynamite",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 29.92,
+                "sd": 5.58
+            },
+            "unitless": 1491.0,
+            "norm": 1552.0,
+            "conf": [
+                -0.87,
+                1.1
+            ],
+            "breakdown": {
+                "total_points": 29.92,
+                "auto_points": 7.11,
+                "teleop_points": 21.61,
+                "endgame_points": 1.2,
+                "auto_rp": 0.4446,
+                "coral_rp": 0.0763,
+                "barge_rp": 0.0218,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 3.13,
+                "auto_coral": 0.66,
+                "auto_coral_points": 3.98,
+                "teleop_coral": 5.68,
+                "teleop_coral_points": 23.19,
+                "coral_l1": 1.12,
+                "coral_l2": 0.26,
+                "coral_l3": 1.34,
+                "coral_l4": 3.46,
+                "total_coral_points": 27.17,
+                "processor_algae": -0.06,
+                "processor_algae_points": -0.17,
+                "net_algae": -0.35,
+                "net_algae_points": -1.41,
+                "total_algae_points": -1.58,
+                "total_game_pieces": 5.76,
+                "barge_points": 1.2,
+                "rp_1": 0.4446,
+                "rp_2": 0.0763,
+                "rp_3": 0.0218
+            },
+            "stats": {
+                "start": 29.95,
+                "pre_elim": 27.82,
+                "mean": 26.81,
+                "max": 29.95
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 38,
+                "rps_per_match": 3.1667,
+                "rank": 11,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 9,
+                "losses": 6,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.6
+            }
+        },
+        "district_points": 16
+    },
+    {
+        "team": 2687,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Team Apprentice",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 27.79,
+                "sd": 5.46
+            },
+            "unitless": 1478.0,
+            "norm": 1531.0,
+            "conf": [
+                -0.84,
+                1.13
+            ],
+            "breakdown": {
+                "total_points": 27.79,
+                "auto_points": 6.27,
+                "teleop_points": 15.33,
+                "endgame_points": 6.18,
+                "auto_rp": 0.2414,
+                "coral_rp": -0.0151,
+                "barge_rp": 0.2201,
+                "tiebreaker_points": -0.03,
+                "auto_leave_points": 3.33,
+                "auto_coral": 0.74,
+                "auto_coral_points": 2.94,
+                "teleop_coral": 5.55,
+                "teleop_coral_points": 16.2,
+                "coral_l1": 1.05,
+                "coral_l2": 4.15,
+                "coral_l3": 0.43,
+                "coral_l4": 0.22,
+                "total_coral_points": 19.15,
+                "processor_algae": 0.02,
+                "processor_algae_points": 0.06,
+                "net_algae": -0.23,
+                "net_algae_points": -0.93,
+                "total_algae_points": -0.87,
+                "total_game_pieces": 5.65,
+                "barge_points": 6.18,
+                "rp_1": 0.2414,
+                "rp_2": -0.0151,
+                "rp_3": 0.2201
+            },
+            "stats": {
+                "start": 34.16,
+                "pre_elim": 25.82,
+                "mean": 26.38,
+                "max": 34.16
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 25,
+                "rps_per_match": 2.0833,
+                "rank": 24,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 10,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.3333
+            }
+        },
+        "district_points": 11
+    },
+    {
+        "team": 2689,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Team Alpha",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 35.05,
+                "sd": 5.91
+            },
+            "unitless": 1523.0,
+            "norm": 1604.0,
+            "conf": [
+                -0.78,
+                1.14
+            ],
+            "breakdown": {
+                "total_points": 35.05,
+                "auto_points": 6.14,
+                "teleop_points": 21.69,
+                "endgame_points": 7.21,
+                "auto_rp": 0.3084,
+                "coral_rp": -0.0908,
+                "barge_rp": 0.573,
+                "tiebreaker_points": 0.17,
+                "auto_leave_points": 2.96,
+                "auto_coral": 0.86,
+                "auto_coral_points": 3.19,
+                "teleop_coral": 7.9,
+                "teleop_coral_points": 19.57,
+                "coral_l1": 7.04,
+                "coral_l2": -0.54,
+                "coral_l3": -0.12,
+                "coral_l4": 1.66,
+                "total_coral_points": 22.75,
+                "processor_algae": 0.28,
+                "processor_algae_points": 0.85,
+                "net_algae": 0.32,
+                "net_algae_points": 1.27,
+                "total_algae_points": 2.13,
+                "total_game_pieces": 8.64,
+                "barge_points": 7.21,
+                "rp_1": 0.3084,
+                "rp_2": -0.0908,
+                "rp_3": 0.573
+            },
+            "stats": {
+                "start": 32.19,
+                "pre_elim": 31.55,
+                "mean": 31.79,
+                "max": 34.64
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 42,
+                "rps_per_match": 3.5,
+                "rank": 7,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 2,
+                "ties": 0,
+                "count": 4,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 10,
+                "losses": 6,
+                "ties": 0,
+                "count": 16,
+                "winrate": 0.625
+            }
+        },
+        "district_points": 20
+    },
+    {
+        "team": 2714,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "\u2668\ufe0f BBQ \u2668\ufe0f",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 35.22,
+                "sd": 7.36
+            },
+            "unitless": 1524.0,
+            "norm": 1607.0,
+            "conf": [
+                -1.14,
+                0.83
+            ],
+            "breakdown": {
+                "total_points": 35.22,
+                "auto_points": 6.32,
+                "teleop_points": 24.15,
+                "endgame_points": 4.75,
+                "auto_rp": 0.1205,
+                "coral_rp": -0.0866,
+                "barge_rp": 0.3542,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.69,
+                "auto_coral": 0.49,
+                "auto_coral_points": 3.63,
+                "teleop_coral": 5.45,
+                "teleop_coral_points": 22.85,
+                "coral_l1": 0.77,
+                "coral_l2": 0.48,
+                "coral_l3": 1.09,
+                "coral_l4": 3.63,
+                "total_coral_points": 26.49,
+                "processor_algae": 0.05,
+                "processor_algae_points": 0.14,
+                "net_algae": 0.29,
+                "net_algae_points": 1.16,
+                "total_algae_points": 1.3,
+                "total_game_pieces": 6.32,
+                "barge_points": 4.75,
+                "rp_1": 0.1205,
+                "rp_2": -0.0866,
+                "rp_3": 0.3542
+            },
+            "stats": {
+                "start": 38.36,
+                "pre_elim": 35.27,
+                "mean": 37.43,
+                "max": 42.87
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 38,
+                "rps_per_match": 3.1667,
+                "rank": 10,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 8,
+                "losses": 6,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.5714
+            }
+        },
+        "district_points": 16
+    },
+    {
+        "team": 2881,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Lady Cans",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 40.26,
+                "sd": 6.66
+            },
+            "unitless": 1554.0,
+            "norm": 1658.0,
+            "conf": [
+                -0.79,
+                1.11
+            ],
+            "breakdown": {
+                "total_points": 40.26,
+                "auto_points": 7.21,
+                "teleop_points": 27.19,
+                "endgame_points": 5.86,
+                "auto_rp": 0.3345,
+                "coral_rp": -0.0022,
+                "barge_rp": 0.402,
+                "tiebreaker_points": -0.07,
+                "auto_leave_points": 3.36,
+                "auto_coral": 0.56,
+                "auto_coral_points": 3.85,
+                "teleop_coral": 5.39,
+                "teleop_coral_points": 24.35,
+                "coral_l1": 0.34,
+                "coral_l2": 0.49,
+                "coral_l3": 0.56,
+                "coral_l4": 4.5,
+                "total_coral_points": 28.21,
+                "processor_algae": 0.58,
+                "processor_algae_points": 1.75,
+                "net_algae": 0.27,
+                "net_algae_points": 1.09,
+                "total_algae_points": 2.84,
+                "total_game_pieces": 6.75,
+                "barge_points": 5.86,
+                "rp_1": 0.3345,
+                "rp_2": -0.0022,
+                "rp_3": 0.402
+            },
+            "stats": {
+                "start": 38.22,
+                "pre_elim": 35.98,
+                "mean": 36.62,
+                "max": 40.82
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.75,
+                "rps": 44,
+                "rps_per_match": 3.6667,
+                "rank": 5,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 4,
+                "losses": 3,
+                "ties": 0,
+                "count": 7,
+                "winrate": 0.5714285714285714,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 13,
+                "losses": 6,
+                "ties": 0,
+                "count": 19,
+                "winrate": 0.6842
+            }
+        },
+        "district_points": 19
+    },
+    {
+        "team": 2950,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Devastators",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 20.29,
+                "sd": 6.01
+            },
+            "unitless": 1433.0,
+            "norm": 1457.0,
+            "conf": [
+                -0.9,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 20.29,
+                "auto_points": 3.46,
+                "teleop_points": 14.3,
+                "endgame_points": 2.54,
+                "auto_rp": 0.1274,
+                "coral_rp": -0.017,
+                "barge_rp": 0.136,
+                "tiebreaker_points": 0.16,
+                "auto_leave_points": 2.78,
+                "auto_coral": 0.12,
+                "auto_coral_points": 0.67,
+                "teleop_coral": 2.0,
+                "teleop_coral_points": 7.74,
+                "coral_l1": 0.45,
+                "coral_l2": 0.46,
+                "coral_l3": -0.01,
+                "coral_l4": 1.08,
+                "total_coral_points": 8.41,
+                "processor_algae": 2.11,
+                "processor_algae_points": 6.34,
+                "net_algae": 0.05,
+                "net_algae_points": 0.22,
+                "total_algae_points": 6.56,
+                "total_game_pieces": 4.15,
+                "barge_points": 2.54,
+                "rp_1": 0.1274,
+                "rp_2": -0.017,
+                "rp_3": 0.136
+            },
+            "stats": {
+                "start": 16.52,
+                "pre_elim": 17.33,
+                "mean": 18.34,
+                "max": 21.75
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 36,
+                "rps_per_match": 3.0,
+                "rank": 13,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 3,
+                "losses": 3,
+                "ties": 0,
+                "count": 6,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 11,
+                "losses": 7,
+                "ties": 0,
+                "count": 18,
+                "winrate": 0.6111
+            }
+        },
+        "district_points": 19
+    },
+    {
+        "team": 2969,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Aftermath",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 14.97,
+                "sd": 3.55
+            },
+            "unitless": 1400.0,
+            "norm": 1408.0,
+            "conf": [
+                -1.08,
+                0.94
+            ],
+            "breakdown": {
+                "total_points": 14.97,
+                "auto_points": 3.34,
+                "teleop_points": 9.42,
+                "endgame_points": 2.21,
+                "auto_rp": 0.1642,
+                "coral_rp": -0.1046,
+                "barge_rp": 0.0959,
+                "tiebreaker_points": 0.0,
+                "auto_leave_points": 3.15,
+                "auto_coral": 0.07,
+                "auto_coral_points": 0.18,
+                "teleop_coral": 1.81,
+                "teleop_coral_points": 8.82,
+                "coral_l1": 0.17,
+                "coral_l2": 0.04,
+                "coral_l3": -0.38,
+                "coral_l4": 1.98,
+                "total_coral_points": 9.0,
+                "processor_algae": 0.08,
+                "processor_algae_points": 0.24,
+                "net_algae": 0.09,
+                "net_algae_points": 0.36,
+                "total_algae_points": 0.6,
+                "total_game_pieces": 1.96,
+                "barge_points": 2.22,
+                "rp_1": 0.1642,
+                "rp_2": -0.1046,
+                "rp_3": 0.0959
+            },
+            "stats": {
+                "start": 20.03,
+                "pre_elim": 15.75,
+                "mean": 16.47,
+                "max": 20.03
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.6667,
+                "rps": 35,
+                "rps_per_match": 2.9167,
+                "rank": 14,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 1,
+                "ties": 0,
+                "count": 1,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 8,
+                "losses": 5,
+                "ties": 0,
+                "count": 13,
+                "winrate": 0.6154
+            }
+        },
+        "district_points": 14
+    },
+    {
+        "team": 3005,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "RoboChargers",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 62.44,
+                "sd": 8.83
+            },
+            "unitless": 1690.0,
+            "norm": 1866.0,
+            "conf": [
+                -0.86,
+                1.08
+            ],
+            "breakdown": {
+                "total_points": 62.44,
+                "auto_points": 16.92,
+                "teleop_points": 39.36,
+                "endgame_points": 6.16,
+                "auto_rp": 0.62,
+                "coral_rp": 0.1224,
+                "barge_rp": 0.3298,
+                "tiebreaker_points": 0.11,
+                "auto_leave_points": 4.12,
+                "auto_coral": 1.87,
+                "auto_coral_points": 12.8,
+                "teleop_coral": 8.13,
+                "teleop_coral_points": 33.59,
+                "coral_l1": 0.32,
+                "coral_l2": 1.35,
+                "coral_l3": 3.39,
+                "coral_l4": 4.86,
+                "total_coral_points": 46.41,
+                "processor_algae": 0.78,
+                "processor_algae_points": 2.34,
+                "net_algae": 0.85,
+                "net_algae_points": 3.42,
+                "total_algae_points": 5.76,
+                "total_game_pieces": 11.56,
+                "barge_points": 6.15,
+                "rp_1": 0.62,
+                "rp_2": 0.1224,
+                "rp_3": 0.3298
+            },
+            "stats": {
+                "start": 65.5,
+                "pre_elim": 60.76,
+                "mean": 56.97,
+                "max": 65.5
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 10,
+                "losses": 2,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.8333,
+                "rps": 49,
+                "rps_per_match": 4.0833,
+                "rank": 2,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 5,
+                "losses": 0,
+                "ties": 0,
+                "count": 5,
+                "winrate": 1.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 15,
+                "losses": 2,
+                "ties": 0,
+                "count": 17,
+                "winrate": 0.8824
+            }
+        },
+        "district_points": 18
+    },
+    {
+        "team": 3310,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Black Hawk Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 28.99,
+                "sd": 6.37
+            },
+            "unitless": 1486.0,
+            "norm": 1542.0,
+            "conf": [
+                -0.89,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 28.99,
+                "auto_points": 5.4,
+                "teleop_points": 19.99,
+                "endgame_points": 3.59,
+                "auto_rp": 0.1537,
+                "coral_rp": -0.0757,
+                "barge_rp": 0.0816,
+                "tiebreaker_points": -0.01,
+                "auto_leave_points": 2.95,
+                "auto_coral": 0.46,
+                "auto_coral_points": 2.45,
+                "teleop_coral": 3.83,
+                "teleop_coral_points": 15.62,
+                "coral_l1": 0.44,
+                "coral_l2": 0.45,
+                "coral_l3": 1.26,
+                "coral_l4": 1.91,
+                "total_coral_points": 18.07,
+                "processor_algae": 0.01,
+                "processor_algae_points": 0.04,
+                "net_algae": 1.08,
+                "net_algae_points": 4.33,
+                "total_algae_points": 4.37,
+                "total_game_pieces": 5.17,
+                "barge_points": 3.59,
+                "rp_1": 0.1537,
+                "rp_2": -0.0757,
+                "rp_3": 0.0816
+            },
+            "stats": {
+                "start": 48.36,
+                "pre_elim": 25.32,
+                "mean": 30.28,
+                "max": 48.36
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 23,
+                "rps_per_match": 1.9167,
+                "rank": 27,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 4,
+                "losses": 3,
+                "ties": 0,
+                "count": 7,
+                "winrate": 0.5714285714285714,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 9,
+                "losses": 10,
+                "ties": 0,
+                "count": 19,
+                "winrate": 0.4737
+            }
+        },
+        "district_points": 14
+    },
+    {
+        "team": 4610,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "BearTecs",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 15.03,
+                "sd": 5.1
+            },
+            "unitless": 1401.0,
+            "norm": 1409.0,
+            "conf": [
+                -0.95,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 15.03,
+                "auto_points": 2.09,
+                "teleop_points": 10.12,
+                "endgame_points": 2.83,
+                "auto_rp": -0.0134,
+                "coral_rp": -0.0306,
+                "barge_rp": 0.0747,
+                "tiebreaker_points": 0.09,
+                "auto_leave_points": 1.91,
+                "auto_coral": 0.12,
+                "auto_coral_points": 0.18,
+                "teleop_coral": 2.77,
+                "teleop_coral_points": 8.48,
+                "coral_l1": 0.86,
+                "coral_l2": 1.11,
+                "coral_l3": 0.65,
+                "coral_l4": 0.13,
+                "total_coral_points": 8.65,
+                "processor_algae": 0.6,
+                "processor_algae_points": 1.79,
+                "net_algae": -0.04,
+                "net_algae_points": -0.16,
+                "total_algae_points": 1.64,
+                "total_game_pieces": 3.3,
+                "barge_points": 2.83,
+                "rp_1": -0.0134,
+                "rp_2": -0.0306,
+                "rp_3": 0.0747
+            },
+            "stats": {
+                "start": 24.22,
+                "pre_elim": 13.81,
+                "mean": 14.54,
+                "max": 24.22
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 21,
+                "rps_per_match": 1.75,
+                "rank": 30,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 10,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.2857
+            }
+        },
+        "district_points": 9
+    },
+    {
+        "team": 5212,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "TAMSformers Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 10.78,
+                "sd": 6.08
+            },
+            "unitless": 1375.0,
+            "norm": 1369.0,
+            "conf": [
+                -0.69,
+                1.22
+            ],
+            "breakdown": {
+                "total_points": 10.78,
+                "auto_points": 3.18,
+                "teleop_points": 7.8,
+                "endgame_points": -0.19,
+                "auto_rp": 0.0532,
+                "coral_rp": -0.0323,
+                "barge_rp": -0.2009,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 2.98,
+                "auto_coral": 0.06,
+                "auto_coral_points": 0.2,
+                "teleop_coral": 1.97,
+                "teleop_coral_points": 7.4,
+                "coral_l1": 0.08,
+                "coral_l2": 0.87,
+                "coral_l3": 0.42,
+                "coral_l4": 0.59,
+                "total_coral_points": 7.59,
+                "processor_algae": 0.21,
+                "processor_algae_points": 0.64,
+                "net_algae": -0.06,
+                "net_algae_points": -0.24,
+                "total_algae_points": 0.4,
+                "total_game_pieces": 2.11,
+                "barge_points": -0.19,
+                "rp_1": 0.0532,
+                "rp_2": -0.0323,
+                "rp_3": -0.2009
+            },
+            "stats": {
+                "start": 24.93,
+                "pre_elim": 7.48,
+                "mean": 11.18,
+                "max": 24.93
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 19,
+                "rps_per_match": 1.5833,
+                "rank": 33,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 0,
+                "ties": 0,
+                "count": 1,
+                "winrate": 1.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 6,
+                "losses": 7,
+                "ties": 0,
+                "count": 13,
+                "winrate": 0.4615
+            }
+        },
+        "district_points": 5
+    },
+    {
+        "team": 5503,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Smithville Tiger Trons",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 7.63,
+                "sd": 4.64
+            },
+            "unitless": 1355.0,
+            "norm": 1329.0,
+            "conf": [
+                -1.06,
+                0.98
+            ],
+            "breakdown": {
+                "total_points": 7.63,
+                "auto_points": 3.07,
+                "teleop_points": 0.11,
+                "endgame_points": 4.46,
+                "auto_rp": 0.0955,
+                "coral_rp": -0.1082,
+                "barge_rp": 0.139,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.4,
+                "auto_coral": 0.11,
+                "auto_coral_points": 0.67,
+                "teleop_coral": 0.44,
+                "teleop_coral_points": 0.85,
+                "coral_l1": 0.57,
+                "coral_l2": 0.12,
+                "coral_l3": -0.57,
+                "coral_l4": 0.43,
+                "total_coral_points": 1.52,
+                "processor_algae": 0.28,
+                "processor_algae_points": 0.85,
+                "net_algae": -0.4,
+                "net_algae_points": -1.59,
+                "total_algae_points": -0.74,
+                "total_game_pieces": 0.44,
+                "barge_points": 4.46,
+                "rp_1": 0.0955,
+                "rp_2": -0.1082,
+                "rp_3": 0.139
+            },
+            "stats": {
+                "start": 27.26,
+                "pre_elim": 8.06,
+                "mean": 14.32,
+                "max": 27.26
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5,
+                "rps": 29,
+                "rps_per_match": 2.4167,
+                "rank": 16,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5
+            }
+        },
+        "district_points": 15
+    },
+    {
+        "team": 5613,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "ThunderDogs",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 6.3,
+                "sd": 4.21
+            },
+            "unitless": 1347.0,
+            "norm": 1318.0,
+            "conf": [
+                -1.01,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 6.3,
+                "auto_points": 2.71,
+                "teleop_points": 2.18,
+                "endgame_points": 1.41,
+                "auto_rp": 0.0989,
+                "coral_rp": -0.1016,
+                "barge_rp": -0.008,
+                "tiebreaker_points": -0.06,
+                "auto_leave_points": 2.43,
+                "auto_coral": 0.17,
+                "auto_coral_points": 0.28,
+                "teleop_coral": 0.65,
+                "teleop_coral_points": 2.41,
+                "coral_l1": 0.16,
+                "coral_l2": 0.39,
+                "coral_l3": -0.41,
+                "coral_l4": 0.47,
+                "total_coral_points": 2.69,
+                "processor_algae": -0.12,
+                "processor_algae_points": -0.35,
+                "net_algae": 0.03,
+                "net_algae_points": 0.12,
+                "total_algae_points": -0.23,
+                "total_game_pieces": 0.51,
+                "barge_points": 1.41,
+                "rp_1": 0.0989,
+                "rp_2": -0.1016,
+                "rp_3": -0.008
+            },
+            "stats": {
+                "start": 24.15,
+                "pre_elim": 5.79,
+                "mean": 9.45,
+                "max": 24.15
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25,
+                "rps": 17,
+                "rps_per_match": 1.4167,
+                "rank": 39,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25
+            }
+        },
+        "district_points": 6
+    },
+    {
+        "team": 5682,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Equus Engineering",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 13.85,
+                "sd": 6.44
+            },
+            "unitless": 1393.0,
+            "norm": 1393.0,
+            "conf": [
+                -0.99,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 13.85,
+                "auto_points": 2.41,
+                "teleop_points": 8.99,
+                "endgame_points": 2.46,
+                "auto_rp": 0.1122,
+                "coral_rp": -0.1035,
+                "barge_rp": 0.0802,
+                "tiebreaker_points": 0.17,
+                "auto_leave_points": 2.64,
+                "auto_coral": 0.05,
+                "auto_coral_points": -0.24,
+                "teleop_coral": 1.44,
+                "teleop_coral_points": 6.51,
+                "coral_l1": -0.21,
+                "coral_l2": 0.54,
+                "coral_l3": 0.24,
+                "coral_l4": 0.77,
+                "total_coral_points": 6.27,
+                "processor_algae": 0.6,
+                "processor_algae_points": 1.8,
+                "net_algae": 0.17,
+                "net_algae_points": 0.68,
+                "total_algae_points": 2.48,
+                "total_game_pieces": 2.11,
+                "barge_points": 2.46,
+                "rp_1": 0.1122,
+                "rp_2": -0.1035,
+                "rp_3": 0.0802
+            },
+            "stats": {
+                "start": 20.13,
+                "pre_elim": 15.98,
+                "mean": 12.31,
+                "max": 20.13
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 23,
+                "rps_per_match": 1.9167,
+                "rank": 25,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167
+            }
+        },
+        "district_points": 10
+    },
+    {
+        "team": 5866,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Fe [Iron] Tigers",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 14.74,
+                "sd": 5.06
+            },
+            "unitless": 1399.0,
+            "norm": 1400.0,
+            "conf": [
+                -0.92,
+                1.12
+            ],
+            "breakdown": {
+                "total_points": 14.74,
+                "auto_points": 1.68,
+                "teleop_points": 10.3,
+                "endgame_points": 2.76,
+                "auto_rp": -0.004,
+                "coral_rp": -0.0297,
+                "barge_rp": 0.1755,
+                "tiebreaker_points": 0.33,
+                "auto_leave_points": 1.97,
+                "auto_coral": -0.09,
+                "auto_coral_points": -0.29,
+                "teleop_coral": 1.34,
+                "teleop_coral_points": 3.6,
+                "coral_l1": 0.32,
+                "coral_l2": 0.9,
+                "coral_l3": 0.38,
+                "coral_l4": -0.25,
+                "total_coral_points": 3.31,
+                "processor_algae": 1.85,
+                "processor_algae_points": 5.55,
+                "net_algae": 0.29,
+                "net_algae_points": 1.16,
+                "total_algae_points": 6.7,
+                "total_game_pieces": 3.48,
+                "barge_points": 2.77,
+                "rp_1": -0.004,
+                "rp_2": -0.0297,
+                "rp_3": 0.1755
+            },
+            "stats": {
+                "start": 22.53,
+                "pre_elim": 13.9,
+                "mean": 13.96,
+                "max": 22.53
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 26,
+                "rps_per_match": 2.1667,
+                "rank": 21,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167
+            }
+        },
+        "district_points": 9
+    },
+    {
+        "team": 6377,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Howdy Bots",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 39.53,
+                "sd": 6.7
+            },
+            "unitless": 1550.0,
+            "norm": 1654.0,
+            "conf": [
+                -0.81,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 39.53,
+                "auto_points": 6.28,
+                "teleop_points": 31.02,
+                "endgame_points": 2.22,
+                "auto_rp": 0.2617,
+                "coral_rp": 0.1674,
+                "barge_rp": 0.1072,
+                "tiebreaker_points": -0.01,
+                "auto_leave_points": 2.58,
+                "auto_coral": 0.7,
+                "auto_coral_points": 3.7,
+                "teleop_coral": 9.22,
+                "teleop_coral_points": 30.23,
+                "coral_l1": 4.22,
+                "coral_l2": 1.01,
+                "coral_l3": 1.13,
+                "coral_l4": 3.24,
+                "total_coral_points": 33.94,
+                "processor_algae": -0.01,
+                "processor_algae_points": -0.02,
+                "net_algae": 0.2,
+                "net_algae_points": 0.81,
+                "total_algae_points": 0.79,
+                "total_game_pieces": 9.8,
+                "barge_points": 2.22,
+                "rp_1": 0.2617,
+                "rp_2": 0.1674,
+                "rp_3": 0.1072
+            },
+            "stats": {
+                "start": 39.06,
+                "pre_elim": 37.73,
+                "mean": 34.61,
+                "max": 40.09
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 10,
+                "losses": 2,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.8333,
+                "rps": 45,
+                "rps_per_match": 3.75,
+                "rank": 4,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 10,
+                "losses": 4,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.7143
+            }
+        },
+        "district_points": 17
+    },
+    {
+        "team": 6526,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Cyber Rangers",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 9.7,
+                "sd": 3.76
+            },
+            "unitless": 1368.0,
+            "norm": 1350.0,
+            "conf": [
+                -1.03,
+                1.01
+            ],
+            "breakdown": {
+                "total_points": 9.7,
+                "auto_points": 1.7,
+                "teleop_points": 6.27,
+                "endgame_points": 1.73,
+                "auto_rp": -0.0739,
+                "coral_rp": -0.112,
+                "barge_rp": -0.0348,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 1.83,
+                "auto_coral": -0.04,
+                "auto_coral_points": -0.14,
+                "teleop_coral": 1.22,
+                "teleop_coral_points": 4.38,
+                "coral_l1": 0.47,
+                "coral_l2": 0.01,
+                "coral_l3": 0.22,
+                "coral_l4": 0.5,
+                "total_coral_points": 4.24,
+                "processor_algae": 0.37,
+                "processor_algae_points": 1.12,
+                "net_algae": 0.19,
+                "net_algae_points": 0.78,
+                "total_algae_points": 1.89,
+                "total_game_pieces": 1.76,
+                "barge_points": 1.74,
+                "rp_1": -0.0739,
+                "rp_2": -0.112,
+                "rp_3": -0.0348
+            },
+            "stats": {
+                "start": 13.73,
+                "pre_elim": 9.62,
+                "mean": 9.82,
+                "max": 13.73
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5833,
+                "rps": 26,
+                "rps_per_match": 2.1667,
+                "rank": 22,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5833
+            }
+        },
+        "district_points": 15
+    },
+    {
+        "team": 6672,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Fusion Corps",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 34.09,
+                "sd": 5.62
+            },
+            "unitless": 1517.0,
+            "norm": 1594.0,
+            "conf": [
+                -0.75,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 34.09,
+                "auto_points": 7.14,
+                "teleop_points": 22.05,
+                "endgame_points": 4.9,
+                "auto_rp": 0.2819,
+                "coral_rp": -0.0066,
+                "barge_rp": 0.2161,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 3.64,
+                "auto_coral": 0.63,
+                "auto_coral_points": 3.49,
+                "teleop_coral": 5.31,
+                "teleop_coral_points": 19.81,
+                "coral_l1": 1.15,
+                "coral_l2": 0.72,
+                "coral_l3": 1.89,
+                "coral_l4": 1.96,
+                "total_coral_points": 23.31,
+                "processor_algae": -0.18,
+                "processor_algae_points": -0.54,
+                "net_algae": 0.7,
+                "net_algae_points": 2.79,
+                "total_algae_points": 2.25,
+                "total_game_pieces": 6.25,
+                "barge_points": 4.9,
+                "rp_1": 0.2819,
+                "rp_2": -0.0066,
+                "rp_3": 0.2161
+            },
+            "stats": {
+                "start": 51.68,
+                "pre_elim": 30.72,
+                "mean": 35.26,
+                "max": 51.68
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5833,
+                "rps": 34,
+                "rps_per_match": 2.8333,
+                "rank": 15,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 2,
+                "ties": 0,
+                "count": 4,
+                "winrate": 0.5,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 9,
+                "losses": 7,
+                "ties": 0,
+                "count": 16,
+                "winrate": 0.5625
+            }
+        },
+        "district_points": 12
+    },
+    {
+        "team": 7121,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Keller Fusion Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 20.78,
+                "sd": 9.46
+            },
+            "unitless": 1436.0,
+            "norm": 1462.0,
+            "conf": [
+                -1.03,
+                0.95
+            ],
+            "breakdown": {
+                "total_points": 20.78,
+                "auto_points": 9.22,
+                "teleop_points": 10.37,
+                "endgame_points": 1.19,
+                "auto_rp": 0.4279,
+                "coral_rp": -0.0262,
+                "barge_rp": 0.16,
+                "tiebreaker_points": 0.18,
+                "auto_leave_points": 2.78,
+                "auto_coral": 0.99,
+                "auto_coral_points": 6.44,
+                "teleop_coral": 1.45,
+                "teleop_coral_points": 6.04,
+                "coral_l1": -0.39,
+                "coral_l2": 0.69,
+                "coral_l3": 0.96,
+                "coral_l4": 1.04,
+                "total_coral_points": 12.47,
+                "processor_algae": 0.77,
+                "processor_algae_points": 2.32,
+                "net_algae": 0.5,
+                "net_algae_points": 2.01,
+                "total_algae_points": 4.34,
+                "total_game_pieces": 3.58,
+                "barge_points": 1.19,
+                "rp_1": 0.4279,
+                "rp_2": -0.0262,
+                "rp_3": 0.16
+            },
+            "stats": {
+                "start": 29.68,
+                "pre_elim": 17.35,
+                "mean": 22.14,
+                "max": 29.68
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5833,
+                "rps": 37,
+                "rps_per_match": 3.0833,
+                "rank": 12,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 8,
+                "losses": 7,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.5333
+            }
+        },
+        "district_points": 15
+    },
+    {
+        "team": 7125,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Tigerbotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 7.68,
+                "sd": 6.84
+            },
+            "unitless": 1356.0,
+            "norm": 1332.0,
+            "conf": [
+                -0.7,
+                1.23
+            ],
+            "breakdown": {
+                "total_points": 7.68,
+                "auto_points": 3.99,
+                "teleop_points": 3.03,
+                "endgame_points": 0.66,
+                "auto_rp": 0.0925,
+                "coral_rp": -0.1094,
+                "barge_rp": -0.1032,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 2.67,
+                "auto_coral": 0.22,
+                "auto_coral_points": 1.33,
+                "teleop_coral": 0.5,
+                "teleop_coral_points": 1.2,
+                "coral_l1": 0.42,
+                "coral_l2": 0.3,
+                "coral_l3": -0.36,
+                "coral_l4": 0.39,
+                "total_coral_points": 2.53,
+                "processor_algae": 0.31,
+                "processor_algae_points": 0.94,
+                "net_algae": 0.22,
+                "net_algae_points": 0.88,
+                "total_algae_points": 1.83,
+                "total_game_pieces": 1.28,
+                "barge_points": 0.66,
+                "rp_1": 0.0925,
+                "rp_2": -0.1094,
+                "rp_3": -0.1032
+            },
+            "stats": {
+                "start": 15.57,
+                "pre_elim": 4.54,
+                "mean": 7.45,
+                "max": 15.57
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 18,
+                "rps_per_match": 1.5,
+                "rank": 36,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333
+            }
+        },
+        "district_points": 6
+    },
+    {
+        "team": 8088,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Bionic Panthers",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 30.6,
+                "sd": 5.75
+            },
+            "unitless": 1496.0,
+            "norm": 1559.0,
+            "conf": [
+                -1.12,
+                0.84
+            ],
+            "breakdown": {
+                "total_points": 30.6,
+                "auto_points": 3.68,
+                "teleop_points": 25.93,
+                "endgame_points": 0.98,
+                "auto_rp": 0.1243,
+                "coral_rp": -0.0043,
+                "barge_rp": -0.0445,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 2.54,
+                "auto_coral": 0.2,
+                "auto_coral_points": 1.14,
+                "teleop_coral": 5.7,
+                "teleop_coral_points": 25.76,
+                "coral_l1": 0.31,
+                "coral_l2": 0.28,
+                "coral_l3": 1.26,
+                "coral_l4": 4.0,
+                "total_coral_points": 26.91,
+                "processor_algae": 0.16,
+                "processor_algae_points": 0.49,
+                "net_algae": -0.08,
+                "net_algae_points": -0.32,
+                "total_algae_points": 0.17,
+                "total_game_pieces": 5.93,
+                "barge_points": 0.98,
+                "rp_1": 0.1243,
+                "rp_2": -0.0043,
+                "rp_3": -0.0445
+            },
+            "stats": {
+                "start": 33.81,
+                "pre_elim": 31.93,
+                "mean": 32.93,
+                "max": 37.29
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5833,
+                "rps": 28,
+                "rps_per_match": 2.3333,
+                "rank": 18,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 8,
+                "losses": 7,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.5333
+            }
+        },
+        "district_points": 16
+    },
+    {
+        "team": 8408,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Kiss Kats",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 9.75,
+                "sd": 8.25
+            },
+            "unitless": 1368.0,
+            "norm": 1352.0,
+            "conf": [
+                -0.83,
+                1.18
+            ],
+            "breakdown": {
+                "total_points": 9.75,
+                "auto_points": 2.15,
+                "teleop_points": 5.56,
+                "endgame_points": 2.04,
+                "auto_rp": -0.0216,
+                "coral_rp": -0.1101,
+                "barge_rp": 0.2225,
+                "tiebreaker_points": -0.04,
+                "auto_leave_points": 2.03,
+                "auto_coral": -0.01,
+                "auto_coral_points": 0.12,
+                "teleop_coral": 1.24,
+                "teleop_coral_points": 5.03,
+                "coral_l1": 0.5,
+                "coral_l2": 0.01,
+                "coral_l3": -0.32,
+                "coral_l4": 1.11,
+                "total_coral_points": 5.15,
+                "processor_algae": -0.38,
+                "processor_algae_points": -1.15,
+                "net_algae": 0.42,
+                "net_algae_points": 1.68,
+                "total_algae_points": 0.53,
+                "total_game_pieces": 1.33,
+                "barge_points": 2.04,
+                "rp_1": -0.0216,
+                "rp_2": -0.1101,
+                "rp_3": 0.2225
+            },
+            "stats": {
+                "start": 18.47,
+                "pre_elim": 6.99,
+                "mean": 6.56,
+                "max": 18.47
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 22,
+                "rps_per_match": 1.8333,
+                "rank": 29,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333
+            }
+        },
+        "district_points": 10
+    },
+    {
+        "team": 8507,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Jagwire Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 10.84,
+                "sd": 6.31
+            },
+            "unitless": 1375.0,
+            "norm": 1363.0,
+            "conf": [
+                -0.79,
+                1.2
+            ],
+            "breakdown": {
+                "total_points": 10.84,
+                "auto_points": 3.19,
+                "teleop_points": 3.06,
+                "endgame_points": 4.58,
+                "auto_rp": 0.1835,
+                "coral_rp": -0.1034,
+                "barge_rp": 0.0282,
+                "tiebreaker_points": 0.16,
+                "auto_leave_points": 2.73,
+                "auto_coral": 0.14,
+                "auto_coral_points": 0.46,
+                "teleop_coral": 1.07,
+                "teleop_coral_points": 3.35,
+                "coral_l1": 0.82,
+                "coral_l2": -0.06,
+                "coral_l3": -0.28,
+                "coral_l4": 0.63,
+                "total_coral_points": 3.81,
+                "processor_algae": 0.72,
+                "processor_algae_points": 2.15,
+                "net_algae": -0.61,
+                "net_algae_points": -2.43,
+                "total_algae_points": -0.28,
+                "total_game_pieces": 1.21,
+                "barge_points": 4.58,
+                "rp_1": 0.1835,
+                "rp_2": -0.1034,
+                "rp_3": 0.0282
+            },
+            "stats": {
+                "start": 20.34,
+                "pre_elim": 8.45,
+                "mean": 11.04,
+                "max": 20.34
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25,
+                "rps": 19,
+                "rps_per_match": 1.5833,
+                "rank": 32,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25
+            }
+        },
+        "district_points": 8
+    },
+    {
+        "team": 8515,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Photon",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 19.46,
+                "sd": 4.26
+            },
+            "unitless": 1428.0,
+            "norm": 1450.0,
+            "conf": [
+                -0.81,
+                1.14
+            ],
+            "breakdown": {
+                "total_points": 19.46,
+                "auto_points": 5.06,
+                "teleop_points": 12.26,
+                "endgame_points": 2.15,
+                "auto_rp": 0.0593,
+                "coral_rp": -0.0221,
+                "barge_rp": 0.1286,
+                "tiebreaker_points": -0.06,
+                "auto_leave_points": 3.02,
+                "auto_coral": 0.38,
+                "auto_coral_points": 2.04,
+                "teleop_coral": 2.32,
+                "teleop_coral_points": 9.52,
+                "coral_l1": 0.26,
+                "coral_l2": 0.22,
+                "coral_l3": 0.86,
+                "coral_l4": 1.2,
+                "total_coral_points": 11.56,
+                "processor_algae": 0.11,
+                "processor_algae_points": 0.32,
+                "net_algae": 0.6,
+                "net_algae_points": 2.42,
+                "total_algae_points": 2.74,
+                "total_game_pieces": 3.26,
+                "barge_points": 2.15,
+                "rp_1": 0.0593,
+                "rp_2": -0.0221,
+                "rp_3": 0.1286
+            },
+            "stats": {
+                "start": 27.7,
+                "pre_elim": 17.49,
+                "mean": 19.53,
+                "max": 27.7
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5,
+                "rps": 28,
+                "rps_per_match": 2.3333,
+                "rank": 17,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 7,
+                "losses": 8,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.4667
+            }
+        },
+        "district_points": 9
+    },
+    {
+        "team": 8528,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "AstroChimps",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 12.78,
+                "sd": 3.11
+            },
+            "unitless": 1387.0,
+            "norm": 1381.0,
+            "conf": [
+                -1.09,
+                0.95
+            ],
+            "breakdown": {
+                "total_points": 12.78,
+                "auto_points": 3.8,
+                "teleop_points": 5.83,
+                "endgame_points": 3.16,
+                "auto_rp": 0.1749,
+                "coral_rp": -0.1026,
+                "barge_rp": 0.1401,
+                "tiebreaker_points": 0.06,
+                "auto_leave_points": 2.89,
+                "auto_coral": 0.18,
+                "auto_coral_points": 0.9,
+                "teleop_coral": 1.61,
+                "teleop_coral_points": 5.02,
+                "coral_l1": 1.15,
+                "coral_l2": -0.02,
+                "coral_l3": -0.36,
+                "coral_l4": 0.93,
+                "total_coral_points": 5.92,
+                "processor_algae": 0.05,
+                "processor_algae_points": 0.13,
+                "net_algae": 0.17,
+                "net_algae_points": 0.67,
+                "total_algae_points": 0.81,
+                "total_game_pieces": 1.91,
+                "barge_points": 3.16,
+                "rp_1": 0.1749,
+                "rp_2": -0.1026,
+                "rp_3": 0.1401
+            },
+            "stats": {
+                "start": 26.41,
+                "pre_elim": 12.27,
+                "mean": 16.4,
+                "max": 26.41
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5,
+                "rps": 28,
+                "rps_per_match": 2.3333,
+                "rank": 20,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5
+            }
+        },
+        "district_points": 14
+    },
+    {
+        "team": 8732,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Trinity Force",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 16.0,
+                "sd": 8.43
+            },
+            "unitless": 1407.0,
+            "norm": 1417.0,
+            "conf": [
+                -0.91,
+                1.04
+            ],
+            "breakdown": {
+                "total_points": 16.0,
+                "auto_points": 4.04,
+                "teleop_points": 8.99,
+                "endgame_points": 2.97,
+                "auto_rp": 0.0172,
+                "coral_rp": -0.0097,
+                "barge_rp": 0.0495,
+                "tiebreaker_points": -0.08,
+                "auto_leave_points": 2.47,
+                "auto_coral": 0.21,
+                "auto_coral_points": 1.57,
+                "teleop_coral": 2.1,
+                "teleop_coral_points": 8.05,
+                "coral_l1": 0.07,
+                "coral_l2": 0.72,
+                "coral_l3": 0.85,
+                "coral_l4": 0.71,
+                "total_coral_points": 9.62,
+                "processor_algae": -0.07,
+                "processor_algae_points": -0.21,
+                "net_algae": 0.29,
+                "net_algae_points": 1.15,
+                "total_algae_points": 0.94,
+                "total_game_pieces": 2.58,
+                "barge_points": 2.97,
+                "rp_1": 0.0172,
+                "rp_2": -0.0097,
+                "rp_3": 0.0495
+            },
+            "stats": {
+                "start": 25.07,
+                "pre_elim": 15.04,
+                "mean": 15.68,
+                "max": 25.07
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25,
+                "rps": 17,
+                "rps_per_match": 1.4167,
+                "rank": 38,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 5,
+                "losses": 0,
+                "ties": 0,
+                "count": 5,
+                "winrate": 1.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 8,
+                "losses": 9,
+                "ties": 0,
+                "count": 17,
+                "winrate": 0.4706
+            }
+        },
+        "district_points": 4
+    },
+    {
+        "team": 8749,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Farmersville  Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 29.27,
+                "sd": 6.23
+            },
+            "unitless": 1487.0,
+            "norm": 1546.0,
+            "conf": [
+                -0.86,
+                1.11
+            ],
+            "breakdown": {
+                "total_points": 29.27,
+                "auto_points": 3.17,
+                "teleop_points": 19.41,
+                "endgame_points": 6.68,
+                "auto_rp": -0.0156,
+                "coral_rp": -0.0014,
+                "barge_rp": 0.5124,
+                "tiebreaker_points": 0.12,
+                "auto_leave_points": 2.65,
+                "auto_coral": 0.09,
+                "auto_coral_points": 0.52,
+                "teleop_coral": 4.31,
+                "teleop_coral_points": 17.48,
+                "coral_l1": 0.47,
+                "coral_l2": 0.9,
+                "coral_l3": 0.88,
+                "coral_l4": 2.13,
+                "total_coral_points": 18.01,
+                "processor_algae": 0.76,
+                "processor_algae_points": 2.27,
+                "net_algae": -0.09,
+                "net_algae_points": -0.34,
+                "total_algae_points": 1.92,
+                "total_game_pieces": 5.06,
+                "barge_points": 6.68,
+                "rp_1": -0.0156,
+                "rp_2": -0.0014,
+                "rp_3": 0.5124
+            },
+            "stats": {
+                "start": 29.18,
+                "pre_elim": 26.46,
+                "mean": 26.77,
+                "max": 29.35
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.75,
+                "rps": 41,
+                "rps_per_match": 3.4167,
+                "rank": 8,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 1,
+                "losses": 2,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.3333333333333333,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 10,
+                "losses": 5,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.6667
+            }
+        },
+        "district_points": 18
+    },
+    {
+        "team": 8769,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "G.O.R.T.s",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 12.22,
+                "sd": 4.43
+            },
+            "unitless": 1383.0,
+            "norm": 1383.0,
+            "conf": [
+                -0.97,
+                1.01
+            ],
+            "breakdown": {
+                "total_points": 12.22,
+                "auto_points": 2.93,
+                "teleop_points": 8.17,
+                "endgame_points": 1.12,
+                "auto_rp": -0.0666,
+                "coral_rp": -0.0972,
+                "barge_rp": -0.0666,
+                "tiebreaker_points": -0.07,
+                "auto_leave_points": 3.13,
+                "auto_coral": -0.02,
+                "auto_coral_points": -0.2,
+                "teleop_coral": 3.05,
+                "teleop_coral_points": 8.95,
+                "coral_l1": 0.69,
+                "coral_l2": 1.8,
+                "coral_l3": 0.68,
+                "coral_l4": -0.2,
+                "total_coral_points": 8.75,
+                "processor_algae": 0.03,
+                "processor_algae_points": 0.1,
+                "net_algae": -0.22,
+                "net_algae_points": -0.89,
+                "total_algae_points": -0.78,
+                "total_game_pieces": 2.79,
+                "barge_points": 1.12,
+                "rp_1": -0.0666,
+                "rp_2": -0.0972,
+                "rp_3": -0.0666
+            },
+            "stats": {
+                "start": 20.56,
+                "pre_elim": 10.11,
+                "mean": 11.39,
+                "max": 20.56
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 2,
+                "losses": 10,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.1667,
+                "rps": 9,
+                "rps_per_match": 0.75,
+                "rank": 41,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 2,
+                "losses": 1,
+                "ties": 0,
+                "count": 3,
+                "winrate": 0.6666666666666666,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 11,
+                "ties": 0,
+                "count": 15,
+                "winrate": 0.2667
+            }
+        },
+        "district_points": 7
+    },
+    {
+        "team": 8858,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Beast from the East",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 21.08,
+                "sd": 5.63
+            },
+            "unitless": 1437.0,
+            "norm": 1465.0,
+            "conf": [
+                -1.0,
+                0.99
+            ],
+            "breakdown": {
+                "total_points": 21.08,
+                "auto_points": 2.28,
+                "teleop_points": 16.36,
+                "endgame_points": 2.45,
+                "auto_rp": -0.0217,
+                "coral_rp": -0.0864,
+                "barge_rp": 0.1851,
+                "tiebreaker_points": 0.14,
+                "auto_leave_points": 2.67,
+                "auto_coral": -0.09,
+                "auto_coral_points": -0.39,
+                "teleop_coral": 1.88,
+                "teleop_coral_points": 9.76,
+                "coral_l1": -0.4,
+                "coral_l2": 0.14,
+                "coral_l3": 0.51,
+                "coral_l4": 1.58,
+                "total_coral_points": 9.37,
+                "processor_algae": 1.63,
+                "processor_algae_points": 4.88,
+                "net_algae": 0.43,
+                "net_algae_points": 1.73,
+                "total_algae_points": 6.6,
+                "total_game_pieces": 3.89,
+                "barge_points": 2.45,
+                "rp_1": -0.0217,
+                "rp_2": -0.0864,
+                "rp_3": 0.1851
+            },
+            "stats": {
+                "start": 31.07,
+                "pre_elim": 20.44,
+                "mean": 20.12,
+                "max": 31.07
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 22,
+                "rps_per_match": 1.8333,
+                "rank": 28,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 2,
+                "ties": 0,
+                "count": 2,
+                "winrate": 0.0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 9,
+                "ties": 0,
+                "count": 14,
+                "winrate": 0.3571
+            }
+        },
+        "district_points": 10
+    },
+    {
+        "team": 9054,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Johnson City Joules",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 16.73,
+                "sd": 4.44
+            },
+            "unitless": 1411.0,
+            "norm": 1421.0,
+            "conf": [
+                -0.85,
+                1.17
+            ],
+            "breakdown": {
+                "total_points": 16.73,
+                "auto_points": 4.09,
+                "teleop_points": 10.52,
+                "endgame_points": 2.11,
+                "auto_rp": 0.0558,
+                "coral_rp": -0.0937,
+                "barge_rp": 0.1478,
+                "tiebreaker_points": -0.06,
+                "auto_leave_points": 1.82,
+                "auto_coral": 0.32,
+                "auto_coral_points": 2.26,
+                "teleop_coral": 2.76,
+                "teleop_coral_points": 11.6,
+                "coral_l1": -0.12,
+                "coral_l2": 0.97,
+                "coral_l3": 0.64,
+                "coral_l4": 1.6,
+                "total_coral_points": 13.86,
+                "processor_algae": 0.16,
+                "processor_algae_points": 0.49,
+                "net_algae": -0.39,
+                "net_algae_points": -1.57,
+                "total_algae_points": -1.07,
+                "total_game_pieces": 2.86,
+                "barge_points": 2.11,
+                "rp_1": 0.0558,
+                "rp_2": -0.0937,
+                "rp_3": 0.1478
+            },
+            "stats": {
+                "start": 26.98,
+                "pre_elim": 15.52,
+                "mean": 15.65,
+                "max": 26.98
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167,
+                "rps": 23,
+                "rps_per_match": 1.9167,
+                "rank": 26,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.4167
+            }
+        },
+        "district_points": 13
+    },
+    {
+        "team": 9444,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Perseverance",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 6.06,
+                "sd": 5.56
+            },
+            "unitless": 1346.0,
+            "norm": 1316.0,
+            "conf": [
+                -0.87,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 6.06,
+                "auto_points": 1.69,
+                "teleop_points": 5.03,
+                "endgame_points": -0.67,
+                "auto_rp": -0.0988,
+                "coral_rp": -0.1091,
+                "barge_rp": 0.0358,
+                "tiebreaker_points": -0.03,
+                "auto_leave_points": 1.7,
+                "auto_coral": 0.03,
+                "auto_coral_points": -0.0,
+                "teleop_coral": 1.01,
+                "teleop_coral_points": 5.3,
+                "coral_l1": -0.04,
+                "coral_l2": 0.02,
+                "coral_l3": 0.0,
+                "coral_l4": 1.07,
+                "total_coral_points": 5.3,
+                "processor_algae": 0.01,
+                "processor_algae_points": 0.04,
+                "net_algae": -0.08,
+                "net_algae_points": -0.31,
+                "total_algae_points": -0.27,
+                "total_game_pieces": 0.99,
+                "barge_points": -0.67,
+                "rp_1": -0.0988,
+                "rp_2": -0.1091,
+                "rp_3": 0.0358
+            },
+            "stats": {
+                "start": 16.45,
+                "pre_elim": 3.91,
+                "mean": 8.74,
+                "max": 17.92
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 17,
+                "rps_per_match": 1.4167,
+                "rank": 37,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333
+            }
+        },
+        "district_points": 11
+    },
+    {
+        "team": 9577,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "Recoil",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 12.57,
+                "sd": 5.07
+            },
+            "unitless": 1386.0,
+            "norm": 1378.0,
+            "conf": [
+                -0.88,
+                1.15
+            ],
+            "breakdown": {
+                "total_points": 12.57,
+                "auto_points": 3.86,
+                "teleop_points": 6.18,
+                "endgame_points": 2.54,
+                "auto_rp": 0.1735,
+                "coral_rp": -0.1075,
+                "barge_rp": 0.0203,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 2.28,
+                "auto_coral": 0.21,
+                "auto_coral_points": 1.58,
+                "teleop_coral": 0.95,
+                "teleop_coral_points": 3.83,
+                "coral_l1": 0.21,
+                "coral_l2": 0.18,
+                "coral_l3": -0.01,
+                "coral_l4": 0.83,
+                "total_coral_points": 5.4,
+                "processor_algae": 0.84,
+                "processor_algae_points": 2.51,
+                "net_algae": -0.04,
+                "net_algae_points": -0.16,
+                "total_algae_points": 2.35,
+                "total_game_pieces": 2.01,
+                "barge_points": 2.54,
+                "rp_1": 0.1735,
+                "rp_2": -0.1075,
+                "rp_3": 0.0203
+            },
+            "stats": {
+                "start": 17.83,
+                "pre_elim": 12.49,
+                "mean": 9.12,
+                "max": 17.83
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5,
+                "rps": 28,
+                "rps_per_match": 2.3333,
+                "rank": 19,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.5
+            }
+        },
+        "district_points": 12
+    },
+    {
+        "team": 9786,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "MHS Wolfpack",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 6.67,
+                "sd": 3.73
+            },
+            "unitless": 1350.0,
+            "norm": 1320.0,
+            "conf": [
+                -1.08,
+                0.96
+            ],
+            "breakdown": {
+                "total_points": 6.67,
+                "auto_points": 1.01,
+                "teleop_points": 4.55,
+                "endgame_points": 1.1,
+                "auto_rp": -0.0726,
+                "coral_rp": -0.115,
+                "barge_rp": -0.058,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 1.69,
+                "auto_coral": -0.14,
+                "auto_coral_points": -0.68,
+                "teleop_coral": 0.54,
+                "teleop_coral_points": 2.11,
+                "coral_l1": 0.43,
+                "coral_l2": 0.12,
+                "coral_l3": -1.0,
+                "coral_l4": 0.91,
+                "total_coral_points": 1.43,
+                "processor_algae": 0.62,
+                "processor_algae_points": 1.87,
+                "net_algae": 0.14,
+                "net_algae_points": 0.57,
+                "total_algae_points": 2.44,
+                "total_game_pieces": 1.23,
+                "barge_points": 1.11,
+                "rp_1": -0.0726,
+                "rp_2": -0.115,
+                "rp_3": -0.058
+            },
+            "stats": {
+                "start": 15.0,
+                "pre_elim": 5.82,
+                "mean": 8.05,
+                "max": 15.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 2,
+                "losses": 10,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.1667,
+                "rps": 11,
+                "rps_per_match": 0.9167,
+                "rank": 40,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 2,
+                "losses": 10,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.1667
+            }
+        },
+        "district_points": 7
+    },
+    {
+        "team": 10062,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "ATEMS Robotics",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 8.92,
+                "sd": 7.01
+            },
+            "unitless": 1363.0,
+            "norm": 1342.0,
+            "conf": [
+                -0.7,
+                1.23
+            ],
+            "breakdown": {
+                "total_points": 8.92,
+                "auto_points": 2.15,
+                "teleop_points": 5.43,
+                "endgame_points": 1.34,
+                "auto_rp": 0.0836,
+                "coral_rp": -0.1121,
+                "barge_rp": 0.1079,
+                "tiebreaker_points": -0.06,
+                "auto_leave_points": 2.55,
+                "auto_coral": -0.1,
+                "auto_coral_points": -0.4,
+                "teleop_coral": 1.14,
+                "teleop_coral_points": 4.19,
+                "coral_l1": 0.56,
+                "coral_l2": 0.04,
+                "coral_l3": -0.32,
+                "coral_l4": 0.83,
+                "total_coral_points": 3.79,
+                "processor_algae": 0.17,
+                "processor_algae_points": 0.51,
+                "net_algae": 0.18,
+                "net_algae_points": 0.73,
+                "total_algae_points": 1.24,
+                "total_game_pieces": 1.47,
+                "barge_points": 1.34,
+                "rp_1": 0.0836,
+                "rp_2": -0.1121,
+                "rp_3": 0.1079
+            },
+            "stats": {
+                "start": 21.13,
+                "pre_elim": 5.78,
+                "mean": 8.89,
+                "max": 21.13
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333,
+                "rps": 21,
+                "rps_per_match": 1.75,
+                "rank": 31,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.3333
+            }
+        },
+        "district_points": 12
+    },
+    {
+        "team": 10312,
+        "year": 2025,
+        "event": "2025txwac",
+        "time": 1740614400,
+        "team_name": "ByteForce",
+        "event_name": "FIT District Waco Event",
+        "country": "USA",
+        "state": "TX",
+        "district": "fit",
+        "type": "district",
+        "week": 1,
+        "status": "Ongoing",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 10.41,
+                "sd": 4.06
+            },
+            "unitless": 1372.0,
+            "norm": 1358.0,
+            "conf": [
+                -1.1,
+                0.94
+            ],
+            "breakdown": {
+                "total_points": 10.41,
+                "auto_points": 3.2,
+                "teleop_points": 4.89,
+                "endgame_points": 2.32,
+                "auto_rp": 0.1375,
+                "coral_rp": -0.1026,
+                "barge_rp": 0.1069,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.92,
+                "auto_coral": 0.1,
+                "auto_coral_points": 0.28,
+                "teleop_coral": 1.36,
+                "teleop_coral_points": 4.76,
+                "coral_l1": 0.06,
+                "coral_l2": 1.08,
+                "coral_l3": -0.35,
+                "coral_l4": 0.54,
+                "total_coral_points": 5.04,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.67,
+                "net_algae": -0.13,
+                "net_algae_points": -0.54,
+                "total_algae_points": 0.14,
+                "total_game_pieces": 1.42,
+                "barge_points": 2.32,
+                "rp_1": 0.1375,
+                "rp_2": -0.1026,
+                "rp_3": 0.1069
+            },
+            "stats": {
+                "start": 21.13,
+                "pre_elim": 11.57,
+                "mean": 13.91,
+                "max": 21.13
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25,
+                "rps": 19,
+                "rps_per_match": 1.5833,
+                "rank": 34,
+                "num_teams": 41
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 3,
+                "losses": 9,
+                "ties": 0,
+                "count": 12,
+                "winrate": 0.25
+            }
+        },
+        "district_points": 8
+    }
+]

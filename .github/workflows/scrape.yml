@@ -1,0 +1,24 @@
+name: Scrape Data
+on:
+    workflow_dispatch:
+jobs:
+    scrape:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-python@v5
+            - name: Install Dependencies
+              run: |
+                pip install -r requirements.txt
+                pip install -r requirements-dev.txt
+            - name: Scrape Scouting Data
+              run: python download_external_data.py
+              env:
+                TBA_API_KEY: ${{ secrets.TBA_API_KEY }}
+            - name: Commit changes
+              if: ${{ success() }}
+              uses: EndBug/add-and-commit@v9
+              with:
+                  message: "Scrape Scouting Data"
+                  default_author: github_actor
+                  new_branch: test_branch

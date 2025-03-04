@@ -1,13 +1,18 @@
-from functools import partial
 from shiny import App, ui, render
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
+import pathlib
+
 
 # read in data
-df = pd.read_csv("frc_mock_data_updated.csv")
+USE_LOCAL_VERSION = True
+EVENT_KEY = "2025txwac"
+script_directory = pathlib.Path(__file__).resolve().parent
+data_file = f"data/{EVENT_KEY}/match_scouting.csv"
+print(f"Loading local data from: {data_file}")
+df = pd.read_csv(data_file)
 
 # add new columns
 df["totalTeleopCoral"] = df["teleopCoralL1"] + df["teleopCoralL2"] + df["teleopCoralL3"] + df["teleopCoralL4"]
@@ -34,8 +39,8 @@ df["totalPointsScored"] = df["totalTeleopPoints"] + df["totalAutoPoints"] + df["
 df["team_key"] = df["team_key"].str[3:]
 
 # upcoming alliance lineup
-red_teams = ["2172", "291", "3504"]
-blue_teams = ["3260", "117", "4467"]
+red_teams = ["8408", "2881", "2689"]
+blue_teams = ["8507", "2950", "148"]
 all_teams = red_teams + blue_teams
 
 # filter df by team_key
