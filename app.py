@@ -5,13 +5,14 @@ import plotly.graph_objects as go
 import numpy as np
 import pathlib
 import json
+import collections
 
 from utils import statbotics_utils, tba_utils
 
 # read in data
 USE_LOCAL_VERSION = True
-EVENT_KEY = "2025txwac"
-OUR_TEAM_NUMBER = 148
+EVENT_KEY = "2025nysu"
+OUR_TEAM_NUMBER = 4467
 
 if USE_LOCAL_VERSION:
     script_directory = pathlib.Path(__file__).resolve().parent
@@ -36,8 +37,6 @@ else:
     matches_df = tba_utils.event_matches_json_to_dataframe(tba_matches_json)
     statbotics_df = statbotics_utils.statbotics_matches_json_to_dataframe(statbotics_matches_json)
 
-print(matches_df.columns.tolist())
-
 # add new columns
 df["totalTeleopCoral"] = df["teleopCoralL1"] + df["teleopCoralL2"] + df["teleopCoralL3"] + df["teleopCoralL4"]
 df["totalAutoCoral"] = df["autoCoralL1"] + df["autoCoralL2"] + df["autoCoralL3"] + df["autoCoralL4"]
@@ -61,6 +60,18 @@ df["totalPointsScored"] = df["totalTeleopPoints"] + df["totalAutoPoints"] + df["
 
 # update team name
 df["team_key"] = df["team_key"].str[3:]
+
+
+
+def create_mock_data_for_missing_teams(teams_with_no_data):
+    data = collections.defaultdict(list)
+
+    for team in teams_with_no_data:
+        for key in df.columns:
+            data[key].append(0)
+        data["team_key"][-1] = team
+        data["bargeStatus"][-1] = "Not Parked"
+    return pd.DataFrame(data)
 
 # Define the UI
 app_ui = ui.page_navbar(
@@ -148,8 +159,16 @@ def server(input, output, session):
 
         # filter df by team_key
         new_df = df.loc[df["team_key"].isin(all_teams)]
+        teams_with_no_data = set(all_teams).difference(set(new_df["team_key"]))
+        if teams_with_no_data:
+            ui.notification_show(
+                f"This match contains teams that have no scouting data",
+                type="warning",
+                duration=None,
+            )
+            new_df = pd.concat([new_df, create_mock_data_for_missing_teams(teams_with_no_data)])
         new_df["colorGroup"] = new_df["team_key"].apply(lambda x: "Red" if x in red_teams else "Blue")
-
+        
         # averages df
         averages_by_team = new_df.groupby("team_key").mean(numeric_only=True).reset_index()
         averages_by_team_all = df.groupby("team_key").mean(numeric_only=True).reset_index()
@@ -192,7 +211,7 @@ def server(input, output, session):
     @render.ui
     def coral_algae_teleop_scatter():
         new_df, color_map, red_teams, blue_teams, all_teams, averages_by_team, averages_by_team_all = get_match_data()
-
+        
         x = averages_by_team["totalTeleopCoral"]
         y = averages_by_team["algaeTeleop"]
         teams = averages_by_team["team_key"]
@@ -494,6 +513,14 @@ def server(input, output, session):
         new_df, color_map, red_teams, blue_teams, all_teams, averages_by_team, averages_by_team_all = get_match_data()
         endgame_df = new_df.groupby('team_key')['bargeStatus'].value_counts().unstack(fill_value=0).reset_index()
         endgame_df = endgame_df.set_index("team_key").loc[all_teams].reset_index()
+        
+        # Populate data if the columns don't exist
+        if 'Parked' not in endgame_df.columns:
+            endgame_df['Parked'] = 0
+        if 'Shallow Cage' not in endgame_df.columns:
+            endgame_df['Shallow Cage'] = 0
+        if 'Deep Cage' not in endgame_df.columns:
+            endgame_df['Deep Cage'] = 0
 
         # Convert "team_key" to string if not already done
         endgame_df["team_key"] = endgame_df["team_key"].astype(str)
@@ -576,7 +603,7 @@ def server(input, output, session):
                 "Match",
                 {
                     str(match_number): str(match_number)
-                    for match_number in match_numbers
+                    for match_number in sorted(match_numbers)
                 },
             ),
         )

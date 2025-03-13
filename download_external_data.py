@@ -23,11 +23,10 @@ def download_external_data(event):
     download_statbotics_event_teams(event, data_directory / "statbotics_teams.json")
     download_tba_event_matches(event, data_directory / "tba_matches.json")
 
-    org_key = "frc8749"
+    org_key = "frc4467"
     download_scout_radioz_match_scouting(org_key, data_directory / "match_scouting.csv")
     download_scout_radioz_pit_scouting(org_key, data_directory / "pit_scouting.csv")
 
 
 if __name__ == "__main__":
-
-    download_external_data("2025txwac")
+    download_external_data("2025nysu")
