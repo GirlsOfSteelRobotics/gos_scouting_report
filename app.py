@@ -7,16 +7,16 @@ import pathlib
 import json
 import collections
 
+from metadata import OUR_TEAM_NUMBER, CURRENT_EVENT
+
 from utils import statbotics_utils, tba_utils
 
 # read in data
 USE_LOCAL_VERSION = True
-EVENT_KEY = "2025paca"
-OUR_TEAM_NUMBER = 3504
 
 if USE_LOCAL_VERSION:
     script_directory = pathlib.Path(__file__).resolve().parent
-    base_data_directory = script_directory / f"data/{EVENT_KEY}"
+    base_data_directory = script_directory / f"data/{CURRENT_EVENT}"
     print(f"Loading local data from: {base_data_directory}")
 
     df = pd.read_csv(base_data_directory / "match_scouting.csv")
@@ -24,7 +24,7 @@ if USE_LOCAL_VERSION:
     statbotics_df = statbotics_utils.load_statbotics_matches(base_data_directory / "statbotics_matches.json")
 else:
     branch_name = "main"
-    base_url = f"https://raw.githubusercontent.com/GirlsOfSteelRobotics/gos_scouting_report/refs/heads/{branch_name}/data/{EVENT_KEY}"
+    base_url = f"https://raw.githubusercontent.com/GirlsOfSteelRobotics/gos_scouting_report/refs/heads/{branch_name}/data/{CURRENT_EVENT}"
     print(f"Loading remote data from {base_url}")
 
     from pyodide.http import open_url
@@ -52,8 +52,10 @@ df["totalAutoPoints"] = df["totalAutoCoralPoints"] + df["totalAutoAlgaePoints"]
 df["algaeTeleop"] = df["teleopAlgaeNet"] + df["teleopAlgaeProc"]
 df["algaeAuto"] = df["autoAlgaeNet"] + df["autoAlgaeProc"]
 
+df["totalPieces"] = df["totalTeleopCoral"] + df["totalAutoCoral"] + df["algaeTeleop"] + df["algaeAuto"] 
+
 position = df["bargeStatus"]
-df["endgamePoints"] = np.where(position == "Parked", 2, np.where(position == "Shallow Cage", 6, np.where(position == "Deep  Cage", 12, 0)))
+df["endgamePoints"] = np.where(position == "Parked", 2, np.where(position == "Shallow Cage", 6, np.where(position == "Deep Cage", 12, 0)))
 
 df["endgamePlusAuto"] = df["totalAutoPoints"] + df["totalEndgamePoints"]
 
@@ -94,27 +96,33 @@ ui.page_sidebar(
         ui.card(
             ui.output_ui("total_points_boxplot")
         ),
-        ui.card(
-            ui.output_ui("avg_coral_red_box")
+        ui.layout_column_wrap(
+            ui.card(
+                ui.output_ui("red_statbotics_prediction")
+            ),
+            ui.card(
+                ui.output_ui("blue_statbotics_prediction")
+            )    
         ),
-        ui.card(
-            ui.output_ui("avg_coral_blue_box")
+        ui.layout_column_wrap(
+            ui.card(
+                ui.output_ui("avg_coral_red_box")
+            ),
+            ui.card(
+                ui.output_ui("avg_coral_blue_box")
+            ),
         ),
-        ui.card(
-            ui.output_ui("avg_endgame_red_box")
-        ),
-        ui.card(
-            ui.output_ui("avg_endgame_blue_box")
+        ui.layout_column_wrap(
+            ui.card(
+                ui.output_ui("avg_endgame_red_box")
+            ),
+            ui.card(
+                ui.output_ui("avg_endgame_blue_box")
+            ),
         ),
         ui.card(
             ui.output_data_frame("statbotics_dataframe")
         ),
-        ui.card(
-            ui.output_ui("red_statbotics_prediction")
-        ),
-        ui.card(
-            ui.output_ui("blue_statbotics_prediction")
-        )           
     ),
     ui.nav_panel(
         "Auto Data",
@@ -156,11 +164,11 @@ ui.page_sidebar(
     ui.nav_panel(
         "Alliance Selection",
         ui.card(
-            ui.output_data_frame("key_stats_dt")
+            ui.output_ui("statbotics_scatter")
         ),
         ui.card(
-            ui.output_ui("statbotics_scatter")
-        )        
+            ui.output_data_frame("key_stats_dt")
+        ),
     ),
 
     ui.nav_panel(
@@ -748,6 +756,7 @@ def server(input, output, session):
             "team_select",  # Assign a unique ID to retrieve the selected value
             "Select a Team",  # Label for dropdown
             choices={team: team for team in sorted(team_numbers, key=lambda x: int(x))},  # Properly map values
+            selected=str(OUR_TEAM_NUMBER),
         )
     
     @reactive.calc
@@ -803,12 +812,25 @@ def server(input, output, session):
         y = averages_by_team_all["totalTeleopPoints"]
 
         # Create the plot
-        fig = px.scatter(x=x, y=y, text=teams, labels={'x': "auto + endgame", 'y': "teleop"},
-                        title="Auto & Endgame vs Teleop")
+        fig = px.scatter(averages_by_team_all, x="endgamePlusAuto", y="totalTeleopPoints", text=teams, 
+                         title="Auto & Endgame vs Teleop", color="totalPieces", hover_name="team_key", hover_data={
+                            "team_key": "",
+                            "totalPieces":":.2f", 
+
+                            "totalAutoPoints":":.2f", 
+                            "totalAutoCoral":":.2f",
+                            "algaeAuto":":.2f",
+
+                            "totalTeleopPoints":":.2f", 
+                            "totalTeleopCoral":":.2f",
+                            "algaeTeleop":":.2f",
+                            
+                            "endgamePoints":":.2f",
+                            "endgamePlusAuto":":.2f",
+                        })
 
         # Add custom color for each point based on the team_key
-        colors = [color_picker(team) for team in teams]  # Apply color_picker correctly
-        fig.update_traces(marker=dict(color=colors,
+        fig.update_traces(marker=dict(
                                     symbol='circle', size=10),
                         textposition="middle left")
         

@@ -1,0 +1,4373 @@
+[
+    {
+        "team": 21,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "ComBBAT",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 30.14,
+                "sd": 2.69
+            },
+            "unitless": 1517.0,
+            "norm": 1531.0,
+            "conf": [
+                -1.02,
+                1.04
+            ],
+            "breakdown": {
+                "total_points": 30.14,
+                "auto_points": 5.83,
+                "teleop_points": 18.12,
+                "endgame_points": 6.19,
+                "auto_rp": 0.2683,
+                "coral_rp": -0.0449,
+                "barge_rp": 0.3175,
+                "tiebreaker_points": 0.07,
+                "auto_leave_points": 2.89,
+                "auto_coral": 0.41,
+                "auto_coral_points": 2.94,
+                "teleop_coral": 3.32,
+                "teleop_coral_points": 14.81,
+                "coral_l1": 0.36,
+                "coral_l2": 0.18,
+                "coral_l3": 0.3,
+                "coral_l4": 2.89,
+                "total_coral_points": 17.76,
+                "processor_algae": 0.65,
+                "processor_algae_points": 1.94,
+                "net_algae": 0.34,
+                "net_algae_points": 1.36,
+                "total_algae_points": 3.31,
+                "total_game_pieces": 4.71,
+                "barge_points": 6.19,
+                "rp_1": 0.2683,
+                "rp_2": -0.0449,
+                "rp_3": 0.3175
+            },
+            "stats": {
+                "start": 30.14,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 233,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "The Pink Team",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 55.74,
+                "sd": 6.35
+            },
+            "unitless": 1691.0,
+            "norm": 1665.0,
+            "conf": [
+                -0.78,
+                1.0
+            ],
+            "breakdown": {
+                "total_points": 55.74,
+                "auto_points": 8.64,
+                "teleop_points": 44.12,
+                "endgame_points": 2.99,
+                "auto_rp": 0.3456,
+                "coral_rp": 0.4916,
+                "barge_rp": 0.2076,
+                "tiebreaker_points": 0.26,
+                "auto_leave_points": 2.96,
+                "auto_coral": 0.82,
+                "auto_coral_points": 5.68,
+                "teleop_coral": 9.55,
+                "teleop_coral_points": 40.09,
+                "coral_l1": 0.63,
+                "coral_l2": 1.42,
+                "coral_l3": 2.96,
+                "coral_l4": 5.35,
+                "total_coral_points": 45.78,
+                "processor_algae": 0.32,
+                "processor_algae_points": 0.95,
+                "net_algae": 0.77,
+                "net_algae_points": 3.08,
+                "total_algae_points": 4.02,
+                "total_game_pieces": 11.44,
+                "barge_points": 2.99,
+                "rp_1": 0.3456,
+                "rp_2": 0.4916,
+                "rp_3": 0.2076
+            },
+            "stats": {
+                "start": 55.74,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 538,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Renaissance Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 16.79,
+                "sd": 5.41
+            },
+            "unitless": 1426.0,
+            "norm": 1449.0,
+            "conf": [
+                -1.14,
+                0.96
+            ],
+            "breakdown": {
+                "total_points": 16.79,
+                "auto_points": 4.56,
+                "teleop_points": 9.65,
+                "endgame_points": 2.58,
+                "auto_rp": 0.1106,
+                "coral_rp": -0.1406,
+                "barge_rp": 0.102,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 2.41,
+                "auto_coral": 0.39,
+                "auto_coral_points": 2.15,
+                "teleop_coral": 2.11,
+                "teleop_coral_points": 9.29,
+                "coral_l1": 0.27,
+                "coral_l2": 0.32,
+                "coral_l3": 0.19,
+                "coral_l4": 1.71,
+                "total_coral_points": 11.44,
+                "processor_algae": 0.12,
+                "processor_algae_points": 0.36,
+                "net_algae": -0.0,
+                "net_algae_points": -0.0,
+                "total_algae_points": 0.36,
+                "total_game_pieces": 2.62,
+                "barge_points": 2.58,
+                "rp_1": 0.1106,
+                "rp_2": -0.1406,
+                "rp_3": 0.102
+            },
+            "stats": {
+                "start": 16.79,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 801,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Horsepower",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 42.28,
+                "sd": 6.47
+            },
+            "unitless": 1599.0,
+            "norm": 1593.0,
+            "conf": [
+                -0.94,
+                1.14
+            ],
+            "breakdown": {
+                "total_points": 42.28,
+                "auto_points": 12.19,
+                "teleop_points": 28.96,
+                "endgame_points": 1.13,
+                "auto_rp": 0.5101,
+                "coral_rp": 0.0438,
+                "barge_rp": -0.0106,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 3.58,
+                "auto_coral": 1.23,
+                "auto_coral_points": 8.61,
+                "teleop_coral": 6.2,
+                "teleop_coral_points": 24.76,
+                "coral_l1": 0.51,
+                "coral_l2": 1.17,
+                "coral_l3": 2.37,
+                "coral_l4": 3.34,
+                "total_coral_points": 33.37,
+                "processor_algae": 0.9,
+                "processor_algae_points": 2.71,
+                "net_algae": 0.37,
+                "net_algae_points": 1.49,
+                "total_algae_points": 4.2,
+                "total_game_pieces": 8.67,
+                "barge_points": 1.13,
+                "rp_1": 0.5101,
+                "rp_2": 0.0438,
+                "rp_3": -0.0106
+            },
+            "stats": {
+                "start": 42.28,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1014,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Bad Robots",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 20.55,
+                "sd": 6.94
+            },
+            "unitless": 1452.0,
+            "norm": 1476.0,
+            "conf": [
+                -0.87,
+                1.26
+            ],
+            "breakdown": {
+                "total_points": 20.55,
+                "auto_points": 4.7,
+                "teleop_points": 13.67,
+                "endgame_points": 2.18,
+                "auto_rp": 0.0764,
+                "coral_rp": -0.0867,
+                "barge_rp": 0.0761,
+                "tiebreaker_points": 0.18,
+                "auto_leave_points": 3.07,
+                "auto_coral": 0.27,
+                "auto_coral_points": 1.63,
+                "teleop_coral": 2.18,
+                "teleop_coral_points": 8.95,
+                "coral_l1": 0.24,
+                "coral_l2": 0.23,
+                "coral_l3": 0.96,
+                "coral_l4": 1.02,
+                "total_coral_points": 10.58,
+                "processor_algae": 1.31,
+                "processor_algae_points": 3.92,
+                "net_algae": 0.2,
+                "net_algae_points": 0.8,
+                "total_algae_points": 4.72,
+                "total_game_pieces": 3.96,
+                "barge_points": 2.18,
+                "rp_1": 0.0764,
+                "rp_2": -0.0867,
+                "rp_3": 0.0761
+            },
+            "stats": {
+                "start": 20.55,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1466,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Webb Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 26.17,
+                "sd": 3.74
+            },
+            "unitless": 1490.0,
+            "norm": 1510.0,
+            "conf": [
+                -1.01,
+                1.1
+            ],
+            "breakdown": {
+                "total_points": 26.17,
+                "auto_points": 4.89,
+                "teleop_points": 20.95,
+                "endgame_points": 0.34,
+                "auto_rp": 0.2393,
+                "coral_rp": 0.0361,
+                "barge_rp": -0.0352,
+                "tiebreaker_points": 0.09,
+                "auto_leave_points": 2.77,
+                "auto_coral": 0.53,
+                "auto_coral_points": 2.11,
+                "teleop_coral": 5.11,
+                "teleop_coral_points": 18.88,
+                "coral_l1": 0.72,
+                "coral_l2": 1.95,
+                "coral_l3": 1.72,
+                "coral_l4": 1.26,
+                "total_coral_points": 20.99,
+                "processor_algae": 0.69,
+                "processor_algae_points": 2.08,
+                "net_algae": -0.0,
+                "net_algae_points": -0.01,
+                "total_algae_points": 2.07,
+                "total_game_pieces": 6.33,
+                "barge_points": 0.34,
+                "rp_1": 0.2393,
+                "rp_2": 0.0361,
+                "rp_3": -0.0352
+            },
+            "stats": {
+                "start": 26.17,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1592,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Bionic Tigers",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 43.81,
+                "sd": 6.1
+            },
+            "unitless": 1610.0,
+            "norm": 1601.0,
+            "conf": [
+                -0.81,
+                1.26
+            ],
+            "breakdown": {
+                "total_points": 43.81,
+                "auto_points": 5.33,
+                "teleop_points": 28.95,
+                "endgame_points": 9.53,
+                "auto_rp": 0.1818,
+                "coral_rp": -0.0641,
+                "barge_rp": 0.4124,
+                "tiebreaker_points": 0.19,
+                "auto_leave_points": 3.11,
+                "auto_coral": 0.42,
+                "auto_coral_points": 2.22,
+                "teleop_coral": 4.66,
+                "teleop_coral_points": 19.44,
+                "coral_l1": 0.73,
+                "coral_l2": 0.43,
+                "coral_l3": 1.33,
+                "coral_l4": 2.6,
+                "total_coral_points": 21.66,
+                "processor_algae": 1.58,
+                "processor_algae_points": 4.73,
+                "net_algae": 1.2,
+                "net_algae_points": 4.78,
+                "total_algae_points": 9.51,
+                "total_game_pieces": 7.87,
+                "barge_points": 9.53,
+                "rp_1": 0.1818,
+                "rp_2": -0.0641,
+                "rp_3": 0.4124
+            },
+            "stats": {
+                "start": 43.81,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1708,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "AMP'D Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 38.73,
+                "sd": 3.19
+            },
+            "unitless": 1575.0,
+            "norm": 1575.0,
+            "conf": [
+                -0.97,
+                1.17
+            ],
+            "breakdown": {
+                "total_points": 38.73,
+                "auto_points": 5.08,
+                "teleop_points": 32.1,
+                "endgame_points": 1.55,
+                "auto_rp": 0.2431,
+                "coral_rp": -0.0306,
+                "barge_rp": 0.0122,
+                "tiebreaker_points": 0.16,
+                "auto_leave_points": 2.99,
+                "auto_coral": 0.28,
+                "auto_coral_points": 2.09,
+                "teleop_coral": 6.84,
+                "teleop_coral_points": 29.42,
+                "coral_l1": 0.57,
+                "coral_l2": 0.86,
+                "coral_l3": 1.29,
+                "coral_l4": 4.4,
+                "total_coral_points": 31.51,
+                "processor_algae": 0.23,
+                "processor_algae_points": 0.69,
+                "net_algae": 0.5,
+                "net_algae_points": 1.99,
+                "total_algae_points": 2.68,
+                "total_game_pieces": 7.84,
+                "barge_points": 1.55,
+                "rp_1": 0.2431,
+                "rp_2": -0.0306,
+                "rp_3": 0.0122
+            },
+            "stats": {
+                "start": 38.73,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2393,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Robotichauns",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 24.26,
+                "sd": 3.5
+            },
+            "unitless": 1477.0,
+            "norm": 1499.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 24.26,
+                "auto_points": 4.96,
+                "teleop_points": 16.49,
+                "endgame_points": 2.8,
+                "auto_rp": 0.1302,
+                "coral_rp": -0.0795,
+                "barge_rp": 0.0991,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.54,
+                "auto_coral": 0.41,
+                "auto_coral_points": 2.43,
+                "teleop_coral": 3.55,
+                "teleop_coral_points": 14.03,
+                "coral_l1": 0.7,
+                "coral_l2": 0.53,
+                "coral_l3": 0.91,
+                "coral_l4": 1.82,
+                "total_coral_points": 16.45,
+                "processor_algae": 0.3,
+                "processor_algae_points": 0.9,
+                "net_algae": 0.39,
+                "net_algae_points": 1.56,
+                "total_algae_points": 2.46,
+                "total_game_pieces": 4.65,
+                "barge_points": 2.8,
+                "rp_1": 0.1302,
+                "rp_2": -0.0795,
+                "rp_3": 0.0991
+            },
+            "stats": {
+                "start": 24.26,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2614,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Mountaineer Area RoboticS (MARS)",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 44.7,
+                "sd": 4.87
+            },
+            "unitless": 1616.0,
+            "norm": 1605.0,
+            "conf": [
+                -1.04,
+                1.15
+            ],
+            "breakdown": {
+                "total_points": 44.7,
+                "auto_points": 11.0,
+                "teleop_points": 28.87,
+                "endgame_points": 4.83,
+                "auto_rp": 0.2681,
+                "coral_rp": -0.0276,
+                "barge_rp": 0.3156,
+                "tiebreaker_points": 0.17,
+                "auto_leave_points": 3.08,
+                "auto_coral": 1.15,
+                "auto_coral_points": 7.92,
+                "teleop_coral": 6.0,
+                "teleop_coral_points": 25.77,
+                "coral_l1": 0.14,
+                "coral_l2": 1.01,
+                "coral_l3": 1.91,
+                "coral_l4": 4.1,
+                "total_coral_points": 33.69,
+                "processor_algae": 0.8,
+                "processor_algae_points": 2.4,
+                "net_algae": 0.18,
+                "net_algae_points": 0.7,
+                "total_algae_points": 3.1,
+                "total_game_pieces": 8.14,
+                "barge_points": 4.83,
+                "rp_1": 0.2681,
+                "rp_2": -0.0276,
+                "rp_3": 0.3156
+            },
+            "stats": {
+                "start": 44.7,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2856,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Planetary Drive",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 18.74,
+                "sd": 3.5
+            },
+            "unitless": 1439.0,
+            "norm": 1464.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 18.74,
+                "auto_points": 3.83,
+                "teleop_points": 12.74,
+                "endgame_points": 2.16,
+                "auto_rp": 0.1005,
+                "coral_rp": -0.0831,
+                "barge_rp": 0.0759,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.96,
+                "auto_coral": 0.32,
+                "auto_coral_points": 1.87,
+                "teleop_coral": 2.74,
+                "teleop_coral_points": 10.84,
+                "coral_l1": 0.54,
+                "coral_l2": 0.41,
+                "coral_l3": 0.7,
+                "coral_l4": 1.4,
+                "total_coral_points": 12.71,
+                "processor_algae": 0.23,
+                "processor_algae_points": 0.69,
+                "net_algae": 0.3,
+                "net_algae_points": 1.21,
+                "total_algae_points": 1.9,
+                "total_game_pieces": 3.6,
+                "barge_points": 2.16,
+                "rp_1": 0.1005,
+                "rp_2": -0.0831,
+                "rp_3": 0.0759
+            },
+            "stats": {
+                "start": 18.74,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3139,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Oxford Omega",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 13.09,
+                "sd": 6.49
+            },
+            "unitless": 1401.0,
+            "norm": 1419.0,
+            "conf": [
+                -1.08,
+                1.08
+            ],
+            "breakdown": {
+                "total_points": 13.09,
+                "auto_points": 3.74,
+                "teleop_points": 6.2,
+                "endgame_points": 3.15,
+                "auto_rp": 0.1942,
+                "coral_rp": -0.1537,
+                "barge_rp": 0.1879,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 3.2,
+                "auto_coral": 0.16,
+                "auto_coral_points": 0.53,
+                "teleop_coral": 2.01,
+                "teleop_coral_points": 6.5,
+                "coral_l1": 1.24,
+                "coral_l2": -0.15,
+                "coral_l3": 0.53,
+                "coral_l4": 0.55,
+                "total_coral_points": 7.04,
+                "processor_algae": -0.12,
+                "processor_algae_points": -0.37,
+                "net_algae": 0.02,
+                "net_algae_points": 0.07,
+                "total_algae_points": -0.3,
+                "total_game_pieces": 2.07,
+                "barge_points": 3.15,
+                "rp_1": 0.1942,
+                "rp_2": -0.1537,
+                "rp_3": 0.1879
+            },
+            "stats": {
+                "start": 13.09,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3140,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Flagship",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 26.54,
+                "sd": 4.7
+            },
+            "unitless": 1492.0,
+            "norm": 1512.0,
+            "conf": [
+                -0.93,
+                1.14
+            ],
+            "breakdown": {
+                "total_points": 26.54,
+                "auto_points": 2.27,
+                "teleop_points": 22.8,
+                "endgame_points": 1.47,
+                "auto_rp": 0.0229,
+                "coral_rp": -0.1223,
+                "barge_rp": 0.0544,
+                "tiebreaker_points": -0.04,
+                "auto_leave_points": 2.51,
+                "auto_coral": -0.05,
+                "auto_coral_points": -0.24,
+                "teleop_coral": 4.41,
+                "teleop_coral_points": 20.8,
+                "coral_l1": 0.21,
+                "coral_l2": 0.16,
+                "coral_l3": 0.19,
+                "coral_l4": 3.8,
+                "total_coral_points": 20.56,
+                "processor_algae": -0.01,
+                "processor_algae_points": -0.03,
+                "net_algae": 0.51,
+                "net_algae_points": 2.03,
+                "total_algae_points": 2.0,
+                "total_game_pieces": 4.86,
+                "barge_points": 1.47,
+                "rp_1": 0.0229,
+                "rp_2": -0.1223,
+                "rp_3": 0.0544
+            },
+            "stats": {
+                "start": 26.54,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3324,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "The Metrobots",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 19.86,
+                "sd": 6.85
+            },
+            "unitless": 1447.0,
+            "norm": 1471.0,
+            "conf": [
+                -1.2,
+                0.97
+            ],
+            "breakdown": {
+                "total_points": 19.86,
+                "auto_points": 4.22,
+                "teleop_points": 14.73,
+                "endgame_points": 0.91,
+                "auto_rp": 0.1573,
+                "coral_rp": -0.1516,
+                "barge_rp": 0.0659,
+                "tiebreaker_points": 0.16,
+                "auto_leave_points": 2.36,
+                "auto_coral": 0.4,
+                "auto_coral_points": 1.86,
+                "teleop_coral": 4.23,
+                "teleop_coral_points": 16.5,
+                "coral_l1": 1.02,
+                "coral_l2": 0.22,
+                "coral_l3": 1.83,
+                "coral_l4": 1.56,
+                "total_coral_points": 18.36,
+                "processor_algae": -0.03,
+                "processor_algae_points": -0.09,
+                "net_algae": -0.42,
+                "net_algae_points": -1.68,
+                "total_algae_points": -1.77,
+                "total_game_pieces": 4.18,
+                "barge_points": 0.91,
+                "rp_1": 0.1573,
+                "rp_2": -0.1516,
+                "rp_3": 0.0659
+            },
+            "stats": {
+                "start": 19.86,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3492,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Putnam Area Robotics Team (P.A.R.T.s)",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 28.84,
+                "sd": 4.81
+            },
+            "unitless": 1508.0,
+            "norm": 1525.0,
+            "conf": [
+                -0.85,
+                1.26
+            ],
+            "breakdown": {
+                "total_points": 28.84,
+                "auto_points": 5.56,
+                "teleop_points": 21.7,
+                "endgame_points": 1.58,
+                "auto_rp": 0.3018,
+                "coral_rp": -0.123,
+                "barge_rp": 0.1822,
+                "tiebreaker_points": -0.05,
+                "auto_leave_points": 3.21,
+                "auto_coral": 0.46,
+                "auto_coral_points": 2.35,
+                "teleop_coral": 6.03,
+                "teleop_coral_points": 20.96,
+                "coral_l1": 0.73,
+                "coral_l2": 2.46,
+                "coral_l3": 2.56,
+                "coral_l4": 0.68,
+                "total_coral_points": 23.32,
+                "processor_algae": 0.26,
+                "processor_algae_points": 0.78,
+                "net_algae": -0.01,
+                "net_algae_points": -0.04,
+                "total_algae_points": 0.74,
+                "total_game_pieces": 6.69,
+                "barge_points": 1.58,
+                "rp_1": 0.3018,
+                "rp_2": -0.123,
+                "rp_3": 0.1822
+            },
+            "stats": {
+                "start": 28.84,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3504,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Girls of Steel",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 24.92,
+                "sd": 3.53
+            },
+            "unitless": 1481.0,
+            "norm": 1503.0,
+            "conf": [
+                -1.07,
+                1.09
+            ],
+            "breakdown": {
+                "total_points": 24.92,
+                "auto_points": 7.05,
+                "teleop_points": 14.94,
+                "endgame_points": 2.93,
+                "auto_rp": 0.3745,
+                "coral_rp": -0.1223,
+                "barge_rp": 0.2652,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.91,
+                "auto_coral": 0.61,
+                "auto_coral_points": 4.14,
+                "teleop_coral": 3.04,
+                "teleop_coral_points": 10.98,
+                "coral_l1": 0.86,
+                "coral_l2": 0.42,
+                "coral_l3": 0.73,
+                "coral_l4": 1.57,
+                "total_coral_points": 15.12,
+                "processor_algae": 1.03,
+                "processor_algae_points": 3.09,
+                "net_algae": 0.22,
+                "net_algae_points": 0.87,
+                "total_algae_points": 3.96,
+                "total_game_pieces": 4.83,
+                "barge_points": 2.93,
+                "rp_1": 0.3745,
+                "rp_2": -0.1223,
+                "rp_3": 0.2652
+            },
+            "stats": {
+                "start": 24.92,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3821,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Pirabots",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 16.19,
+                "sd": 3.5
+            },
+            "unitless": 1422.0,
+            "norm": 1445.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 16.19,
+                "auto_points": 3.31,
+                "teleop_points": 11.0,
+                "endgame_points": 1.87,
+                "auto_rp": 0.0868,
+                "coral_rp": -0.0847,
+                "barge_rp": 0.0652,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.69,
+                "auto_coral": 0.28,
+                "auto_coral_points": 1.62,
+                "teleop_coral": 2.37,
+                "teleop_coral_points": 9.36,
+                "coral_l1": 0.47,
+                "coral_l2": 0.36,
+                "coral_l3": 0.61,
+                "coral_l4": 1.21,
+                "total_coral_points": 10.98,
+                "processor_algae": 0.2,
+                "processor_algae_points": 0.6,
+                "net_algae": 0.26,
+                "net_algae_points": 1.04,
+                "total_algae_points": 1.64,
+                "total_game_pieces": 3.11,
+                "barge_points": 1.87,
+                "rp_1": 0.0868,
+                "rp_2": -0.0847,
+                "rp_3": 0.0652
+            },
+            "stats": {
+                "start": 16.19,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3824,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "HVA RoHAWKtics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 29.6,
+                "sd": 4.64
+            },
+            "unitless": 1513.0,
+            "norm": 1529.0,
+            "conf": [
+                -0.71,
+                1.27
+            ],
+            "breakdown": {
+                "total_points": 29.6,
+                "auto_points": 5.51,
+                "teleop_points": 18.54,
+                "endgame_points": 5.55,
+                "auto_rp": 0.4246,
+                "coral_rp": -0.1418,
+                "barge_rp": 0.2716,
+                "tiebreaker_points": -0.05,
+                "auto_leave_points": 2.95,
+                "auto_coral": 0.55,
+                "auto_coral_points": 2.56,
+                "teleop_coral": 4.27,
+                "teleop_coral_points": 16.13,
+                "coral_l1": 1.87,
+                "coral_l2": 0.16,
+                "coral_l3": 0.23,
+                "coral_l4": 2.56,
+                "total_coral_points": 18.69,
+                "processor_algae": -0.06,
+                "processor_algae_points": -0.19,
+                "net_algae": 0.65,
+                "net_algae_points": 2.6,
+                "total_algae_points": 2.41,
+                "total_game_pieces": 5.4,
+                "barge_points": 5.55,
+                "rp_1": 0.4246,
+                "rp_2": -0.1418,
+                "rp_3": 0.2716
+            },
+            "stats": {
+                "start": 29.6,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3843,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "ROBO RACERS",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 11.61,
+                "sd": 5.6
+            },
+            "unitless": 1391.0,
+            "norm": 1405.0,
+            "conf": [
+                -0.94,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 11.61,
+                "auto_points": 1.44,
+                "teleop_points": 6.72,
+                "endgame_points": 3.45,
+                "auto_rp": 0.016,
+                "coral_rp": -0.0561,
+                "barge_rp": 0.2032,
+                "tiebreaker_points": 0.11,
+                "auto_leave_points": 1.87,
+                "auto_coral": -0.15,
+                "auto_coral_points": -0.44,
+                "teleop_coral": 2.66,
+                "teleop_coral_points": 5.03,
+                "coral_l1": 2.29,
+                "coral_l2": 0.14,
+                "coral_l3": 0.7,
+                "coral_l4": -0.61,
+                "total_coral_points": 4.6,
+                "processor_algae": 0.49,
+                "processor_algae_points": 1.47,
+                "net_algae": 0.06,
+                "net_algae_points": 0.22,
+                "total_algae_points": 1.69,
+                "total_game_pieces": 3.06,
+                "barge_points": 3.45,
+                "rp_1": 0.016,
+                "rp_2": -0.0561,
+                "rp_3": 0.2032
+            },
+            "stats": {
+                "start": 11.61,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3937,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Breakaway",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 63.85,
+                "sd": 6.86
+            },
+            "unitless": 1746.0,
+            "norm": 1719.0,
+            "conf": [
+                -0.64,
+                1.06
+            ],
+            "breakdown": {
+                "total_points": 63.85,
+                "auto_points": 12.61,
+                "teleop_points": 43.3,
+                "endgame_points": 7.94,
+                "auto_rp": 0.5156,
+                "coral_rp": 0.5602,
+                "barge_rp": 0.4096,
+                "tiebreaker_points": 0.27,
+                "auto_leave_points": 3.51,
+                "auto_coral": 1.38,
+                "auto_coral_points": 9.1,
+                "teleop_coral": 10.53,
+                "teleop_coral_points": 39.31,
+                "coral_l1": 1.95,
+                "coral_l2": 2.29,
+                "coral_l3": 3.34,
+                "coral_l4": 4.3,
+                "total_coral_points": 48.41,
+                "processor_algae": 0.84,
+                "processor_algae_points": 2.51,
+                "net_algae": 0.37,
+                "net_algae_points": 1.48,
+                "total_algae_points": 3.99,
+                "total_game_pieces": 13.09,
+                "barge_points": 7.94,
+                "rp_1": 0.5156,
+                "rp_2": 0.5602,
+                "rp_3": 0.4096
+            },
+            "stats": {
+                "start": 63.85,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3966,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Gryphon Command",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 30.65,
+                "sd": 4.77
+            },
+            "unitless": 1520.0,
+            "norm": 1534.0,
+            "conf": [
+                -0.83,
+                1.22
+            ],
+            "breakdown": {
+                "total_points": 30.65,
+                "auto_points": 9.14,
+                "teleop_points": 19.3,
+                "endgame_points": 2.21,
+                "auto_rp": 0.2892,
+                "coral_rp": 0.0439,
+                "barge_rp": 0.037,
+                "tiebreaker_points": 0.06,
+                "auto_leave_points": 2.85,
+                "auto_coral": 1.22,
+                "auto_coral_points": 6.29,
+                "teleop_coral": 4.53,
+                "teleop_coral_points": 19.67,
+                "coral_l1": 0.82,
+                "coral_l2": 0.69,
+                "coral_l3": 0.76,
+                "coral_l4": 3.48,
+                "total_coral_points": 25.96,
+                "processor_algae": -0.02,
+                "processor_algae_points": -0.05,
+                "net_algae": -0.08,
+                "net_algae_points": -0.33,
+                "total_algae_points": -0.38,
+                "total_game_pieces": 5.66,
+                "barge_points": 2.21,
+                "rp_1": 0.2892,
+                "rp_2": 0.0439,
+                "rp_3": 0.037
+            },
+            "stats": {
+                "start": 30.65,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3984,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Topper Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 17.04,
+                "sd": 5.14
+            },
+            "unitless": 1428.0,
+            "norm": 1451.0,
+            "conf": [
+                -1.35,
+                0.76
+            ],
+            "breakdown": {
+                "total_points": 17.04,
+                "auto_points": 4.39,
+                "teleop_points": 9.34,
+                "endgame_points": 3.32,
+                "auto_rp": 0.005,
+                "coral_rp": -0.1264,
+                "barge_rp": 0.1027,
+                "tiebreaker_points": -0.08,
+                "auto_leave_points": 2.75,
+                "auto_coral": 0.39,
+                "auto_coral_points": 1.64,
+                "teleop_coral": 2.56,
+                "teleop_coral_points": 9.61,
+                "coral_l1": 0.7,
+                "coral_l2": 0.57,
+                "coral_l3": 0.69,
+                "coral_l4": 0.98,
+                "total_coral_points": 11.25,
+                "processor_algae": 0.02,
+                "processor_algae_points": 0.05,
+                "net_algae": -0.08,
+                "net_algae_points": -0.32,
+                "total_algae_points": -0.27,
+                "total_game_pieces": 2.89,
+                "barge_points": 3.32,
+                "rp_1": 0.005,
+                "rp_2": -0.1264,
+                "rp_3": 0.1027
+            },
+            "stats": {
+                "start": 17.04,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4020,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Cyber Tribe",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 65.62,
+                "sd": 7.3
+            },
+            "unitless": 1758.0,
+            "norm": 1730.0,
+            "conf": [
+                -0.93,
+                1.1
+            ],
+            "breakdown": {
+                "total_points": 65.62,
+                "auto_points": 18.44,
+                "teleop_points": 38.94,
+                "endgame_points": 8.24,
+                "auto_rp": 0.4136,
+                "coral_rp": 0.1444,
+                "barge_rp": 0.367,
+                "tiebreaker_points": 0.17,
+                "auto_leave_points": 2.93,
+                "auto_coral": 2.12,
+                "auto_coral_points": 15.51,
+                "teleop_coral": 8.76,
+                "teleop_coral_points": 33.27,
+                "coral_l1": 0.88,
+                "coral_l2": 1.94,
+                "coral_l3": 3.46,
+                "coral_l4": 4.59,
+                "total_coral_points": 48.78,
+                "processor_algae": 1.69,
+                "processor_algae_points": 5.07,
+                "net_algae": 0.15,
+                "net_algae_points": 0.6,
+                "total_algae_points": 5.67,
+                "total_game_pieces": 12.71,
+                "barge_points": 8.24,
+                "rp_1": 0.4136,
+                "rp_2": 0.1444,
+                "rp_3": 0.367
+            },
+            "stats": {
+                "start": 65.62,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4065,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Nerds of Prey",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 41.72,
+                "sd": 4.34
+            },
+            "unitless": 1595.0,
+            "norm": 1590.0,
+            "conf": [
+                -0.94,
+                1.21
+            ],
+            "breakdown": {
+                "total_points": 41.72,
+                "auto_points": 14.73,
+                "teleop_points": 23.8,
+                "endgame_points": 3.19,
+                "auto_rp": 0.4519,
+                "coral_rp": -0.1151,
+                "barge_rp": 0.0557,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 3.53,
+                "auto_coral": 1.63,
+                "auto_coral_points": 11.2,
+                "teleop_coral": 4.72,
+                "teleop_coral_points": 21.47,
+                "coral_l1": 0.05,
+                "coral_l2": 0.48,
+                "coral_l3": 1.2,
+                "coral_l4": 4.63,
+                "total_coral_points": 32.67,
+                "processor_algae": 0.27,
+                "processor_algae_points": 0.8,
+                "net_algae": 0.38,
+                "net_algae_points": 1.53,
+                "total_algae_points": 2.33,
+                "total_game_pieces": 7.0,
+                "barge_points": 3.19,
+                "rp_1": 0.4519,
+                "rp_2": -0.1151,
+                "rp_3": 0.0557
+            },
+            "stats": {
+                "start": 41.72,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4265,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Secret City Wildbots",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 27.72,
+                "sd": 5.27
+            },
+            "unitless": 1500.0,
+            "norm": 1518.0,
+            "conf": [
+                -0.89,
+                1.16
+            ],
+            "breakdown": {
+                "total_points": 27.72,
+                "auto_points": 6.74,
+                "teleop_points": 19.34,
+                "endgame_points": 1.64,
+                "auto_rp": 0.3593,
+                "coral_rp": -0.0452,
+                "barge_rp": -0.014,
+                "tiebreaker_points": -0.0,
+                "auto_leave_points": 3.13,
+                "auto_coral": 0.63,
+                "auto_coral_points": 3.61,
+                "teleop_coral": 4.05,
+                "teleop_coral_points": 17.36,
+                "coral_l1": 0.67,
+                "coral_l2": 0.52,
+                "coral_l3": 0.44,
+                "coral_l4": 3.05,
+                "total_coral_points": 20.98,
+                "processor_algae": -0.08,
+                "processor_algae_points": -0.23,
+                "net_algae": 0.55,
+                "net_algae_points": 2.21,
+                "total_algae_points": 1.98,
+                "total_game_pieces": 5.15,
+                "barge_points": 1.64,
+                "rp_1": 0.3593,
+                "rp_2": -0.0452,
+                "rp_3": -0.014
+            },
+            "stats": {
+                "start": 27.72,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4306,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Robokomodos",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 19.41,
+                "sd": 3.5
+            },
+            "unitless": 1444.0,
+            "norm": 1468.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 19.41,
+                "auto_points": 3.97,
+                "teleop_points": 13.19,
+                "endgame_points": 2.24,
+                "auto_rp": 0.1041,
+                "coral_rp": -0.0826,
+                "barge_rp": 0.0787,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.03,
+                "auto_coral": 0.33,
+                "auto_coral_points": 1.94,
+                "teleop_coral": 2.84,
+                "teleop_coral_points": 11.22,
+                "coral_l1": 0.56,
+                "coral_l2": 0.43,
+                "coral_l3": 0.73,
+                "coral_l4": 1.45,
+                "total_coral_points": 13.16,
+                "processor_algae": 0.24,
+                "processor_algae_points": 0.72,
+                "net_algae": 0.31,
+                "net_algae_points": 1.25,
+                "total_algae_points": 1.97,
+                "total_game_pieces": 3.72,
+                "barge_points": 2.24,
+                "rp_1": 0.1041,
+                "rp_2": -0.0826,
+                "rp_3": 0.0787
+            },
+            "stats": {
+                "start": 19.41,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4467,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Titanium Titans",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 31.91,
+                "sd": 7.31
+            },
+            "unitless": 1529.0,
+            "norm": 1541.0,
+            "conf": [
+                -0.76,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 31.91,
+                "auto_points": 8.88,
+                "teleop_points": 20.83,
+                "endgame_points": 2.2,
+                "auto_rp": 0.3431,
+                "coral_rp": 0.0418,
+                "barge_rp": 0.0734,
+                "tiebreaker_points": 0.05,
+                "auto_leave_points": 3.38,
+                "auto_coral": 0.93,
+                "auto_coral_points": 5.5,
+                "teleop_coral": 4.59,
+                "teleop_coral_points": 17.79,
+                "coral_l1": 1.03,
+                "coral_l2": 0.53,
+                "coral_l3": 1.68,
+                "coral_l4": 2.23,
+                "total_coral_points": 23.29,
+                "processor_algae": 0.44,
+                "processor_algae_points": 1.32,
+                "net_algae": 0.43,
+                "net_algae_points": 1.72,
+                "total_algae_points": 3.04,
+                "total_game_pieces": 6.35,
+                "barge_points": 2.2,
+                "rp_1": 0.3431,
+                "rp_2": 0.0418,
+                "rp_3": 0.0734
+            },
+            "stats": {
+                "start": 31.91,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4504,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "B. C. Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 17.87,
+                "sd": 3.5
+            },
+            "unitless": 1434.0,
+            "norm": 1457.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 17.87,
+                "auto_points": 3.66,
+                "teleop_points": 12.15,
+                "endgame_points": 2.06,
+                "auto_rp": 0.0958,
+                "coral_rp": -0.0836,
+                "barge_rp": 0.0722,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.87,
+                "auto_coral": 0.3,
+                "auto_coral_points": 1.79,
+                "teleop_coral": 2.62,
+                "teleop_coral_points": 10.33,
+                "coral_l1": 0.51,
+                "coral_l2": 0.39,
+                "coral_l3": 0.67,
+                "coral_l4": 1.34,
+                "total_coral_points": 12.12,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.66,
+                "net_algae": 0.29,
+                "net_algae_points": 1.15,
+                "total_algae_points": 1.81,
+                "total_game_pieces": 3.43,
+                "barge_points": 2.06,
+                "rp_1": 0.0958,
+                "rp_2": -0.0836,
+                "rp_3": 0.0722
+            },
+            "stats": {
+                "start": 17.87,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4576,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Red Nation Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 15.83,
+                "sd": 4.44
+            },
+            "unitless": 1420.0,
+            "norm": 1442.0,
+            "conf": [
+                -0.99,
+                1.18
+            ],
+            "breakdown": {
+                "total_points": 15.83,
+                "auto_points": 2.78,
+                "teleop_points": 10.9,
+                "endgame_points": 2.16,
+                "auto_rp": -0.001,
+                "coral_rp": -0.1234,
+                "barge_rp": 0.0021,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 1.85,
+                "auto_coral": 0.13,
+                "auto_coral_points": 0.93,
+                "teleop_coral": 2.41,
+                "teleop_coral_points": 9.27,
+                "coral_l1": 0.46,
+                "coral_l2": 0.34,
+                "coral_l3": 0.68,
+                "coral_l4": 1.06,
+                "total_coral_points": 10.2,
+                "processor_algae": 0.05,
+                "processor_algae_points": 0.15,
+                "net_algae": 0.37,
+                "net_algae_points": 1.47,
+                "total_algae_points": 1.63,
+                "total_game_pieces": 2.95,
+                "barge_points": 2.16,
+                "rp_1": -0.001,
+                "rp_2": -0.1234,
+                "rp_3": 0.0021
+            },
+            "stats": {
+                "start": 15.83,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4630,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Robodragons",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 17.43,
+                "sd": 3.5
+            },
+            "unitless": 1431.0,
+            "norm": 1454.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 17.43,
+                "auto_points": 3.56,
+                "teleop_points": 11.85,
+                "endgame_points": 2.01,
+                "auto_rp": 0.0934,
+                "coral_rp": -0.0839,
+                "barge_rp": 0.0704,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.82,
+                "auto_coral": 0.3,
+                "auto_coral_points": 1.74,
+                "teleop_coral": 2.55,
+                "teleop_coral_points": 10.08,
+                "coral_l1": 0.5,
+                "coral_l2": 0.38,
+                "coral_l3": 0.65,
+                "coral_l4": 1.31,
+                "total_coral_points": 11.82,
+                "processor_algae": 0.21,
+                "processor_algae_points": 0.64,
+                "net_algae": 0.28,
+                "net_algae_points": 1.12,
+                "total_algae_points": 1.77,
+                "total_game_pieces": 3.34,
+                "barge_points": 2.01,
+                "rp_1": 0.0934,
+                "rp_2": -0.0839,
+                "rp_3": 0.0704
+            },
+            "stats": {
+                "start": 17.43,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5002,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Dragon Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 33.7,
+                "sd": 7.56
+            },
+            "unitless": 1541.0,
+            "norm": 1550.0,
+            "conf": [
+                -0.73,
+                1.19
+            ],
+            "breakdown": {
+                "total_points": 33.7,
+                "auto_points": 6.06,
+                "teleop_points": 23.63,
+                "endgame_points": 4.01,
+                "auto_rp": 0.2033,
+                "coral_rp": -0.053,
+                "barge_rp": 0.1785,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 2.63,
+                "auto_coral": 0.54,
+                "auto_coral_points": 3.43,
+                "teleop_coral": 5.48,
+                "teleop_coral_points": 22.72,
+                "coral_l1": 0.59,
+                "coral_l2": 0.84,
+                "coral_l3": 1.55,
+                "coral_l4": 3.0,
+                "total_coral_points": 26.15,
+                "processor_algae": 0.2,
+                "processor_algae_points": 0.61,
+                "net_algae": 0.07,
+                "net_algae_points": 0.3,
+                "total_algae_points": 0.91,
+                "total_game_pieces": 6.26,
+                "barge_points": 4.01,
+                "rp_1": 0.2033,
+                "rp_2": -0.053,
+                "rp_3": 0.1785
+            },
+            "stats": {
+                "start": 33.7,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5045,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "SpartaBot",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 18.91,
+                "sd": 4.31
+            },
+            "unitless": 1441.0,
+            "norm": 1465.0,
+            "conf": [
+                -1.23,
+                0.82
+            ],
+            "breakdown": {
+                "total_points": 18.91,
+                "auto_points": 5.31,
+                "teleop_points": 10.99,
+                "endgame_points": 2.6,
+                "auto_rp": 0.2457,
+                "coral_rp": 0.1309,
+                "barge_rp": 0.1745,
+                "tiebreaker_points": 0.1,
+                "auto_leave_points": 2.14,
+                "auto_coral": 0.83,
+                "auto_coral_points": 3.17,
+                "teleop_coral": 2.96,
+                "teleop_coral_points": 8.53,
+                "coral_l1": 2.54,
+                "coral_l2": 0.16,
+                "coral_l3": 0.29,
+                "coral_l4": 0.8,
+                "total_coral_points": 11.7,
+                "processor_algae": 0.27,
+                "processor_algae_points": 0.81,
+                "net_algae": 0.41,
+                "net_algae_points": 1.66,
+                "total_algae_points": 2.46,
+                "total_game_pieces": 4.47,
+                "barge_points": 2.6,
+                "rp_1": 0.2457,
+                "rp_2": 0.1309,
+                "rp_3": 0.1745
+            },
+            "stats": {
+                "start": 18.91,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5744,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "RoboRunners",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 13.84,
+                "sd": 3.5
+            },
+            "unitless": 1406.0,
+            "norm": 1425.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 13.84,
+                "auto_points": 2.83,
+                "teleop_points": 9.41,
+                "endgame_points": 1.6,
+                "auto_rp": 0.0741,
+                "coral_rp": -0.0863,
+                "barge_rp": 0.0553,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.45,
+                "auto_coral": 0.24,
+                "auto_coral_points": 1.38,
+                "teleop_coral": 2.03,
+                "teleop_coral_points": 8.0,
+                "coral_l1": 0.4,
+                "coral_l2": 0.3,
+                "coral_l3": 0.52,
+                "coral_l4": 1.04,
+                "total_coral_points": 9.38,
+                "processor_algae": 0.17,
+                "processor_algae_points": 0.51,
+                "net_algae": 0.22,
+                "net_algae_points": 0.89,
+                "total_algae_points": 1.41,
+                "total_game_pieces": 2.65,
+                "barge_points": 1.6,
+                "rp_1": 0.0741,
+                "rp_2": -0.0863,
+                "rp_3": 0.0553
+            },
+            "stats": {
+                "start": 13.84,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5816,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Gra-V Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 17.6,
+                "sd": 3.1
+            },
+            "unitless": 1432.0,
+            "norm": 1455.0,
+            "conf": [
+                -1.08,
+                1.09
+            ],
+            "breakdown": {
+                "total_points": 17.6,
+                "auto_points": 3.14,
+                "teleop_points": 13.16,
+                "endgame_points": 1.3,
+                "auto_rp": 0.0626,
+                "coral_rp": -0.1471,
+                "barge_rp": -0.037,
+                "tiebreaker_points": -0.09,
+                "auto_leave_points": 2.76,
+                "auto_coral": 0.05,
+                "auto_coral_points": 0.38,
+                "teleop_coral": 3.3,
+                "teleop_coral_points": 13.19,
+                "coral_l1": 0.89,
+                "coral_l2": 0.05,
+                "coral_l3": 0.53,
+                "coral_l4": 1.89,
+                "total_coral_points": 13.57,
+                "processor_algae": 0.29,
+                "processor_algae_points": 0.88,
+                "net_algae": -0.23,
+                "net_algae_points": -0.9,
+                "total_algae_points": -0.02,
+                "total_game_pieces": 3.43,
+                "barge_points": 1.3,
+                "rp_1": 0.0626,
+                "rp_2": -0.1471,
+                "rp_3": -0.037
+            },
+            "stats": {
+                "start": 17.6,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5847,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Ironclad",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 48.52,
+                "sd": 7.36
+            },
+            "unitless": 1642.0,
+            "norm": 1624.0,
+            "conf": [
+                -0.84,
+                1.07
+            ],
+            "breakdown": {
+                "total_points": 48.52,
+                "auto_points": 11.37,
+                "teleop_points": 36.15,
+                "endgame_points": 0.99,
+                "auto_rp": 0.3626,
+                "coral_rp": 0.1072,
+                "barge_rp": 0.0792,
+                "tiebreaker_points": -0.0,
+                "auto_leave_points": 2.87,
+                "auto_coral": 1.26,
+                "auto_coral_points": 8.5,
+                "teleop_coral": 7.39,
+                "teleop_coral_points": 30.97,
+                "coral_l1": 0.64,
+                "coral_l2": 0.68,
+                "coral_l3": 3.01,
+                "coral_l4": 4.32,
+                "total_coral_points": 39.47,
+                "processor_algae": 0.24,
+                "processor_algae_points": 0.71,
+                "net_algae": 1.12,
+                "net_algae_points": 4.47,
+                "total_algae_points": 5.18,
+                "total_game_pieces": 10.06,
+                "barge_points": 0.99,
+                "rp_1": 0.3626,
+                "rp_2": 0.1072,
+                "rp_3": 0.0792
+            },
+            "stats": {
+                "start": 48.52,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 6517,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "So-Kno Robo",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 31.47,
+                "sd": 8.27
+            },
+            "unitless": 1526.0,
+            "norm": 1538.0,
+            "conf": [
+                -0.87,
+                1.2
+            ],
+            "breakdown": {
+                "total_points": 31.47,
+                "auto_points": 6.11,
+                "teleop_points": 20.64,
+                "endgame_points": 4.72,
+                "auto_rp": 0.2178,
+                "coral_rp": -0.0541,
+                "barge_rp": 0.1704,
+                "tiebreaker_points": 0.07,
+                "auto_leave_points": 3.05,
+                "auto_coral": 0.4,
+                "auto_coral_points": 3.07,
+                "teleop_coral": 4.61,
+                "teleop_coral_points": 19.48,
+                "coral_l1": 0.38,
+                "coral_l2": 0.81,
+                "coral_l3": 0.59,
+                "coral_l4": 3.23,
+                "total_coral_points": 22.55,
+                "processor_algae": 0.35,
+                "processor_algae_points": 1.04,
+                "net_algae": 0.03,
+                "net_algae_points": 0.12,
+                "total_algae_points": 1.16,
+                "total_game_pieces": 5.38,
+                "barge_points": 4.72,
+                "rp_1": 0.2178,
+                "rp_2": -0.0541,
+                "rp_3": 0.1704
+            },
+            "stats": {
+                "start": 31.47,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7072,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "O.G.R.E. (Opelika's Greatest Robotics Engineers)",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 25.47,
+                "sd": 5.44
+            },
+            "unitless": 1485.0,
+            "norm": 1506.0,
+            "conf": [
+                -0.73,
+                1.26
+            ],
+            "breakdown": {
+                "total_points": 25.47,
+                "auto_points": 4.43,
+                "teleop_points": 13.86,
+                "endgame_points": 7.18,
+                "auto_rp": 0.2058,
+                "coral_rp": -0.1369,
+                "barge_rp": 0.3874,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 2.45,
+                "auto_coral": 0.28,
+                "auto_coral_points": 1.97,
+                "teleop_coral": 2.5,
+                "teleop_coral_points": 12.97,
+                "coral_l1": -0.21,
+                "coral_l2": 0.03,
+                "coral_l3": 0.1,
+                "coral_l4": 2.87,
+                "total_coral_points": 14.95,
+                "processor_algae": 0.17,
+                "processor_algae_points": 0.52,
+                "net_algae": 0.09,
+                "net_algae_points": 0.37,
+                "total_algae_points": 0.89,
+                "total_game_pieces": 3.05,
+                "barge_points": 7.18,
+                "rp_1": 0.2058,
+                "rp_2": -0.1369,
+                "rp_3": 0.3874
+            },
+            "stats": {
+                "start": 25.47,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7255,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Mechanical Mettle",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.32,
+                "sd": 4.8
+            },
+            "unitless": 1409.0,
+            "norm": 1429.0,
+            "conf": [
+                -0.94,
+                1.1
+            ],
+            "breakdown": {
+                "total_points": 14.32,
+                "auto_points": 2.49,
+                "teleop_points": 7.99,
+                "endgame_points": 3.85,
+                "auto_rp": 0.0423,
+                "coral_rp": -0.0577,
+                "barge_rp": 0.1816,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 1.79,
+                "auto_coral": 0.08,
+                "auto_coral_points": 0.7,
+                "teleop_coral": 1.24,
+                "teleop_coral_points": 7.52,
+                "coral_l1": -0.41,
+                "coral_l2": -0.0,
+                "coral_l3": -0.19,
+                "coral_l4": 1.87,
+                "total_coral_points": 8.22,
+                "processor_algae": 0.25,
+                "processor_algae_points": 0.74,
+                "net_algae": -0.07,
+                "net_algae_points": -0.27,
+                "total_algae_points": 0.47,
+                "total_game_pieces": 1.44,
+                "barge_points": 3.85,
+                "rp_1": 0.0423,
+                "rp_2": -0.0577,
+                "rp_3": 0.1816
+            },
+            "stats": {
+                "start": 14.32,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7428,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Gigawatts",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 37.56,
+                "sd": 5.02
+            },
+            "unitless": 1567.0,
+            "norm": 1569.0,
+            "conf": [
+                -0.77,
+                1.19
+            ],
+            "breakdown": {
+                "total_points": 37.56,
+                "auto_points": 7.94,
+                "teleop_points": 23.76,
+                "endgame_points": 5.85,
+                "auto_rp": 0.4405,
+                "coral_rp": -0.0645,
+                "barge_rp": 0.282,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 3.18,
+                "auto_coral": 0.64,
+                "auto_coral_points": 4.76,
+                "teleop_coral": 5.81,
+                "teleop_coral_points": 21.8,
+                "coral_l1": 0.74,
+                "coral_l2": 1.47,
+                "coral_l3": 1.87,
+                "coral_l4": 2.37,
+                "total_coral_points": 26.55,
+                "processor_algae": 0.4,
+                "processor_algae_points": 1.2,
+                "net_algae": 0.19,
+                "net_algae_points": 0.77,
+                "total_algae_points": 1.97,
+                "total_game_pieces": 7.04,
+                "barge_points": 5.85,
+                "rp_1": 0.4405,
+                "rp_2": -0.0645,
+                "rp_3": 0.282
+            },
+            "stats": {
+                "start": 37.56,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7483,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Mechanically Challenged",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 19.57,
+                "sd": 6.24
+            },
+            "unitless": 1445.0,
+            "norm": 1469.0,
+            "conf": [
+                -0.86,
+                1.08
+            ],
+            "breakdown": {
+                "total_points": 19.57,
+                "auto_points": 3.22,
+                "teleop_points": 13.82,
+                "endgame_points": 2.54,
+                "auto_rp": 0.12,
+                "coral_rp": -0.2302,
+                "barge_rp": 0.0526,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.72,
+                "auto_coral": 0.06,
+                "auto_coral_points": 0.49,
+                "teleop_coral": 1.89,
+                "teleop_coral_points": 10.9,
+                "coral_l1": -0.85,
+                "coral_l2": 0.44,
+                "coral_l3": 0.25,
+                "coral_l4": 2.14,
+                "total_coral_points": 11.39,
+                "processor_algae": 0.18,
+                "processor_algae_points": 0.53,
+                "net_algae": 0.6,
+                "net_algae_points": 2.39,
+                "total_algae_points": 2.92,
+                "total_game_pieces": 2.82,
+                "barge_points": 2.54,
+                "rp_1": 0.12,
+                "rp_2": -0.2302,
+                "rp_3": 0.0526
+            },
+            "stats": {
+                "start": 19.57,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8570,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Binary-Bolts",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 58.88,
+                "sd": 8.78
+            },
+            "unitless": 1712.0,
+            "norm": 1687.0,
+            "conf": [
+                -0.88,
+                1.22
+            ],
+            "breakdown": {
+                "total_points": 58.88,
+                "auto_points": 10.42,
+                "teleop_points": 39.77,
+                "endgame_points": 8.69,
+                "auto_rp": 0.3374,
+                "coral_rp": 0.2787,
+                "barge_rp": 0.4214,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 3.25,
+                "auto_coral": 1.35,
+                "auto_coral_points": 7.17,
+                "teleop_coral": 9.78,
+                "teleop_coral_points": 35.67,
+                "coral_l1": 0.68,
+                "coral_l2": 4.0,
+                "coral_l3": 5.11,
+                "coral_l4": 1.34,
+                "total_coral_points": 42.83,
+                "processor_algae": 0.39,
+                "processor_algae_points": 1.18,
+                "net_algae": 0.73,
+                "net_algae_points": 2.92,
+                "total_algae_points": 4.1,
+                "total_game_pieces": 12.25,
+                "barge_points": 8.69,
+                "rp_1": 0.3374,
+                "rp_2": 0.2787,
+                "rp_3": 0.4214
+            },
+            "stats": {
+                "start": 58.88,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9152,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Rat Fight",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 17.6,
+                "sd": 3.5
+            },
+            "unitless": 1432.0,
+            "norm": 1455.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 17.6,
+                "auto_points": 3.6,
+                "teleop_points": 11.97,
+                "endgame_points": 2.03,
+                "auto_rp": 0.0944,
+                "coral_rp": -0.0838,
+                "barge_rp": 0.0711,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.84,
+                "auto_coral": 0.3,
+                "auto_coral_points": 1.76,
+                "teleop_coral": 2.58,
+                "teleop_coral_points": 10.18,
+                "coral_l1": 0.51,
+                "coral_l2": 0.39,
+                "coral_l3": 0.66,
+                "coral_l4": 1.32,
+                "total_coral_points": 11.94,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.65,
+                "net_algae": 0.28,
+                "net_algae_points": 1.13,
+                "total_algae_points": 1.79,
+                "total_game_pieces": 3.38,
+                "barge_points": 2.03,
+                "rp_1": 0.0944,
+                "rp_2": -0.0838,
+                "rp_3": 0.0711
+            },
+            "stats": {
+                "start": 17.6,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9668,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "West Robotics",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 15.34,
+                "sd": 7.74
+            },
+            "unitless": 1416.0,
+            "norm": 1438.0,
+            "conf": [
+                -0.92,
+                1.21
+            ],
+            "breakdown": {
+                "total_points": 15.34,
+                "auto_points": 3.74,
+                "teleop_points": 8.81,
+                "endgame_points": 2.79,
+                "auto_rp": 0.1727,
+                "coral_rp": -0.0815,
+                "barge_rp": 0.154,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.23,
+                "auto_coral": 0.26,
+                "auto_coral_points": 1.51,
+                "teleop_coral": 1.17,
+                "teleop_coral_points": 4.85,
+                "coral_l1": 0.17,
+                "coral_l2": 0.18,
+                "coral_l3": 0.37,
+                "coral_l4": 0.71,
+                "total_coral_points": 6.36,
+                "processor_algae": 1.35,
+                "processor_algae_points": 4.05,
+                "net_algae": -0.02,
+                "net_algae_points": -0.09,
+                "total_algae_points": 3.96,
+                "total_game_pieces": 2.76,
+                "barge_points": 2.79,
+                "rp_1": 0.1727,
+                "rp_2": -0.0815,
+                "rp_3": 0.154
+            },
+            "stats": {
+                "start": 15.34,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10101,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Critical Hit",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.34,
+                "sd": 7.1
+            },
+            "unitless": 1410.0,
+            "norm": 1429.0,
+            "conf": [
+                -1.12,
+                0.87
+            ],
+            "breakdown": {
+                "total_points": 14.34,
+                "auto_points": 1.78,
+                "teleop_points": 9.71,
+                "endgame_points": 2.85,
+                "auto_rp": 0.139,
+                "coral_rp": 0.0195,
+                "barge_rp": 0.1529,
+                "tiebreaker_points": -0.01,
+                "auto_leave_points": 2.4,
+                "auto_coral": -0.15,
+                "auto_coral_points": -0.62,
+                "teleop_coral": 2.2,
+                "teleop_coral_points": 8.98,
+                "coral_l1": 0.05,
+                "coral_l2": 0.76,
+                "coral_l3": 0.05,
+                "coral_l4": 1.22,
+                "total_coral_points": 8.36,
+                "processor_algae": 0.14,
+                "processor_algae_points": 0.42,
+                "net_algae": 0.08,
+                "net_algae_points": 0.31,
+                "total_algae_points": 0.73,
+                "total_game_pieces": 2.3,
+                "barge_points": 2.85,
+                "rp_1": 0.139,
+                "rp_2": 0.0195,
+                "rp_3": 0.1529
+            },
+            "stats": {
+                "start": 14.34,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10137,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "RoboKats",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 18.04,
+                "sd": 3.5
+            },
+            "unitless": 1435.0,
+            "norm": 1459.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 18.04,
+                "auto_points": 3.69,
+                "teleop_points": 12.26,
+                "endgame_points": 2.08,
+                "auto_rp": 0.0967,
+                "coral_rp": -0.0835,
+                "barge_rp": 0.0729,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.89,
+                "auto_coral": 0.31,
+                "auto_coral_points": 1.8,
+                "teleop_coral": 2.64,
+                "teleop_coral_points": 10.43,
+                "coral_l1": 0.52,
+                "coral_l2": 0.4,
+                "coral_l3": 0.68,
+                "coral_l4": 1.35,
+                "total_coral_points": 12.23,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.67,
+                "net_algae": 0.29,
+                "net_algae_points": 1.16,
+                "total_algae_points": 1.83,
+                "total_game_pieces": 3.46,
+                "barge_points": 2.08,
+                "rp_1": 0.0967,
+                "rp_2": -0.0835,
+                "rp_3": 0.0729
+            },
+            "stats": {
+                "start": 18.04,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10269,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Beaverbots",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 18.04,
+                "sd": 3.5
+            },
+            "unitless": 1435.0,
+            "norm": 1459.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 18.04,
+                "auto_points": 3.69,
+                "teleop_points": 12.26,
+                "endgame_points": 2.08,
+                "auto_rp": 0.0967,
+                "coral_rp": -0.0835,
+                "barge_rp": 0.0729,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.89,
+                "auto_coral": 0.31,
+                "auto_coral_points": 1.8,
+                "teleop_coral": 2.64,
+                "teleop_coral_points": 10.43,
+                "coral_l1": 0.52,
+                "coral_l2": 0.4,
+                "coral_l3": 0.68,
+                "coral_l4": 1.35,
+                "total_coral_points": 12.23,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.67,
+                "net_algae": 0.29,
+                "net_algae_points": 1.16,
+                "total_algae_points": 1.83,
+                "total_game_pieces": 3.46,
+                "barge_points": 2.08,
+                "rp_1": 0.0967,
+                "rp_2": -0.0835,
+                "rp_3": 0.0729
+            },
+            "stats": {
+                "start": 18.04,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10479,
+        "year": 2025,
+        "event": "2025tnkn",
+        "time": 1743552000,
+        "team_name": "Powerhouse",
+        "event_name": "Smoky Mountains Regional",
+        "country": "USA",
+        "state": "TN",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 26.38,
+                "sd": 5.19
+            },
+            "unitless": 1491.0,
+            "norm": 1511.0,
+            "conf": [
+                -1.07,
+                1.2
+            ],
+            "breakdown": {
+                "total_points": 26.38,
+                "auto_points": 3.65,
+                "teleop_points": 21.08,
+                "endgame_points": 1.65,
+                "auto_rp": 0.0293,
+                "coral_rp": -0.1272,
+                "barge_rp": -0.0163,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 2.51,
+                "auto_coral": 0.22,
+                "auto_coral_points": 1.15,
+                "teleop_coral": 4.88,
+                "teleop_coral_points": 21.36,
+                "coral_l1": 0.73,
+                "coral_l2": 0.29,
+                "coral_l3": 0.58,
+                "coral_l4": 3.51,
+                "total_coral_points": 22.51,
+                "processor_algae": 0.14,
+                "processor_algae_points": 0.41,
+                "net_algae": -0.17,
+                "net_algae_points": -0.69,
+                "total_algae_points": -0.28,
+                "total_game_pieces": 5.07,
+                "barge_points": 1.65,
+                "rp_1": 0.0293,
+                "rp_2": -0.1272,
+                "rp_3": -0.0163
+            },
+            "stats": {
+                "start": 26.38,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 47
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    }
+]

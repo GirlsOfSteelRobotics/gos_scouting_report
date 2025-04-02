@@ -1,0 +1,5210 @@
+[
+    {
+        "team": 48,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Team E.L.I.T.E.",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 23.35,
+                "sd": 6.75
+            },
+            "unitless": 1471.0,
+            "norm": 1494.0,
+            "conf": [
+                -1.02,
+                0.74
+            ],
+            "breakdown": {
+                "total_points": 23.35,
+                "auto_points": 5.04,
+                "teleop_points": 13.83,
+                "endgame_points": 4.47,
+                "auto_rp": 0.2401,
+                "coral_rp": 0.0568,
+                "barge_rp": 0.2373,
+                "tiebreaker_points": 0.0,
+                "auto_leave_points": 3.01,
+                "auto_coral": 0.39,
+                "auto_coral_points": 2.04,
+                "teleop_coral": 4.25,
+                "teleop_coral_points": 15.44,
+                "coral_l1": 1.6,
+                "coral_l2": 0.31,
+                "coral_l3": 0.89,
+                "coral_l4": 1.83,
+                "total_coral_points": 17.48,
+                "processor_algae": 0.14,
+                "processor_algae_points": 0.41,
+                "net_algae": -0.51,
+                "net_algae_points": -2.02,
+                "total_algae_points": -1.61,
+                "total_game_pieces": 4.27,
+                "barge_points": 4.47,
+                "rp_1": 0.2401,
+                "rp_2": 0.0568,
+                "rp_3": 0.2373
+            },
+            "stats": {
+                "start": 23.35,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 120,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Youth Tech Academy Red Dragons",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 25.9,
+                "sd": 7.78
+            },
+            "unitless": 1488.0,
+            "norm": 1508.0,
+            "conf": [
+                -1.18,
+                0.99
+            ],
+            "breakdown": {
+                "total_points": 25.9,
+                "auto_points": 3.13,
+                "teleop_points": 19.8,
+                "endgame_points": 2.97,
+                "auto_rp": 0.1461,
+                "coral_rp": -0.082,
+                "barge_rp": 0.1485,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 3.03,
+                "auto_coral": -0.0,
+                "auto_coral_points": 0.11,
+                "teleop_coral": 4.18,
+                "teleop_coral_points": 18.24,
+                "coral_l1": 0.19,
+                "coral_l2": 0.64,
+                "coral_l3": 0.68,
+                "coral_l4": 2.66,
+                "total_coral_points": 18.35,
+                "processor_algae": 0.18,
+                "processor_algae_points": 0.54,
+                "net_algae": 0.26,
+                "net_algae_points": 1.02,
+                "total_algae_points": 1.56,
+                "total_game_pieces": 4.61,
+                "barge_points": 2.97,
+                "rp_1": 0.1461,
+                "rp_2": -0.082,
+                "rp_3": 0.1485
+            },
+            "stats": {
+                "start": 25.9,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 128,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Botcats",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 22.58,
+                "sd": 3.5
+            },
+            "unitless": 1466.0,
+            "norm": 1489.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 22.58,
+                "auto_points": 4.62,
+                "teleop_points": 15.35,
+                "endgame_points": 2.61,
+                "auto_rp": 0.1211,
+                "coral_rp": -0.0806,
+                "barge_rp": 0.092,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.36,
+                "auto_coral": 0.39,
+                "auto_coral_points": 2.26,
+                "teleop_coral": 3.31,
+                "teleop_coral_points": 13.06,
+                "coral_l1": 0.65,
+                "coral_l2": 0.5,
+                "coral_l3": 0.85,
+                "coral_l4": 1.69,
+                "total_coral_points": 15.31,
+                "processor_algae": 0.28,
+                "processor_algae_points": 0.84,
+                "net_algae": 0.36,
+                "net_algae_points": 1.45,
+                "total_algae_points": 2.29,
+                "total_game_pieces": 4.33,
+                "barge_points": 2.61,
+                "rp_1": 0.1211,
+                "rp_2": -0.0806,
+                "rp_3": 0.092
+            },
+            "stats": {
+                "start": 22.58,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 291,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "CIA - Creativity In Action",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 21.27,
+                "sd": 3.5
+            },
+            "unitless": 1457.0,
+            "norm": 1481.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 21.27,
+                "auto_points": 4.35,
+                "teleop_points": 14.46,
+                "endgame_points": 2.46,
+                "auto_rp": 0.1141,
+                "coral_rp": -0.0814,
+                "barge_rp": 0.0865,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.23,
+                "auto_coral": 0.36,
+                "auto_coral_points": 2.13,
+                "teleop_coral": 3.11,
+                "teleop_coral_points": 12.3,
+                "coral_l1": 0.61,
+                "coral_l2": 0.47,
+                "coral_l3": 0.8,
+                "coral_l4": 1.59,
+                "total_coral_points": 14.43,
+                "processor_algae": 0.26,
+                "processor_algae_points": 0.79,
+                "net_algae": 0.34,
+                "net_algae_points": 1.37,
+                "total_algae_points": 2.16,
+                "total_game_pieces": 4.08,
+                "barge_points": 2.46,
+                "rp_1": 0.1141,
+                "rp_2": -0.0814,
+                "rp_3": 0.0865
+            },
+            "stats": {
+                "start": 21.27,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 677,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Murphy's Outlaws",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 25.87,
+                "sd": 1.64
+            },
+            "unitless": 1488.0,
+            "norm": 1508.0,
+            "conf": [
+                -0.98,
+                1.24
+            ],
+            "breakdown": {
+                "total_points": 25.87,
+                "auto_points": 6.13,
+                "teleop_points": 17.25,
+                "endgame_points": 2.5,
+                "auto_rp": 0.2115,
+                "coral_rp": -0.1352,
+                "barge_rp": 0.1247,
+                "tiebreaker_points": 0.07,
+                "auto_leave_points": 2.68,
+                "auto_coral": 0.63,
+                "auto_coral_points": 3.44,
+                "teleop_coral": 4.69,
+                "teleop_coral_points": 15.82,
+                "coral_l1": 1.46,
+                "coral_l2": 1.56,
+                "coral_l3": 0.64,
+                "coral_l4": 1.59,
+                "total_coral_points": 19.26,
+                "processor_algae": 0.58,
+                "processor_algae_points": 1.73,
+                "net_algae": -0.08,
+                "net_algae_points": -0.3,
+                "total_algae_points": 1.43,
+                "total_game_pieces": 5.75,
+                "barge_points": 2.5,
+                "rp_1": 0.2115,
+                "rp_2": -0.1352,
+                "rp_3": 0.1247
+            },
+            "stats": {
+                "start": 25.87,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 695,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Bison Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 59.05,
+                "sd": 8.02
+            },
+            "unitless": 1713.0,
+            "norm": 1688.0,
+            "conf": [
+                -0.91,
+                1.24
+            ],
+            "breakdown": {
+                "total_points": 59.05,
+                "auto_points": 13.58,
+                "teleop_points": 42.32,
+                "endgame_points": 3.15,
+                "auto_rp": 0.3701,
+                "coral_rp": 0.1695,
+                "barge_rp": 0.1589,
+                "tiebreaker_points": 0.1,
+                "auto_leave_points": 3.37,
+                "auto_coral": 1.48,
+                "auto_coral_points": 10.21,
+                "teleop_coral": 9.5,
+                "teleop_coral_points": 40.07,
+                "coral_l1": 0.87,
+                "coral_l2": 0.62,
+                "coral_l3": 3.67,
+                "coral_l4": 5.81,
+                "total_coral_points": 50.28,
+                "processor_algae": 0.19,
+                "processor_algae_points": 0.58,
+                "net_algae": 0.42,
+                "net_algae_points": 1.67,
+                "total_algae_points": 2.25,
+                "total_game_pieces": 11.59,
+                "barge_points": 3.15,
+                "rp_1": 0.3701,
+                "rp_2": 0.1695,
+                "rp_3": 0.1589
+            },
+            "stats": {
+                "start": 59.05,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1308,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Saint Ignatius High School Robotics Team",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 21.86,
+                "sd": 4.54
+            },
+            "unitless": 1461.0,
+            "norm": 1484.0,
+            "conf": [
+                -1.09,
+                1.13
+            ],
+            "breakdown": {
+                "total_points": 21.86,
+                "auto_points": 3.87,
+                "teleop_points": 16.97,
+                "endgame_points": 1.03,
+                "auto_rp": 0.2207,
+                "coral_rp": -0.1316,
+                "barge_rp": -0.0056,
+                "tiebreaker_points": 0.05,
+                "auto_leave_points": 2.64,
+                "auto_coral": 0.26,
+                "auto_coral_points": 1.23,
+                "teleop_coral": 2.27,
+                "teleop_coral_points": 10.75,
+                "coral_l1": 0.44,
+                "coral_l2": -0.24,
+                "coral_l3": 0.2,
+                "coral_l4": 2.13,
+                "total_coral_points": 11.98,
+                "processor_algae": 1.67,
+                "processor_algae_points": 5.01,
+                "net_algae": 0.3,
+                "net_algae_points": 1.21,
+                "total_algae_points": 6.22,
+                "total_game_pieces": 4.5,
+                "barge_points": 1.03,
+                "rp_1": 0.2207,
+                "rp_2": -0.1316,
+                "rp_3": -0.0056
+            },
+            "stats": {
+                "start": 21.86,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1405,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Finney Falcons",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 45.27,
+                "sd": 8.75
+            },
+            "unitless": 1620.0,
+            "norm": 1608.0,
+            "conf": [
+                -0.92,
+                1.25
+            ],
+            "breakdown": {
+                "total_points": 45.27,
+                "auto_points": 8.61,
+                "teleop_points": 30.75,
+                "endgame_points": 5.92,
+                "auto_rp": 0.2036,
+                "coral_rp": 0.0727,
+                "barge_rp": 0.4417,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 2.91,
+                "auto_coral": 0.91,
+                "auto_coral_points": 5.7,
+                "teleop_coral": 6.73,
+                "teleop_coral_points": 29.16,
+                "coral_l1": 0.17,
+                "coral_l2": 1.18,
+                "coral_l3": 2.16,
+                "coral_l4": 4.13,
+                "total_coral_points": 34.86,
+                "processor_algae": 0.14,
+                "processor_algae_points": 0.42,
+                "net_algae": 0.29,
+                "net_algae_points": 1.17,
+                "total_algae_points": 1.59,
+                "total_game_pieces": 8.07,
+                "barge_points": 5.92,
+                "rp_1": 0.2036,
+                "rp_2": 0.0727,
+                "rp_3": 0.4417
+            },
+            "stats": {
+                "start": 45.27,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1511,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Rolling Thunder",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 32.53,
+                "sd": 6.58
+            },
+            "unitless": 1533.0,
+            "norm": 1544.0,
+            "conf": [
+                -0.99,
+                1.17
+            ],
+            "breakdown": {
+                "total_points": 32.53,
+                "auto_points": 3.95,
+                "teleop_points": 23.17,
+                "endgame_points": 5.41,
+                "auto_rp": 0.199,
+                "coral_rp": -0.1361,
+                "barge_rp": 0.2695,
+                "tiebreaker_points": 0.16,
+                "auto_leave_points": 3.29,
+                "auto_coral": 0.09,
+                "auto_coral_points": 0.66,
+                "teleop_coral": 3.66,
+                "teleop_coral_points": 16.71,
+                "coral_l1": 0.18,
+                "coral_l2": 0.22,
+                "coral_l3": 0.59,
+                "coral_l4": 2.76,
+                "total_coral_points": 17.36,
+                "processor_algae": 0.31,
+                "processor_algae_points": 0.92,
+                "net_algae": 1.39,
+                "net_algae_points": 5.54,
+                "total_algae_points": 6.47,
+                "total_game_pieces": 5.45,
+                "barge_points": 5.41,
+                "rp_1": 0.199,
+                "rp_2": -0.1361,
+                "rp_3": 0.2695
+            },
+            "stats": {
+                "start": 32.53,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1559,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Devil Tech",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 24.46,
+                "sd": 3.83
+            },
+            "unitless": 1478.0,
+            "norm": 1500.0,
+            "conf": [
+                -1.07,
+                1.15
+            ],
+            "breakdown": {
+                "total_points": 24.46,
+                "auto_points": 5.57,
+                "teleop_points": 13.65,
+                "endgame_points": 5.23,
+                "auto_rp": 0.0857,
+                "coral_rp": -0.0502,
+                "barge_rp": 0.3673,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 1.96,
+                "auto_coral": 0.65,
+                "auto_coral_points": 3.61,
+                "teleop_coral": 3.24,
+                "teleop_coral_points": 13.13,
+                "coral_l1": 0.68,
+                "coral_l2": 0.53,
+                "coral_l3": 0.7,
+                "coral_l4": 1.99,
+                "total_coral_points": 16.74,
+                "processor_algae": 0.05,
+                "processor_algae_points": 0.15,
+                "net_algae": 0.09,
+                "net_algae_points": 0.38,
+                "total_algae_points": 0.53,
+                "total_game_pieces": 4.03,
+                "barge_points": 5.23,
+                "rp_1": 0.0857,
+                "rp_2": -0.0502,
+                "rp_3": 0.3673
+            },
+            "stats": {
+                "start": 24.46,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 1787,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Flying Circuits",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 47.97,
+                "sd": 7.13
+            },
+            "unitless": 1638.0,
+            "norm": 1621.0,
+            "conf": [
+                -1.24,
+                0.91
+            ],
+            "breakdown": {
+                "total_points": 47.97,
+                "auto_points": 11.02,
+                "teleop_points": 28.45,
+                "endgame_points": 8.5,
+                "auto_rp": 0.487,
+                "coral_rp": -0.1082,
+                "barge_rp": 0.4225,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 3.93,
+                "auto_coral": 1.04,
+                "auto_coral_points": 7.09,
+                "teleop_coral": 6.36,
+                "teleop_coral_points": 27.67,
+                "coral_l1": 0.48,
+                "coral_l2": 0.66,
+                "coral_l3": 1.53,
+                "coral_l4": 4.72,
+                "total_coral_points": 34.76,
+                "processor_algae": 0.09,
+                "processor_algae_points": 0.26,
+                "net_algae": 0.13,
+                "net_algae_points": 0.51,
+                "total_algae_points": 0.78,
+                "total_game_pieces": 7.66,
+                "barge_points": 8.5,
+                "rp_1": 0.487,
+                "rp_2": -0.1082,
+                "rp_3": 0.4225
+            },
+            "stats": {
+                "start": 47.97,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2172,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Steel Unit-E",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 24.07,
+                "sd": 4.81
+            },
+            "unitless": 1476.0,
+            "norm": 1498.0,
+            "conf": [
+                -0.96,
+                1.19
+            ],
+            "breakdown": {
+                "total_points": 24.07,
+                "auto_points": 4.6,
+                "teleop_points": 17.38,
+                "endgame_points": 2.09,
+                "auto_rp": 0.1327,
+                "coral_rp": -0.0436,
+                "barge_rp": -0.0059,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.84,
+                "auto_coral": 0.34,
+                "auto_coral_points": 1.76,
+                "teleop_coral": 4.38,
+                "teleop_coral_points": 17.88,
+                "coral_l1": 0.72,
+                "coral_l2": 0.81,
+                "coral_l3": 0.72,
+                "coral_l4": 2.48,
+                "total_coral_points": 19.65,
+                "processor_algae": -0.15,
+                "processor_algae_points": -0.44,
+                "net_algae": -0.02,
+                "net_algae_points": -0.07,
+                "total_algae_points": -0.5,
+                "total_game_pieces": 4.57,
+                "barge_points": 2.09,
+                "rp_1": 0.1327,
+                "rp_2": -0.0436,
+                "rp_3": -0.0059
+            },
+            "stats": {
+                "start": 24.07,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2228,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "CougarTech",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 46.43,
+                "sd": 6.39
+            },
+            "unitless": 1627.0,
+            "norm": 1614.0,
+            "conf": [
+                -0.89,
+                1.23
+            ],
+            "breakdown": {
+                "total_points": 46.43,
+                "auto_points": 12.69,
+                "teleop_points": 27.26,
+                "endgame_points": 6.48,
+                "auto_rp": 0.3476,
+                "coral_rp": -0.0152,
+                "barge_rp": 0.3613,
+                "tiebreaker_points": 0.19,
+                "auto_leave_points": 3.14,
+                "auto_coral": 1.46,
+                "auto_coral_points": 9.55,
+                "teleop_coral": 4.03,
+                "teleop_coral_points": 16.03,
+                "coral_l1": 0.23,
+                "coral_l2": 1.07,
+                "coral_l3": 1.8,
+                "coral_l4": 2.4,
+                "total_coral_points": 25.59,
+                "processor_algae": 0.67,
+                "processor_algae_points": 2.0,
+                "net_algae": 2.31,
+                "net_algae_points": 9.23,
+                "total_algae_points": 11.23,
+                "total_game_pieces": 8.48,
+                "barge_points": 6.48,
+                "rp_1": 0.3476,
+                "rp_2": -0.0152,
+                "rp_3": 0.3613
+            },
+            "stats": {
+                "start": 46.43,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2252,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Mavericks",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 40.99,
+                "sd": 8.05
+            },
+            "unitless": 1590.0,
+            "norm": 1587.0,
+            "conf": [
+                -0.86,
+                0.93
+            ],
+            "breakdown": {
+                "total_points": 40.99,
+                "auto_points": 11.8,
+                "teleop_points": 29.07,
+                "endgame_points": 0.12,
+                "auto_rp": 0.2893,
+                "coral_rp": -0.1634,
+                "barge_rp": 0.0072,
+                "tiebreaker_points": -0.04,
+                "auto_leave_points": 3.1,
+                "auto_coral": 1.33,
+                "auto_coral_points": 8.71,
+                "teleop_coral": 6.6,
+                "teleop_coral_points": 27.78,
+                "coral_l1": 0.89,
+                "coral_l2": 0.81,
+                "coral_l3": 1.39,
+                "coral_l4": 4.84,
+                "total_coral_points": 36.48,
+                "processor_algae": 0.17,
+                "processor_algae_points": 0.52,
+                "net_algae": 0.2,
+                "net_algae_points": 0.78,
+                "total_algae_points": 1.3,
+                "total_game_pieces": 8.3,
+                "barge_points": 0.12,
+                "rp_1": 0.2893,
+                "rp_2": -0.1634,
+                "rp_3": 0.0072
+            },
+            "stats": {
+                "start": 40.99,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2399,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Fighting Unicorns",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 37.55,
+                "sd": 4.79
+            },
+            "unitless": 1567.0,
+            "norm": 1569.0,
+            "conf": [
+                -0.68,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 37.55,
+                "auto_points": 8.28,
+                "teleop_points": 26.34,
+                "endgame_points": 2.93,
+                "auto_rp": 0.2899,
+                "coral_rp": -0.0028,
+                "barge_rp": 0.1165,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.77,
+                "auto_coral": 0.9,
+                "auto_coral_points": 5.51,
+                "teleop_coral": 5.35,
+                "teleop_coral_points": 26.05,
+                "coral_l1": -0.1,
+                "coral_l2": -0.07,
+                "coral_l3": 1.73,
+                "coral_l4": 4.71,
+                "total_coral_points": 31.56,
+                "processor_algae": 0.25,
+                "processor_algae_points": 0.76,
+                "net_algae": -0.12,
+                "net_algae_points": -0.48,
+                "total_algae_points": 0.29,
+                "total_game_pieces": 6.41,
+                "barge_points": 2.93,
+                "rp_1": 0.2899,
+                "rp_2": -0.0028,
+                "rp_3": 0.1165
+            },
+            "stats": {
+                "start": 37.55,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 2603,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Steel Stingers",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 33.72,
+                "sd": 3.13
+            },
+            "unitless": 1541.0,
+            "norm": 1550.0,
+            "conf": [
+                -1.05,
+                1.12
+            ],
+            "breakdown": {
+                "total_points": 33.72,
+                "auto_points": 8.34,
+                "teleop_points": 20.93,
+                "endgame_points": 4.45,
+                "auto_rp": 0.3223,
+                "coral_rp": 0.0528,
+                "barge_rp": 0.2944,
+                "tiebreaker_points": 0.15,
+                "auto_leave_points": 2.95,
+                "auto_coral": 0.81,
+                "auto_coral_points": 5.39,
+                "teleop_coral": 4.05,
+                "teleop_coral_points": 18.89,
+                "coral_l1": -0.29,
+                "coral_l2": 0.83,
+                "coral_l3": 0.77,
+                "coral_l4": 3.56,
+                "total_coral_points": 24.28,
+                "processor_algae": 0.52,
+                "processor_algae_points": 1.56,
+                "net_algae": 0.12,
+                "net_algae_points": 0.48,
+                "total_algae_points": 2.03,
+                "total_game_pieces": 5.5,
+                "barge_points": 4.45,
+                "rp_1": 0.3223,
+                "rp_2": 0.0528,
+                "rp_3": 0.2944
+            },
+            "stats": {
+                "start": 33.72,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3015,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Ranger Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 64.45,
+                "sd": 6.12
+            },
+            "unitless": 1750.0,
+            "norm": 1723.0,
+            "conf": [
+                -0.73,
+                1.02
+            ],
+            "breakdown": {
+                "total_points": 64.45,
+                "auto_points": 15.5,
+                "teleop_points": 39.28,
+                "endgame_points": 9.66,
+                "auto_rp": 0.3915,
+                "coral_rp": -0.007,
+                "barge_rp": 0.5622,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 2.9,
+                "auto_coral": 1.81,
+                "auto_coral_points": 12.6,
+                "teleop_coral": 8.38,
+                "teleop_coral_points": 35.59,
+                "coral_l1": 0.59,
+                "coral_l2": 0.73,
+                "coral_l3": 3.23,
+                "coral_l4": 5.64,
+                "total_coral_points": 48.19,
+                "processor_algae": 0.45,
+                "processor_algae_points": 1.36,
+                "net_algae": 0.59,
+                "net_algae_points": 2.34,
+                "total_algae_points": 3.7,
+                "total_game_pieces": 11.3,
+                "barge_points": 9.66,
+                "rp_1": 0.3915,
+                "rp_2": -0.007,
+                "rp_3": 0.5622
+            },
+            "stats": {
+                "start": 64.45,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3173,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "IgKnighters",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 63.01,
+                "sd": 7.02
+            },
+            "unitless": 1740.0,
+            "norm": 1714.0,
+            "conf": [
+                -0.77,
+                1.02
+            ],
+            "breakdown": {
+                "total_points": 63.01,
+                "auto_points": 15.3,
+                "teleop_points": 37.81,
+                "endgame_points": 9.91,
+                "auto_rp": 0.5098,
+                "coral_rp": 0.2526,
+                "barge_rp": 0.6131,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 3.5,
+                "auto_coral": 1.8,
+                "auto_coral_points": 11.8,
+                "teleop_coral": 9.81,
+                "teleop_coral_points": 34.71,
+                "coral_l1": 2.77,
+                "coral_l2": 1.96,
+                "coral_l3": 2.76,
+                "coral_l4": 4.14,
+                "total_coral_points": 46.52,
+                "processor_algae": 0.35,
+                "processor_algae_points": 1.05,
+                "net_algae": 0.51,
+                "net_algae_points": 2.05,
+                "total_algae_points": 3.09,
+                "total_game_pieces": 12.52,
+                "barge_points": 9.91,
+                "rp_1": 0.5098,
+                "rp_2": 0.2526,
+                "rp_3": 0.6131
+            },
+            "stats": {
+                "start": 63.01,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3193,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Falco Tech",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.38,
+                "sd": 9.09
+            },
+            "unitless": 1410.0,
+            "norm": 1430.0,
+            "conf": [
+                -1.31,
+                0.74
+            ],
+            "breakdown": {
+                "total_points": 14.38,
+                "auto_points": 3.55,
+                "teleop_points": 8.18,
+                "endgame_points": 2.65,
+                "auto_rp": 0.0078,
+                "coral_rp": -0.0435,
+                "barge_rp": 0.0499,
+                "tiebreaker_points": 0.11,
+                "auto_leave_points": 2.69,
+                "auto_coral": 0.12,
+                "auto_coral_points": 0.86,
+                "teleop_coral": 1.11,
+                "teleop_coral_points": 5.21,
+                "coral_l1": -0.13,
+                "coral_l2": 0.14,
+                "coral_l3": 0.42,
+                "coral_l4": 0.8,
+                "total_coral_points": 6.07,
+                "processor_algae": 0.66,
+                "processor_algae_points": 1.99,
+                "net_algae": 0.24,
+                "net_algae_points": 0.97,
+                "total_algae_points": 2.97,
+                "total_game_pieces": 2.14,
+                "barge_points": 2.65,
+                "rp_1": 0.0078,
+                "rp_2": -0.0435,
+                "rp_3": 0.0499
+            },
+            "stats": {
+                "start": 14.38,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3260,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "SHARP",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 23.46,
+                "sd": 3.86
+            },
+            "unitless": 1472.0,
+            "norm": 1494.0,
+            "conf": [
+                -0.96,
+                1.25
+            ],
+            "breakdown": {
+                "total_points": 23.46,
+                "auto_points": 5.74,
+                "teleop_points": 13.08,
+                "endgame_points": 4.65,
+                "auto_rp": 0.214,
+                "coral_rp": -0.0552,
+                "barge_rp": 0.2489,
+                "tiebreaker_points": 0.07,
+                "auto_leave_points": 2.99,
+                "auto_coral": 0.53,
+                "auto_coral_points": 2.74,
+                "teleop_coral": 2.87,
+                "teleop_coral_points": 13.21,
+                "coral_l1": 0.31,
+                "coral_l2": 0.18,
+                "coral_l3": 0.55,
+                "coral_l4": 2.35,
+                "total_coral_points": 15.95,
+                "processor_algae": 0.23,
+                "processor_algae_points": 0.69,
+                "net_algae": -0.21,
+                "net_algae_points": -0.82,
+                "total_algae_points": -0.13,
+                "total_game_pieces": 3.42,
+                "barge_points": 4.65,
+                "rp_1": 0.214,
+                "rp_2": -0.0552,
+                "rp_3": 0.2489
+            },
+            "stats": {
+                "start": 23.46,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3484,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Short Circuit",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 15.57,
+                "sd": 3.01
+            },
+            "unitless": 1418.0,
+            "norm": 1440.0,
+            "conf": [
+                -1.12,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 15.57,
+                "auto_points": 4.27,
+                "teleop_points": 9.49,
+                "endgame_points": 1.81,
+                "auto_rp": 0.2871,
+                "coral_rp": -0.134,
+                "barge_rp": 0.0248,
+                "tiebreaker_points": -0.03,
+                "auto_leave_points": 2.87,
+                "auto_coral": 0.31,
+                "auto_coral_points": 1.41,
+                "teleop_coral": 1.71,
+                "teleop_coral_points": 8.83,
+                "coral_l1": -0.38,
+                "coral_l2": 0.39,
+                "coral_l3": 0.51,
+                "coral_l4": 1.45,
+                "total_coral_points": 10.24,
+                "processor_algae": -0.24,
+                "processor_algae_points": -0.71,
+                "net_algae": 0.34,
+                "net_algae_points": 1.37,
+                "total_algae_points": 0.67,
+                "total_game_pieces": 2.07,
+                "barge_points": 1.81,
+                "rp_1": 0.2871,
+                "rp_2": -0.134,
+                "rp_3": 0.0248
+            },
+            "stats": {
+                "start": 15.57,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3777,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Bean City Bots",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 14.11,
+                "sd": 3.5
+            },
+            "unitless": 1408.0,
+            "norm": 1427.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 14.11,
+                "auto_points": 2.89,
+                "teleop_points": 9.59,
+                "endgame_points": 1.63,
+                "auto_rp": 0.0756,
+                "coral_rp": -0.0861,
+                "barge_rp": 0.0564,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.48,
+                "auto_coral": 0.24,
+                "auto_coral_points": 1.41,
+                "teleop_coral": 2.07,
+                "teleop_coral_points": 8.16,
+                "coral_l1": 0.41,
+                "coral_l2": 0.31,
+                "coral_l3": 0.53,
+                "coral_l4": 1.06,
+                "total_coral_points": 9.57,
+                "processor_algae": 0.17,
+                "processor_algae_points": 0.52,
+                "net_algae": 0.23,
+                "net_algae_points": 0.91,
+                "total_algae_points": 1.43,
+                "total_game_pieces": 2.71,
+                "barge_points": 1.63,
+                "rp_1": 0.0756,
+                "rp_2": -0.0861,
+                "rp_3": 0.0564
+            },
+            "stats": {
+                "start": 14.11,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 3954,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "4-H Electrotechs",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 23.2,
+                "sd": 3.5
+            },
+            "unitless": 1470.0,
+            "norm": 1493.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 23.2,
+                "auto_points": 4.75,
+                "teleop_points": 15.77,
+                "endgame_points": 2.68,
+                "auto_rp": 0.1245,
+                "coral_rp": -0.0801,
+                "barge_rp": 0.0946,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.43,
+                "auto_coral": 0.4,
+                "auto_coral_points": 2.32,
+                "teleop_coral": 3.4,
+                "teleop_coral_points": 13.42,
+                "coral_l1": 0.67,
+                "coral_l2": 0.51,
+                "coral_l3": 0.87,
+                "coral_l4": 1.74,
+                "total_coral_points": 15.73,
+                "processor_algae": 0.29,
+                "processor_algae_points": 0.86,
+                "net_algae": 0.37,
+                "net_algae_points": 1.49,
+                "total_algae_points": 2.36,
+                "total_game_pieces": 4.45,
+                "barge_points": 2.68,
+                "rp_1": 0.1245,
+                "rp_2": -0.0801,
+                "rp_3": 0.0946
+            },
+            "stats": {
+                "start": 23.2,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4050,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Biohazard",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 11.7,
+                "sd": 3.67
+            },
+            "unitless": 1392.0,
+            "norm": 1406.0,
+            "conf": [
+                -1.1,
+                1.12
+            ],
+            "breakdown": {
+                "total_points": 11.7,
+                "auto_points": 3.03,
+                "teleop_points": 7.55,
+                "endgame_points": 1.12,
+                "auto_rp": 0.202,
+                "coral_rp": -0.1203,
+                "barge_rp": 0.0944,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 2.85,
+                "auto_coral": 0.09,
+                "auto_coral_points": 0.18,
+                "teleop_coral": 2.6,
+                "teleop_coral_points": 9.33,
+                "coral_l1": 1.18,
+                "coral_l2": 0.5,
+                "coral_l3": -0.5,
+                "coral_l4": 1.53,
+                "total_coral_points": 9.52,
+                "processor_algae": 0.19,
+                "processor_algae_points": 0.56,
+                "net_algae": -0.59,
+                "net_algae_points": -2.35,
+                "total_algae_points": -1.79,
+                "total_game_pieces": 2.31,
+                "barge_points": 1.12,
+                "rp_1": 0.202,
+                "rp_2": -0.1203,
+                "rp_3": 0.0944
+            },
+            "stats": {
+                "start": 11.7,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4085,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Technical Difficulties",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 24.54,
+                "sd": 3.89
+            },
+            "unitless": 1479.0,
+            "norm": 1501.0,
+            "conf": [
+                -1.09,
+                1.07
+            ],
+            "breakdown": {
+                "total_points": 24.54,
+                "auto_points": 2.45,
+                "teleop_points": 21.45,
+                "endgame_points": 0.64,
+                "auto_rp": 0.0586,
+                "coral_rp": -0.0461,
+                "barge_rp": -0.0548,
+                "tiebreaker_points": 0.25,
+                "auto_leave_points": 3.08,
+                "auto_coral": -0.06,
+                "auto_coral_points": -0.64,
+                "teleop_coral": 5.42,
+                "teleop_coral_points": 19.63,
+                "coral_l1": 1.55,
+                "coral_l2": 0.94,
+                "coral_l3": 1.06,
+                "coral_l4": 1.81,
+                "total_coral_points": 19.0,
+                "processor_algae": 0.47,
+                "processor_algae_points": 1.4,
+                "net_algae": 0.1,
+                "net_algae_points": 0.42,
+                "total_algae_points": 1.82,
+                "total_game_pieces": 5.92,
+                "barge_points": 0.64,
+                "rp_1": 0.0586,
+                "rp_2": -0.0461,
+                "rp_3": -0.0548
+            },
+            "stats": {
+                "start": 24.54,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4121,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Viking  Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 28.9,
+                "sd": 3.97
+            },
+            "unitless": 1508.0,
+            "norm": 1525.0,
+            "conf": [
+                -1.14,
+                1.05
+            ],
+            "breakdown": {
+                "total_points": 28.9,
+                "auto_points": 6.58,
+                "teleop_points": 18.48,
+                "endgame_points": 3.84,
+                "auto_rp": 0.3674,
+                "coral_rp": -0.0347,
+                "barge_rp": 0.1246,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 3.58,
+                "auto_coral": 0.58,
+                "auto_coral_points": 2.99,
+                "teleop_coral": 5.03,
+                "teleop_coral_points": 18.66,
+                "coral_l1": 1.13,
+                "coral_l2": 1.18,
+                "coral_l3": 1.54,
+                "coral_l4": 1.76,
+                "total_coral_points": 21.65,
+                "processor_algae": -0.12,
+                "processor_algae_points": -0.37,
+                "net_algae": 0.05,
+                "net_algae_points": 0.19,
+                "total_algae_points": -0.18,
+                "total_game_pieces": 5.54,
+                "barge_points": 3.84,
+                "rp_1": 0.3674,
+                "rp_2": -0.0347,
+                "rp_3": 0.1246
+            },
+            "stats": {
+                "start": 28.9,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4145,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "WorBots",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 60.31,
+                "sd": 6.97
+            },
+            "unitless": 1722.0,
+            "norm": 1696.0,
+            "conf": [
+                -0.69,
+                1.06
+            ],
+            "breakdown": {
+                "total_points": 60.31,
+                "auto_points": 17.59,
+                "teleop_points": 37.26,
+                "endgame_points": 5.46,
+                "auto_rp": 0.3684,
+                "coral_rp": 0.0875,
+                "barge_rp": 0.2371,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 3.1,
+                "auto_coral": 2.1,
+                "auto_coral_points": 14.48,
+                "teleop_coral": 7.47,
+                "teleop_coral_points": 30.75,
+                "coral_l1": 0.36,
+                "coral_l2": 1.03,
+                "coral_l3": 3.61,
+                "coral_l4": 4.55,
+                "total_coral_points": 45.23,
+                "processor_algae": 0.56,
+                "processor_algae_points": 1.69,
+                "net_algae": 1.21,
+                "net_algae_points": 4.83,
+                "total_algae_points": 6.52,
+                "total_game_pieces": 11.31,
+                "barge_points": 5.46,
+                "rp_1": 0.3684,
+                "rp_2": 0.0875,
+                "rp_3": 0.2371
+            },
+            "stats": {
+                "start": 60.31,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4269,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "CardinalBots",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 27.35,
+                "sd": 6.04
+            },
+            "unitless": 1498.0,
+            "norm": 1516.0,
+            "conf": [
+                -0.86,
+                1.27
+            ],
+            "breakdown": {
+                "total_points": 27.35,
+                "auto_points": 3.94,
+                "teleop_points": 19.91,
+                "endgame_points": 3.49,
+                "auto_rp": 0.1188,
+                "coral_rp": -0.1316,
+                "barge_rp": 0.0169,
+                "tiebreaker_points": 0.21,
+                "auto_leave_points": 2.92,
+                "auto_coral": 0.11,
+                "auto_coral_points": 1.02,
+                "teleop_coral": 3.84,
+                "teleop_coral_points": 16.62,
+                "coral_l1": -0.07,
+                "coral_l2": 0.38,
+                "coral_l3": 1.84,
+                "coral_l4": 1.81,
+                "total_coral_points": 17.64,
+                "processor_algae": 1.26,
+                "processor_algae_points": 3.79,
+                "net_algae": -0.13,
+                "net_algae_points": -0.5,
+                "total_algae_points": 3.29,
+                "total_game_pieces": 5.1,
+                "barge_points": 3.49,
+                "rp_1": 0.1188,
+                "rp_2": -0.1316,
+                "rp_3": 0.0169
+            },
+            "stats": {
+                "start": 27.35,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4601,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Circuit Birds",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 15.96,
+                "sd": 6.2
+            },
+            "unitless": 1421.0,
+            "norm": 1443.0,
+            "conf": [
+                -0.82,
+                0.98
+            ],
+            "breakdown": {
+                "total_points": 15.96,
+                "auto_points": 2.71,
+                "teleop_points": 11.8,
+                "endgame_points": 1.45,
+                "auto_rp": -0.0219,
+                "coral_rp": -0.1176,
+                "barge_rp": -0.0367,
+                "tiebreaker_points": 0.11,
+                "auto_leave_points": 1.69,
+                "auto_coral": 0.16,
+                "auto_coral_points": 1.03,
+                "teleop_coral": 2.45,
+                "teleop_coral_points": 9.02,
+                "coral_l1": 0.29,
+                "coral_l2": 1.09,
+                "coral_l3": 0.25,
+                "coral_l4": 0.99,
+                "total_coral_points": 10.05,
+                "processor_algae": 0.42,
+                "processor_algae_points": 1.25,
+                "net_algae": 0.38,
+                "net_algae_points": 1.53,
+                "total_algae_points": 2.78,
+                "total_game_pieces": 3.42,
+                "barge_points": 1.45,
+                "rp_1": -0.0219,
+                "rp_2": -0.1176,
+                "rp_3": -0.0367
+            },
+            "stats": {
+                "start": 15.96,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4611,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "OZone",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 64.29,
+                "sd": 9.41
+            },
+            "unitless": 1749.0,
+            "norm": 1722.0,
+            "conf": [
+                -0.85,
+                1.25
+            ],
+            "breakdown": {
+                "total_points": 64.29,
+                "auto_points": 15.84,
+                "teleop_points": 42.53,
+                "endgame_points": 5.92,
+                "auto_rp": 0.327,
+                "coral_rp": 0.2424,
+                "barge_rp": 0.1632,
+                "tiebreaker_points": 0.26,
+                "auto_leave_points": 3.02,
+                "auto_coral": 1.78,
+                "auto_coral_points": 12.82,
+                "teleop_coral": 8.88,
+                "teleop_coral_points": 35.31,
+                "coral_l1": -0.07,
+                "coral_l2": 2.54,
+                "coral_l3": 4.07,
+                "coral_l4": 4.13,
+                "total_coral_points": 48.14,
+                "processor_algae": 0.8,
+                "processor_algae_points": 2.39,
+                "net_algae": 1.21,
+                "net_algae_points": 4.83,
+                "total_algae_points": 7.22,
+                "total_game_pieces": 12.78,
+                "barge_points": 5.92,
+                "rp_1": 0.327,
+                "rp_2": 0.2424,
+                "rp_3": 0.1632
+            },
+            "stats": {
+                "start": 64.29,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 4991,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Horsepower",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 28.49,
+                "sd": 4.59
+            },
+            "unitless": 1506.0,
+            "norm": 1523.0,
+            "conf": [
+                -1.07,
+                1.11
+            ],
+            "breakdown": {
+                "total_points": 28.49,
+                "auto_points": 4.05,
+                "teleop_points": 21.4,
+                "endgame_points": 3.04,
+                "auto_rp": 0.1785,
+                "coral_rp": 0.0604,
+                "barge_rp": 0.1759,
+                "tiebreaker_points": 0.17,
+                "auto_leave_points": 2.67,
+                "auto_coral": 0.26,
+                "auto_coral_points": 1.38,
+                "teleop_coral": 5.16,
+                "teleop_coral_points": 18.33,
+                "coral_l1": 0.37,
+                "coral_l2": 2.28,
+                "coral_l3": 2.13,
+                "coral_l4": 0.65,
+                "total_coral_points": 19.71,
+                "processor_algae": 0.68,
+                "processor_algae_points": 2.03,
+                "net_algae": 0.26,
+                "net_algae_points": 1.03,
+                "total_algae_points": 3.07,
+                "total_game_pieces": 6.37,
+                "barge_points": 3.04,
+                "rp_1": 0.1785,
+                "rp_2": 0.0604,
+                "rp_3": 0.1759
+            },
+            "stats": {
+                "start": 28.49,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5413,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Stellar Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 13.08,
+                "sd": 3.98
+            },
+            "unitless": 1401.0,
+            "norm": 1419.0,
+            "conf": [
+                -1.19,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 13.08,
+                "auto_points": 4.02,
+                "teleop_points": 6.72,
+                "endgame_points": 2.34,
+                "auto_rp": 0.1132,
+                "coral_rp": -0.1337,
+                "barge_rp": 0.0457,
+                "tiebreaker_points": 0.01,
+                "auto_leave_points": 2.51,
+                "auto_coral": 0.32,
+                "auto_coral_points": 1.51,
+                "teleop_coral": 1.69,
+                "teleop_coral_points": 5.76,
+                "coral_l1": 0.8,
+                "coral_l2": 0.25,
+                "coral_l3": 0.39,
+                "coral_l4": 0.6,
+                "total_coral_points": 7.27,
+                "processor_algae": 0.12,
+                "processor_algae_points": 0.36,
+                "net_algae": 0.15,
+                "net_algae_points": 0.59,
+                "total_algae_points": 0.95,
+                "total_game_pieces": 2.3,
+                "barge_points": 2.34,
+                "rp_1": 0.1132,
+                "rp_2": -0.1337,
+                "rp_3": 0.0457
+            },
+            "stats": {
+                "start": 13.08,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 5740,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Trojanators",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 42.8,
+                "sd": 5.05
+            },
+            "unitless": 1603.0,
+            "norm": 1596.0,
+            "conf": [
+                -1.03,
+                1.14
+            ],
+            "breakdown": {
+                "total_points": 42.8,
+                "auto_points": 13.01,
+                "teleop_points": 22.73,
+                "endgame_points": 7.06,
+                "auto_rp": 0.5008,
+                "coral_rp": -0.1325,
+                "barge_rp": 0.4769,
+                "tiebreaker_points": 0.15,
+                "auto_leave_points": 3.34,
+                "auto_coral": 1.53,
+                "auto_coral_points": 9.67,
+                "teleop_coral": 5.17,
+                "teleop_coral_points": 21.64,
+                "coral_l1": 1.05,
+                "coral_l2": 0.62,
+                "coral_l3": 0.62,
+                "coral_l4": 4.42,
+                "total_coral_points": 31.31,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.65,
+                "net_algae": 0.11,
+                "net_algae_points": 0.44,
+                "total_algae_points": 1.09,
+                "total_game_pieces": 7.04,
+                "barge_points": 7.06,
+                "rp_1": 0.5008,
+                "rp_2": -0.1325,
+                "rp_3": 0.4769
+            },
+            "stats": {
+                "start": 42.8,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 6181,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Cryptic Cyborgs",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 26.05,
+                "sd": 3.5
+            },
+            "unitless": 1489.0,
+            "norm": 1509.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 26.05,
+                "auto_points": 5.33,
+                "teleop_points": 17.71,
+                "endgame_points": 3.01,
+                "auto_rp": 0.1398,
+                "coral_rp": -0.0783,
+                "barge_rp": 0.1066,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.73,
+                "auto_coral": 0.44,
+                "auto_coral_points": 2.6,
+                "teleop_coral": 3.81,
+                "teleop_coral_points": 15.06,
+                "coral_l1": 0.75,
+                "coral_l2": 0.57,
+                "coral_l3": 0.98,
+                "coral_l4": 1.95,
+                "total_coral_points": 17.67,
+                "processor_algae": 0.32,
+                "processor_algae_points": 0.96,
+                "net_algae": 0.42,
+                "net_algae_points": 1.68,
+                "total_algae_points": 2.65,
+                "total_game_pieces": 5.0,
+                "barge_points": 3.01,
+                "rp_1": 0.1398,
+                "rp_2": -0.0783,
+                "rp_3": 0.1066
+            },
+            "stats": {
+                "start": 26.05,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 6964,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "BearBots",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 30.82,
+                "sd": 6.29
+            },
+            "unitless": 1521.0,
+            "norm": 1535.0,
+            "conf": [
+                -0.9,
+                1.21
+            ],
+            "breakdown": {
+                "total_points": 30.82,
+                "auto_points": 8.44,
+                "teleop_points": 16.54,
+                "endgame_points": 5.84,
+                "auto_rp": 0.3486,
+                "coral_rp": -0.1621,
+                "barge_rp": 0.3948,
+                "tiebreaker_points": 0.18,
+                "auto_leave_points": 3.23,
+                "auto_coral": 0.72,
+                "auto_coral_points": 5.21,
+                "teleop_coral": 1.78,
+                "teleop_coral_points": 8.33,
+                "coral_l1": 0.12,
+                "coral_l2": 0.04,
+                "coral_l3": 0.01,
+                "coral_l4": 2.33,
+                "total_coral_points": 13.54,
+                "processor_algae": 0.7,
+                "processor_algae_points": 2.1,
+                "net_algae": 1.53,
+                "net_algae_points": 6.11,
+                "total_algae_points": 8.21,
+                "total_game_pieces": 4.73,
+                "barge_points": 5.84,
+                "rp_1": 0.3486,
+                "rp_2": -0.1621,
+                "rp_3": 0.3948
+            },
+            "stats": {
+                "start": 30.82,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7165,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Perkins Pirates",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 26.6,
+                "sd": 6.65
+            },
+            "unitless": 1493.0,
+            "norm": 1512.0,
+            "conf": [
+                -1.09,
+                1.13
+            ],
+            "breakdown": {
+                "total_points": 26.6,
+                "auto_points": 4.26,
+                "teleop_points": 19.62,
+                "endgame_points": 2.72,
+                "auto_rp": 0.3461,
+                "coral_rp": 0.061,
+                "barge_rp": 0.0026,
+                "tiebreaker_points": 0.1,
+                "auto_leave_points": 3.31,
+                "auto_coral": 0.21,
+                "auto_coral_points": 0.96,
+                "teleop_coral": 4.51,
+                "teleop_coral_points": 15.96,
+                "coral_l1": 1.08,
+                "coral_l2": 1.27,
+                "coral_l3": 1.18,
+                "coral_l4": 1.18,
+                "total_coral_points": 16.92,
+                "processor_algae": 0.59,
+                "processor_algae_points": 1.77,
+                "net_algae": 0.47,
+                "net_algae_points": 1.89,
+                "total_algae_points": 3.66,
+                "total_game_pieces": 5.78,
+                "barge_points": 2.72,
+                "rp_1": 0.3461,
+                "rp_2": 0.061,
+                "rp_3": 0.0026
+            },
+            "stats": {
+                "start": 26.6,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7717,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Steam Punks",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 19.26,
+                "sd": 3.5
+            },
+            "unitless": 1443.0,
+            "norm": 1467.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 19.26,
+                "auto_points": 3.94,
+                "teleop_points": 13.09,
+                "endgame_points": 2.22,
+                "auto_rp": 0.1033,
+                "coral_rp": -0.0827,
+                "barge_rp": 0.078,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.02,
+                "auto_coral": 0.33,
+                "auto_coral_points": 1.93,
+                "teleop_coral": 2.82,
+                "teleop_coral_points": 11.13,
+                "coral_l1": 0.55,
+                "coral_l2": 0.42,
+                "coral_l3": 0.72,
+                "coral_l4": 1.44,
+                "total_coral_points": 13.06,
+                "processor_algae": 0.24,
+                "processor_algae_points": 0.71,
+                "net_algae": 0.31,
+                "net_algae_points": 1.24,
+                "total_algae_points": 1.96,
+                "total_game_pieces": 3.69,
+                "barge_points": 2.22,
+                "rp_1": 0.1033,
+                "rp_2": -0.0827,
+                "rp_3": 0.078
+            },
+            "stats": {
+                "start": 19.26,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 7885,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Panther Tech",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 19.82,
+                "sd": 3.5
+            },
+            "unitless": 1447.0,
+            "norm": 1471.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 19.82,
+                "auto_points": 4.05,
+                "teleop_points": 13.48,
+                "endgame_points": 2.29,
+                "auto_rp": 0.1063,
+                "coral_rp": -0.0824,
+                "barge_rp": 0.0804,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.08,
+                "auto_coral": 0.34,
+                "auto_coral_points": 1.98,
+                "teleop_coral": 2.9,
+                "teleop_coral_points": 11.46,
+                "coral_l1": 0.57,
+                "coral_l2": 0.44,
+                "coral_l3": 0.74,
+                "coral_l4": 1.49,
+                "total_coral_points": 13.44,
+                "processor_algae": 0.24,
+                "processor_algae_points": 0.73,
+                "net_algae": 0.32,
+                "net_algae_points": 1.28,
+                "total_algae_points": 2.01,
+                "total_game_pieces": 3.8,
+                "barge_points": 2.29,
+                "rp_1": 0.1063,
+                "rp_2": -0.0824,
+                "rp_3": 0.0804
+            },
+            "stats": {
+                "start": 19.82,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8140,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "RoboManiacs",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 11.63,
+                "sd": 7.73
+            },
+            "unitless": 1391.0,
+            "norm": 1406.0,
+            "conf": [
+                -1.23,
+                0.99
+            ],
+            "breakdown": {
+                "total_points": 11.63,
+                "auto_points": 2.96,
+                "teleop_points": 5.45,
+                "endgame_points": 3.22,
+                "auto_rp": 0.2378,
+                "coral_rp": -0.1372,
+                "barge_rp": 0.2037,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 2.59,
+                "auto_coral": 0.19,
+                "auto_coral_points": 0.37,
+                "teleop_coral": 1.79,
+                "teleop_coral_points": 5.27,
+                "coral_l1": 1.39,
+                "coral_l2": 0.21,
+                "coral_l3": -0.19,
+                "coral_l4": 0.57,
+                "total_coral_points": 5.64,
+                "processor_algae": 0.08,
+                "processor_algae_points": 0.23,
+                "net_algae": -0.01,
+                "net_algae_points": -0.05,
+                "total_algae_points": 0.18,
+                "total_game_pieces": 2.05,
+                "barge_points": 3.22,
+                "rp_1": 0.2378,
+                "rp_2": -0.1372,
+                "rp_3": 0.2037
+            },
+            "stats": {
+                "start": 11.63,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8145,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Tech Warriors",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 10.84,
+                "sd": 4.94
+            },
+            "unitless": 1386.0,
+            "norm": 1398.0,
+            "conf": [
+                -1.13,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 10.84,
+                "auto_points": 3.64,
+                "teleop_points": 6.05,
+                "endgame_points": 1.15,
+                "auto_rp": 0.1413,
+                "coral_rp": -0.1361,
+                "barge_rp": 0.1402,
+                "tiebreaker_points": 0.13,
+                "auto_leave_points": 2.39,
+                "auto_coral": 0.3,
+                "auto_coral_points": 1.25,
+                "teleop_coral": 0.89,
+                "teleop_coral_points": 5.04,
+                "coral_l1": -0.03,
+                "coral_l2": 0.01,
+                "coral_l3": 0.04,
+                "coral_l4": 1.16,
+                "total_coral_points": 6.29,
+                "processor_algae": 0.29,
+                "processor_algae_points": 0.88,
+                "net_algae": 0.03,
+                "net_algae_points": 0.13,
+                "total_algae_points": 1.01,
+                "total_game_pieces": 1.51,
+                "barge_points": 1.15,
+                "rp_1": 0.1413,
+                "rp_2": -0.1361,
+                "rp_3": 0.1402
+            },
+            "stats": {
+                "start": 10.84,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8222,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Argonauts",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 13.08,
+                "sd": 5.27
+            },
+            "unitless": 1401.0,
+            "norm": 1419.0,
+            "conf": [
+                -0.96,
+                1.2
+            ],
+            "breakdown": {
+                "total_points": 13.08,
+                "auto_points": 4.29,
+                "teleop_points": 5.5,
+                "endgame_points": 3.28,
+                "auto_rp": 0.1868,
+                "coral_rp": -0.1925,
+                "barge_rp": 0.1861,
+                "tiebreaker_points": -0.13,
+                "auto_leave_points": 2.41,
+                "auto_coral": 0.32,
+                "auto_coral_points": 1.89,
+                "teleop_coral": 1.0,
+                "teleop_coral_points": 3.96,
+                "coral_l1": 0.15,
+                "coral_l2": 0.63,
+                "coral_l3": -0.48,
+                "coral_l4": 1.01,
+                "total_coral_points": 5.84,
+                "processor_algae": -0.06,
+                "processor_algae_points": -0.18,
+                "net_algae": 0.43,
+                "net_algae_points": 1.73,
+                "total_algae_points": 1.54,
+                "total_game_pieces": 1.68,
+                "barge_points": 3.28,
+                "rp_1": 0.1868,
+                "rp_2": -0.1925,
+                "rp_3": 0.1861
+            },
+            "stats": {
+                "start": 13.08,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8243,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "AstroCircuits",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 20.76,
+                "sd": 4.7
+            },
+            "unitless": 1453.0,
+            "norm": 1477.0,
+            "conf": [
+                -1.2,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 20.76,
+                "auto_points": 5.85,
+                "teleop_points": 13.38,
+                "endgame_points": 1.53,
+                "auto_rp": 0.2095,
+                "coral_rp": 0.0675,
+                "barge_rp": 0.052,
+                "tiebreaker_points": 0.08,
+                "auto_leave_points": 2.86,
+                "auto_coral": 0.66,
+                "auto_coral_points": 2.99,
+                "teleop_coral": 4.65,
+                "teleop_coral_points": 11.95,
+                "coral_l1": 3.49,
+                "coral_l2": 0.62,
+                "coral_l3": 0.78,
+                "coral_l4": 0.42,
+                "total_coral_points": 14.94,
+                "processor_algae": 0.66,
+                "processor_algae_points": 1.98,
+                "net_algae": -0.14,
+                "net_algae_points": -0.55,
+                "total_algae_points": 1.43,
+                "total_game_pieces": 5.84,
+                "barge_points": 1.53,
+                "rp_1": 0.2095,
+                "rp_2": 0.0675,
+                "rp_3": 0.052
+            },
+            "stats": {
+                "start": 20.76,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8393,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Giant Diencephalic BrainSTEM Robotics Team",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 22.7,
+                "sd": 4.66
+            },
+            "unitless": 1466.0,
+            "norm": 1490.0,
+            "conf": [
+                -1.25,
+                0.97
+            ],
+            "breakdown": {
+                "total_points": 22.7,
+                "auto_points": 7.52,
+                "teleop_points": 14.32,
+                "endgame_points": 0.86,
+                "auto_rp": 0.1618,
+                "coral_rp": -0.1265,
+                "barge_rp": 0.0184,
+                "tiebreaker_points": 0.2,
+                "auto_leave_points": 2.88,
+                "auto_coral": 0.68,
+                "auto_coral_points": 4.63,
+                "teleop_coral": 3.06,
+                "teleop_coral_points": 9.81,
+                "coral_l1": 0.96,
+                "coral_l2": 1.13,
+                "coral_l3": 0.42,
+                "coral_l4": 1.23,
+                "total_coral_points": 14.44,
+                "processor_algae": 1.45,
+                "processor_algae_points": 4.34,
+                "net_algae": 0.04,
+                "net_algae_points": 0.18,
+                "total_algae_points": 4.52,
+                "total_game_pieces": 5.23,
+                "barge_points": 0.86,
+                "rp_1": 0.1618,
+                "rp_2": -0.1265,
+                "rp_3": 0.0184
+            },
+            "stats": {
+                "start": 22.7,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8713,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Nordonia Knights",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 18.85,
+                "sd": 3.5
+            },
+            "unitless": 1440.0,
+            "norm": 1464.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 18.85,
+                "auto_points": 3.86,
+                "teleop_points": 12.81,
+                "endgame_points": 2.18,
+                "auto_rp": 0.1011,
+                "coral_rp": -0.083,
+                "barge_rp": 0.0763,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.97,
+                "auto_coral": 0.32,
+                "auto_coral_points": 1.88,
+                "teleop_coral": 2.76,
+                "teleop_coral_points": 10.9,
+                "coral_l1": 0.54,
+                "coral_l2": 0.42,
+                "coral_l3": 0.71,
+                "coral_l4": 1.41,
+                "total_coral_points": 12.78,
+                "processor_algae": 0.23,
+                "processor_algae_points": 0.7,
+                "net_algae": 0.3,
+                "net_algae_points": 1.21,
+                "total_algae_points": 1.91,
+                "total_game_pieces": 3.62,
+                "barge_points": 2.18,
+                "rp_1": 0.1011,
+                "rp_2": -0.083,
+                "rp_3": 0.0763
+            },
+            "stats": {
+                "start": 18.85,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 8718,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Tigerbotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 12.41,
+                "sd": 3.5
+            },
+            "unitless": 1397.0,
+            "norm": 1413.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 12.41,
+                "auto_points": 2.54,
+                "teleop_points": 8.44,
+                "endgame_points": 1.43,
+                "auto_rp": 0.0664,
+                "coral_rp": -0.0872,
+                "barge_rp": 0.0493,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.3,
+                "auto_coral": 0.21,
+                "auto_coral_points": 1.24,
+                "teleop_coral": 1.82,
+                "teleop_coral_points": 7.18,
+                "coral_l1": 0.36,
+                "coral_l2": 0.27,
+                "coral_l3": 0.47,
+                "coral_l4": 0.93,
+                "total_coral_points": 8.42,
+                "processor_algae": 0.15,
+                "processor_algae_points": 0.46,
+                "net_algae": 0.2,
+                "net_algae_points": 0.8,
+                "total_algae_points": 1.26,
+                "total_game_pieces": 2.38,
+                "barge_points": 1.43,
+                "rp_1": 0.0664,
+                "rp_2": -0.0872,
+                "rp_3": 0.0493
+            },
+            "stats": {
+                "start": 12.41,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9139,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Reserve Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 21.35,
+                "sd": 3.5
+            },
+            "unitless": 1457.0,
+            "norm": 1481.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 21.35,
+                "auto_points": 4.37,
+                "teleop_points": 14.52,
+                "endgame_points": 2.47,
+                "auto_rp": 0.1145,
+                "coral_rp": -0.0814,
+                "barge_rp": 0.0868,
+                "tiebreaker_points": 0.03,
+                "auto_leave_points": 2.24,
+                "auto_coral": 0.36,
+                "auto_coral_points": 2.13,
+                "teleop_coral": 3.13,
+                "teleop_coral_points": 12.35,
+                "coral_l1": 0.61,
+                "coral_l2": 0.47,
+                "coral_l3": 0.8,
+                "coral_l4": 1.6,
+                "total_coral_points": 14.48,
+                "processor_algae": 0.26,
+                "processor_algae_points": 0.79,
+                "net_algae": 0.34,
+                "net_algae_points": 1.38,
+                "total_algae_points": 2.17,
+                "total_game_pieces": 4.1,
+                "barge_points": 2.47,
+                "rp_1": 0.1145,
+                "rp_2": -0.0814,
+                "rp_3": 0.0868
+            },
+            "stats": {
+                "start": 21.35,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9194,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Gemin\u221a-1s",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.85,
+                "sd": 3.56
+            },
+            "unitless": 1413.0,
+            "norm": 1434.0,
+            "conf": [
+                -1.14,
+                1.08
+            ],
+            "breakdown": {
+                "total_points": 14.85,
+                "auto_points": 3.87,
+                "teleop_points": 9.46,
+                "endgame_points": 1.53,
+                "auto_rp": 0.2684,
+                "coral_rp": -0.1279,
+                "barge_rp": -0.1157,
+                "tiebreaker_points": 0.06,
+                "auto_leave_points": 3.35,
+                "auto_coral": 0.25,
+                "auto_coral_points": 0.52,
+                "teleop_coral": 1.18,
+                "teleop_coral_points": 6.22,
+                "coral_l1": 0.29,
+                "coral_l2": -0.15,
+                "coral_l3": 0.06,
+                "coral_l4": 1.25,
+                "total_coral_points": 6.74,
+                "processor_algae": 0.15,
+                "processor_algae_points": 0.44,
+                "net_algae": 0.7,
+                "net_algae_points": 2.8,
+                "total_algae_points": 3.24,
+                "total_game_pieces": 2.29,
+                "barge_points": 1.53,
+                "rp_1": 0.2684,
+                "rp_2": -0.1279,
+                "rp_3": -0.1157
+            },
+            "stats": {
+                "start": 14.85,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9545,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Caracal Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 10.63,
+                "sd": 5.77
+            },
+            "unitless": 1384.0,
+            "norm": 1396.0,
+            "conf": [
+                -1.12,
+                1.12
+            ],
+            "breakdown": {
+                "total_points": 10.63,
+                "auto_points": 2.9,
+                "teleop_points": 6.95,
+                "endgame_points": 0.78,
+                "auto_rp": -0.0546,
+                "coral_rp": -0.1227,
+                "barge_rp": -0.0684,
+                "tiebreaker_points": -0.06,
+                "auto_leave_points": 1.69,
+                "auto_coral": 0.17,
+                "auto_coral_points": 1.21,
+                "teleop_coral": 1.27,
+                "teleop_coral_points": 5.69,
+                "coral_l1": 0.0,
+                "coral_l2": 0.27,
+                "coral_l3": 0.11,
+                "coral_l4": 1.06,
+                "total_coral_points": 6.9,
+                "processor_algae": 0.05,
+                "processor_algae_points": 0.16,
+                "net_algae": 0.27,
+                "net_algae_points": 1.1,
+                "total_algae_points": 1.26,
+                "total_game_pieces": 1.78,
+                "barge_points": 0.78,
+                "rp_1": -0.0546,
+                "rp_2": -0.1227,
+                "rp_3": -0.0684
+            },
+            "stats": {
+                "start": 10.63,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9622,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "GRIDLOCK",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.57,
+                "sd": 7.49
+            },
+            "unitless": 1411.0,
+            "norm": 1431.0,
+            "conf": [
+                -1.11,
+                1.11
+            ],
+            "breakdown": {
+                "total_points": 14.57,
+                "auto_points": 3.18,
+                "teleop_points": 10.58,
+                "endgame_points": 0.81,
+                "auto_rp": 0.2075,
+                "coral_rp": -0.1387,
+                "barge_rp": -0.0517,
+                "tiebreaker_points": -0.07,
+                "auto_leave_points": 2.69,
+                "auto_coral": 0.17,
+                "auto_coral_points": 0.48,
+                "teleop_coral": 2.33,
+                "teleop_coral_points": 9.79,
+                "coral_l1": 0.6,
+                "coral_l2": 0.14,
+                "coral_l3": 0.31,
+                "coral_l4": 1.45,
+                "total_coral_points": 10.27,
+                "processor_algae": 0.3,
+                "processor_algae_points": 0.91,
+                "net_algae": -0.03,
+                "net_algae_points": -0.12,
+                "total_algae_points": 0.79,
+                "total_game_pieces": 2.77,
+                "barge_points": 0.81,
+                "rp_1": 0.2075,
+                "rp_2": -0.1387,
+                "rp_3": -0.0517
+            },
+            "stats": {
+                "start": 14.57,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9643,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Lady Voltage",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 9.79,
+                "sd": 4.38
+            },
+            "unitless": 1379.0,
+            "norm": 1388.0,
+            "conf": [
+                -1.2,
+                1.02
+            ],
+            "breakdown": {
+                "total_points": 9.79,
+                "auto_points": 3.57,
+                "teleop_points": 4.95,
+                "endgame_points": 1.27,
+                "auto_rp": 0.1885,
+                "coral_rp": -0.031,
+                "barge_rp": 0.0739,
+                "tiebreaker_points": -0.02,
+                "auto_leave_points": 2.36,
+                "auto_coral": 0.21,
+                "auto_coral_points": 1.21,
+                "teleop_coral": 2.72,
+                "teleop_coral_points": 6.49,
+                "coral_l1": 2.53,
+                "coral_l2": -0.04,
+                "coral_l3": -0.2,
+                "coral_l4": 0.64,
+                "total_coral_points": 7.7,
+                "processor_algae": -0.05,
+                "processor_algae_points": -0.15,
+                "net_algae": -0.35,
+                "net_algae_points": -1.39,
+                "total_algae_points": -1.54,
+                "total_game_pieces": 2.54,
+                "barge_points": 1.27,
+                "rp_1": 0.1885,
+                "rp_2": -0.031,
+                "rp_3": 0.0739
+            },
+            "stats": {
+                "start": 9.79,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9653,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "O.V.R.T (Ohio Valley Robotics Team)",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 15.06,
+                "sd": 3.5
+            },
+            "unitless": 1415.0,
+            "norm": 1435.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 15.06,
+                "auto_points": 3.08,
+                "teleop_points": 10.24,
+                "endgame_points": 1.74,
+                "auto_rp": 0.0807,
+                "coral_rp": -0.0855,
+                "barge_rp": 0.0604,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.58,
+                "auto_coral": 0.26,
+                "auto_coral_points": 1.51,
+                "teleop_coral": 2.21,
+                "teleop_coral_points": 8.71,
+                "coral_l1": 0.43,
+                "coral_l2": 0.33,
+                "coral_l3": 0.57,
+                "coral_l4": 1.13,
+                "total_coral_points": 10.22,
+                "processor_algae": 0.19,
+                "processor_algae_points": 0.56,
+                "net_algae": 0.24,
+                "net_algae_points": 0.97,
+                "total_algae_points": 1.53,
+                "total_game_pieces": 2.89,
+                "barge_points": 1.74,
+                "rp_1": 0.0807,
+                "rp_2": -0.0855,
+                "rp_3": 0.0604
+            },
+            "stats": {
+                "start": 15.06,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 9767,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Magnificat MagnifiBots",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 12.93,
+                "sd": 5.61
+            },
+            "unitless": 1400.0,
+            "norm": 1417.0,
+            "conf": [
+                -0.79,
+                1.01
+            ],
+            "breakdown": {
+                "total_points": 12.93,
+                "auto_points": 3.48,
+                "teleop_points": 6.64,
+                "endgame_points": 2.81,
+                "auto_rp": 0.2194,
+                "coral_rp": -0.1425,
+                "barge_rp": 0.1408,
+                "tiebreaker_points": -0.09,
+                "auto_leave_points": 2.48,
+                "auto_coral": 0.17,
+                "auto_coral_points": 0.99,
+                "teleop_coral": 1.72,
+                "teleop_coral_points": 7.76,
+                "coral_l1": 0.41,
+                "coral_l2": -0.07,
+                "coral_l3": -0.09,
+                "coral_l4": 1.65,
+                "total_coral_points": 8.75,
+                "processor_algae": -0.01,
+                "processor_algae_points": -0.04,
+                "net_algae": -0.27,
+                "net_algae_points": -1.07,
+                "total_algae_points": -1.11,
+                "total_game_pieces": 1.61,
+                "barge_points": 2.81,
+                "rp_1": 0.2194,
+                "rp_2": -0.1425,
+                "rp_3": 0.1408
+            },
+            "stats": {
+                "start": 12.93,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10207,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "Mastery (MillstreamAllianceforStrategicTeamworkEngineeringandRoboticsinYouth)",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 18.47,
+                "sd": 6.32
+            },
+            "unitless": 1438.0,
+            "norm": 1462.0,
+            "conf": [
+                -1.02,
+                1.2
+            ],
+            "breakdown": {
+                "total_points": 18.47,
+                "auto_points": 6.85,
+                "teleop_points": 9.93,
+                "endgame_points": 1.68,
+                "auto_rp": 0.2154,
+                "coral_rp": -0.0538,
+                "barge_rp": -0.0161,
+                "tiebreaker_points": -0.0,
+                "auto_leave_points": 2.44,
+                "auto_coral": 0.97,
+                "auto_coral_points": 4.42,
+                "teleop_coral": 3.82,
+                "teleop_coral_points": 9.89,
+                "coral_l1": 3.12,
+                "coral_l2": 0.43,
+                "coral_l3": 0.78,
+                "coral_l4": 0.47,
+                "total_coral_points": 14.31,
+                "processor_algae": 0.26,
+                "processor_algae_points": 0.79,
+                "net_algae": -0.19,
+                "net_algae_points": -0.75,
+                "total_algae_points": 0.04,
+                "total_game_pieces": 4.87,
+                "barge_points": 1.68,
+                "rp_1": 0.2154,
+                "rp_2": -0.0538,
+                "rp_3": -0.0161
+            },
+            "stats": {
+                "start": 18.47,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10208,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "MAYHEM (Millstream Alliance for Youth in High Energy Machines",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 14.03,
+                "sd": 4.47
+            },
+            "unitless": 1408.0,
+            "norm": 1427.0,
+            "conf": [
+                -1.19,
+                1.04
+            ],
+            "breakdown": {
+                "total_points": 14.03,
+                "auto_points": 4.47,
+                "teleop_points": 7.48,
+                "endgame_points": 2.08,
+                "auto_rp": 0.2882,
+                "coral_rp": -0.1285,
+                "barge_rp": 0.0097,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.61,
+                "auto_coral": 0.43,
+                "auto_coral_points": 1.86,
+                "teleop_coral": 1.04,
+                "teleop_coral_points": 4.84,
+                "coral_l1": 0.32,
+                "coral_l2": -0.17,
+                "coral_l3": 0.61,
+                "coral_l4": 0.73,
+                "total_coral_points": 6.7,
+                "processor_algae": 0.57,
+                "processor_algae_points": 1.72,
+                "net_algae": 0.23,
+                "net_algae_points": 0.93,
+                "total_algae_points": 2.64,
+                "total_game_pieces": 2.29,
+                "barge_points": 2.08,
+                "rp_1": 0.2882,
+                "rp_2": -0.1285,
+                "rp_3": 0.0097
+            },
+            "stats": {
+                "start": 14.03,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10303,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "C-TEC Robotics",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": true,
+        "epa": {
+            "total_points": {
+                "mean": 18.04,
+                "sd": 3.5
+            },
+            "unitless": 1435.0,
+            "norm": 1459.0,
+            "conf": [
+                -1.96,
+                1.96
+            ],
+            "breakdown": {
+                "total_points": 18.04,
+                "auto_points": 3.69,
+                "teleop_points": 12.26,
+                "endgame_points": 2.08,
+                "auto_rp": 0.0967,
+                "coral_rp": -0.0835,
+                "barge_rp": 0.0729,
+                "tiebreaker_points": 0.02,
+                "auto_leave_points": 1.89,
+                "auto_coral": 0.31,
+                "auto_coral_points": 1.8,
+                "teleop_coral": 2.64,
+                "teleop_coral_points": 10.43,
+                "coral_l1": 0.52,
+                "coral_l2": 0.4,
+                "coral_l3": 0.68,
+                "coral_l4": 1.35,
+                "total_coral_points": 12.23,
+                "processor_algae": 0.22,
+                "processor_algae_points": 0.67,
+                "net_algae": 0.29,
+                "net_algae_points": 1.16,
+                "total_algae_points": 1.83,
+                "total_game_pieces": 3.46,
+                "barge_points": 2.08,
+                "rp_1": 0.0967,
+                "rp_2": -0.0835,
+                "rp_3": 0.0729
+            },
+            "stats": {
+                "start": 18.04,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    },
+    {
+        "team": 10582,
+        "year": 2025,
+        "event": "2025ohcl",
+        "time": 1743552000,
+        "team_name": "The Technochauns",
+        "event_name": "Buckeye Regional",
+        "country": "USA",
+        "state": "OH",
+        "district": null,
+        "type": "regional",
+        "week": 6,
+        "status": "Upcoming",
+        "first_event": false,
+        "epa": {
+            "total_points": {
+                "mean": 13.03,
+                "sd": 5.27
+            },
+            "unitless": 1401.0,
+            "norm": 1418.0,
+            "conf": [
+                -1.19,
+                1.03
+            ],
+            "breakdown": {
+                "total_points": 13.03,
+                "auto_points": 4.03,
+                "teleop_points": 6.46,
+                "endgame_points": 2.53,
+                "auto_rp": 0.1197,
+                "coral_rp": -0.0595,
+                "barge_rp": 0.2076,
+                "tiebreaker_points": 0.04,
+                "auto_leave_points": 2.47,
+                "auto_coral": 0.27,
+                "auto_coral_points": 1.56,
+                "teleop_coral": 1.83,
+                "teleop_coral_points": 6.88,
+                "coral_l1": 0.57,
+                "coral_l2": 0.18,
+                "coral_l3": 0.47,
+                "coral_l4": 0.89,
+                "total_coral_points": 8.45,
+                "processor_algae": 0.11,
+                "processor_algae_points": 0.32,
+                "net_algae": -0.18,
+                "net_algae_points": -0.74,
+                "total_algae_points": -0.42,
+                "total_game_pieces": 2.04,
+                "barge_points": 2.53,
+                "rp_1": 0.1197,
+                "rp_2": -0.0595,
+                "rp_3": 0.2076
+            },
+            "stats": {
+                "start": 13.03,
+                "pre_elim": 0.0,
+                "mean": 0.0,
+                "max": 0.0
+            }
+        },
+        "record": {
+            "qual": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0,
+                "rps": 0,
+                "rps_per_match": 0.0,
+                "rank": null,
+                "num_teams": 56
+            },
+            "elim": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0,
+                "alliance": null,
+                "is_captain": null
+            },
+            "total": {
+                "wins": 0,
+                "losses": 0,
+                "ties": 0,
+                "count": 0,
+                "winrate": 0.0
+            }
+        },
+        "district_points": null
+    }
+]

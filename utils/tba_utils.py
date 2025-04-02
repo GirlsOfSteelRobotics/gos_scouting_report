@@ -56,6 +56,10 @@ def load_event_matches(json_file: Path) -> pd.DataFrame:
 def event_matches_json_to_dataframe(json_data: Dict[str, Any]) -> pd.DataFrame:
     raw_df = pd.json_normalize(json_data)
 
+    if raw_df.empty:
+        print("TBA Events DF is empty!")
+        return pd.DataFrame()
+
     # Filter out elims matches for our purposes
     raw_df = raw_df[raw_df["comp_level"] == "qm"]
 

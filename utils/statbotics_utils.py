@@ -31,6 +31,9 @@ def load_statbotics_matches(filename: Path) -> pd.DataFrame:
     :param filename: The filename to load
     :return: The data in the form of a dataframe
     """
+    if not filename.exists():
+        print("Statbotics match file does not exist!")
+        return pd.DataFrame()
     with open(filename, "r") as f:
         json_data = json.load(f)
 
