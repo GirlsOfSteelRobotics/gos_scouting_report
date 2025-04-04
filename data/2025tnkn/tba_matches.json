@@ -904,7 +904,7 @@
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": 108,
+                "score": 114,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc2856",
@@ -932,7 +932,7 @@
         "score_breakdown": {
             "blue": {
                 "adjustPoints": 0,
-                "algaePoints": 22,
+                "algaePoints": 28,
                 "autoBonusAchieved": true,
                 "autoCoralCount": 1,
                 "autoCoralPoints": 3,
@@ -990,8 +990,8 @@
                     "trough": 1
                 },
                 "bargeBonusAchieved": true,
-                "coopertitionCriteriaMet": false,
-                "coralBonusAchieved": false,
+                "coopertitionCriteriaMet": true,
+                "coralBonusAchieved": true,
                 "endGameBargePoints": 14,
                 "endGameRobot1": "None",
                 "endGameRobot2": "DeepCage",
@@ -1003,11 +1003,11 @@
                 "g418Penalty": false,
                 "g428Penalty": false,
                 "netAlgaeCount": 4,
-                "rp": 2,
+                "rp": 3,
                 "techFoulCount": 0,
                 "teleopCoralCount": 15,
                 "teleopCoralPoints": 60,
-                "teleopPoints": 96,
+                "teleopPoints": 102,
                 "teleopReef": {
                     "botRow": {
                         "nodeA": true,
@@ -1056,8 +1056,8 @@
                     },
                     "trough": 0
                 },
-                "totalPoints": 108,
-                "wallAlgaeCount": 1
+                "totalPoints": 114,
+                "wallAlgaeCount": 2
             },
             "red": {
                 "adjustPoints": 0,
@@ -1120,7 +1120,7 @@
                 },
                 "bargeBonusAchieved": true,
                 "coopertitionCriteriaMet": true,
-                "coralBonusAchieved": false,
+                "coralBonusAchieved": true,
                 "endGameBargePoints": 24,
                 "endGameRobot1": "DeepCage",
                 "endGameRobot2": "DeepCage",
@@ -1132,7 +1132,7 @@
                 "g418Penalty": false,
                 "g428Penalty": false,
                 "netAlgaeCount": 2,
-                "rp": 5,
+                "rp": 6,
                 "techFoulCount": 0,
                 "teleopCoralCount": 20,
                 "teleopCoralPoints": 67,
@@ -1514,7 +1514,7 @@
             },
             "red": {
                 "dq_team_keys": [],
-                "score": 58,
+                "score": 55,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc9668",
@@ -1667,9 +1667,9 @@
                 "autoCoralPoints": 14,
                 "autoLineRobot1": "Yes",
                 "autoLineRobot2": "Yes",
-                "autoLineRobot3": "Yes",
-                "autoMobilityPoints": 9,
-                "autoPoints": 23,
+                "autoLineRobot3": "No",
+                "autoMobilityPoints": 6,
+                "autoPoints": 20,
                 "autoReef": {
                     "botRow": {
                         "nodeA": false,
@@ -1785,7 +1785,7 @@
                     },
                     "trough": 0
                 },
-                "totalPoints": 58,
+                "totalPoints": 55,
                 "wallAlgaeCount": 1
             }
         },
@@ -4499,7 +4499,12 @@
         },
         "set_number": 1,
         "time": 1743781560,
-        "videos": [],
+        "videos": [
+            {
+                "key": "BSjYpK87_sI",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -8359,7 +8364,7 @@
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": 74,
+                "score": 71,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc3324",
@@ -8393,9 +8398,9 @@
                 "autoCoralPoints": 3,
                 "autoLineRobot1": "Yes",
                 "autoLineRobot2": "Yes",
-                "autoLineRobot3": "Yes",
-                "autoMobilityPoints": 9,
-                "autoPoints": 12,
+                "autoLineRobot3": "No",
+                "autoMobilityPoints": 6,
+                "autoPoints": 9,
                 "autoReef": {
                     "botRow": {
                         "nodeA": false,
@@ -8511,7 +8516,7 @@
                     },
                     "trough": 5
                 },
-                "totalPoints": 74,
+                "totalPoints": 71,
                 "wallAlgaeCount": 0
             },
             "red": {
