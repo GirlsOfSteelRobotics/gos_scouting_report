@@ -15899,7 +15899,12 @@
         },
         "set_number": 1,
         "time": 1743802320,
-        "videos": [],
+        "videos": [
+            {
+                "key": "4MmKXB-aviY",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
