@@ -21899,7 +21899,12 @@
         },
         "set_number": 1,
         "time": 1743866040,
-        "videos": [],
+        "videos": [
+            {
+                "key": "RHxlfZM-y0w",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -22194,7 +22199,12 @@
         },
         "set_number": 1,
         "time": 1743866520,
-        "videos": [],
+        "videos": [
+            {
+                "key": "KCw-7FYBvLM",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -22489,7 +22499,12 @@
         },
         "set_number": 1,
         "time": 1743867000,
-        "videos": [],
+        "videos": [
+            {
+                "key": "Z9FPy_fnErI",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -24273,25 +24288,29 @@
         "winning_alliance": "red"
     },
     {
-        "actual_time": null,
+        "actual_time": 1743875728,
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 126,
                 "surrogate_team_keys": [],
                 "team_keys": [
+                    "frc2614",
                     "frc3937",
-                    "frc3966",
-                    "frc2614"
+                    "frc3966"
                 ]
             },
             "red": {
-                "dq_team_keys": [],
-                "score": -1,
+                "dq_team_keys": [
+                    "frc4020",
+                    "frc8570",
+                    "frc3492"
+                ],
+                "score": 0,
                 "surrogate_team_keys": [],
                 "team_keys": [
-                    "frc8570",
                     "frc4020",
+                    "frc8570",
                     "frc3492"
                 ]
             }
@@ -24300,35 +24319,298 @@
         "event_key": "2025tnkn",
         "key": "2025tnkn_sf3m1",
         "match_number": 1,
-        "post_result_time": null,
+        "post_result_time": 1743876277,
         "predicted_time": 1743875788,
-        "score_breakdown": null,
+        "score_breakdown": {
+            "blue": {
+                "adjustPoints": 0,
+                "algaePoints": 28,
+                "autoBonusAchieved": false,
+                "autoCoralCount": 3,
+                "autoCoralPoints": 21,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "No",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 6,
+                "autoPoints": 27,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 3,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": true,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": false,
+                "coopertitionCriteriaMet": false,
+                "coralBonusAchieved": false,
+                "endGameBargePoints": 24,
+                "endGameRobot1": "DeepCage",
+                "endGameRobot2": "DeepCage",
+                "endGameRobot3": "None",
+                "foulCount": 0,
+                "foulPoints": 6,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 7,
+                "rp": 0,
+                "techFoulCount": 0,
+                "teleopCoralCount": 12,
+                "teleopCoralPoints": 41,
+                "teleopPoints": 93,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": true,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 1,
+                    "tba_topRowCount": 10,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 126,
+                "wallAlgaeCount": 0
+            },
+            "red": {
+                "adjustPoints": -186,
+                "algaePoints": 12,
+                "autoBonusAchieved": false,
+                "autoCoralCount": 4,
+                "autoCoralPoints": 27,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 36,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 1,
+                    "tba_topRowCount": 3,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": false,
+                "coopertitionCriteriaMet": false,
+                "coralBonusAchieved": false,
+                "endGameBargePoints": 26,
+                "endGameRobot1": "DeepCage",
+                "endGameRobot2": "DeepCage",
+                "endGameRobot3": "Parked",
+                "foulCount": 0,
+                "foulPoints": 0,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 0,
+                "rp": 0,
+                "techFoulCount": 1,
+                "teleopCoralCount": 32,
+                "teleopCoralPoints": 112,
+                "teleopPoints": 150,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 7,
+                    "tba_midRowCount": 12,
+                    "tba_topRowCount": 12,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 0,
+                "wallAlgaeCount": 2
+            }
+        },
         "set_number": 3,
         "time": 1743875280,
         "videos": [],
-        "winning_alliance": ""
+        "winning_alliance": "blue"
     },
     {
-        "actual_time": null,
+        "actual_time": 1743876729,
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 109,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc801",
-                    "frc7072",
-                    "frc7428"
+                    "frc7428",
+                    "frc7072"
                 ]
             },
             "red": {
-                "dq_team_keys": [],
-                "score": -1,
+                "dq_team_keys": [
+                    "frc1014",
+                    "frc4265",
+                    "frc6517"
+                ],
+                "score": 0,
                 "surrogate_team_keys": [],
                 "team_keys": [
+                    "frc1014",
                     "frc4265",
-                    "frc6517",
-                    "frc1014"
+                    "frc6517"
                 ]
             }
         },
@@ -24337,12 +24619,271 @@
         "key": "2025tnkn_sf4m1",
         "match_number": 1,
         "post_result_time": null,
-        "predicted_time": 1743876489,
-        "score_breakdown": null,
+        "predicted_time": 1743876650,
+        "score_breakdown": {
+            "blue": {
+                "adjustPoints": 0,
+                "algaePoints": 8,
+                "autoBonusAchieved": false,
+                "autoCoralCount": 5,
+                "autoCoralPoints": 35,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 44,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 5,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": true,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": false
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": false,
+                "coopertitionCriteriaMet": false,
+                "coralBonusAchieved": false,
+                "endGameBargePoints": 4,
+                "endGameRobot1": "Parked",
+                "endGameRobot2": "Parked",
+                "endGameRobot3": "None",
+                "foulCount": 0,
+                "foulPoints": 6,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 2,
+                "rp": 0,
+                "techFoulCount": 0,
+                "teleopCoralCount": 17,
+                "teleopCoralPoints": 47,
+                "teleopPoints": 59,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": true,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": true
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": true,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 2,
+                    "tba_midRowCount": 6,
+                    "tba_topRowCount": 8,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": true,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 109,
+                "wallAlgaeCount": 0
+            },
+            "red": {
+                "adjustPoints": -133,
+                "algaePoints": 0,
+                "autoBonusAchieved": false,
+                "autoCoralCount": 2,
+                "autoCoralPoints": 14,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 23,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 2,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": false,
+                        "nodeE": true,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": false,
+                "coopertitionCriteriaMet": false,
+                "coralBonusAchieved": false,
+                "endGameBargePoints": 16,
+                "endGameRobot1": "Parked",
+                "endGameRobot2": "Parked",
+                "endGameRobot3": "DeepCage",
+                "foulCount": 0,
+                "foulPoints": 0,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 0,
+                "rp": 0,
+                "techFoulCount": 1,
+                "teleopCoralCount": 25,
+                "teleopCoralPoints": 94,
+                "teleopPoints": 110,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 2,
+                    "tba_midRowCount": 8,
+                    "tba_topRowCount": 12,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 3
+                },
+                "totalPoints": 0,
+                "wallAlgaeCount": 0
+            }
+        },
         "set_number": 4,
         "time": 1743875820,
         "videos": [],
-        "winning_alliance": ""
+        "winning_alliance": "blue"
     },
     {
         "actual_time": null,
@@ -24373,10 +24914,46 @@
         "key": "2025tnkn_sf5m1",
         "match_number": 1,
         "post_result_time": null,
-        "predicted_time": 1743877029,
+        "predicted_time": 1743877575,
         "score_breakdown": null,
         "set_number": 5,
         "time": 1743876360,
+        "videos": [],
+        "winning_alliance": ""
+    },
+    {
+        "actual_time": null,
+        "alliances": {
+            "blue": {
+                "dq_team_keys": [],
+                "score": -1,
+                "surrogate_team_keys": [],
+                "team_keys": [
+                    "frc1014",
+                    "frc4265",
+                    "frc6517"
+                ]
+            },
+            "red": {
+                "dq_team_keys": [],
+                "score": -1,
+                "surrogate_team_keys": [],
+                "team_keys": [
+                    "frc4020",
+                    "frc8570",
+                    "frc3492"
+                ]
+            }
+        },
+        "comp_level": "sf",
+        "event_key": "2025tnkn",
+        "key": "2025tnkn_sf6m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1743878115,
+        "score_breakdown": null,
+        "set_number": 6,
+        "time": 1743876900,
         "videos": [],
         "winning_alliance": ""
     },
@@ -24409,10 +24986,46 @@
         "key": "2025tnkn_sf7m1",
         "match_number": 1,
         "post_result_time": null,
-        "predicted_time": 1743878109,
+        "predicted_time": 1743878655,
         "score_breakdown": null,
         "set_number": 7,
         "time": 1743877440,
+        "videos": [],
+        "winning_alliance": ""
+    },
+    {
+        "actual_time": null,
+        "alliances": {
+            "blue": {
+                "dq_team_keys": [],
+                "score": -1,
+                "surrogate_team_keys": [],
+                "team_keys": [
+                    "frc801",
+                    "frc7428",
+                    "frc7072"
+                ]
+            },
+            "red": {
+                "dq_team_keys": [],
+                "score": -1,
+                "surrogate_team_keys": [],
+                "team_keys": [
+                    "frc2614",
+                    "frc3937",
+                    "frc3966"
+                ]
+            }
+        },
+        "comp_level": "sf",
+        "event_key": "2025tnkn",
+        "key": "2025tnkn_sf8m1",
+        "match_number": 1,
+        "post_result_time": null,
+        "predicted_time": 1743879195,
+        "score_breakdown": null,
+        "set_number": 8,
+        "time": 1743877980,
         "videos": [],
         "winning_alliance": ""
     }

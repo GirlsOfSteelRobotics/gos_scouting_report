@@ -298,7 +298,7 @@
                 "sd": 5.04
             },
             "unitless": 1656.0,
-            "norm": 1612.0,
+            "norm": 1610.0,
             "conf": [
                 -0.87,
                 0.91
@@ -316,17 +316,17 @@
                 "auto_coral": 1.45,
                 "auto_coral_points": 10.14,
                 "teleop_coral": 8.82,
-                "teleop_coral_points": 29.93,
+                "teleop_coral_points": 29.94,
                 "coral_l1": 1.28,
                 "coral_l2": 1.47,
-                "coral_l3": 2.64,
+                "coral_l3": 2.65,
                 "coral_l4": 3.9,
                 "total_coral_points": 40.07,
                 "processor_algae": 0.83,
                 "processor_algae_points": 2.48,
                 "net_algae": 0.74,
-                "net_algae_points": 2.95,
-                "total_algae_points": 5.43,
+                "net_algae_points": 2.94,
+                "total_algae_points": 5.42,
                 "total_game_pieces": 10.86,
                 "barge_points": 1.82,
                 "rp_1": 0.5428,
@@ -336,7 +336,7 @@
             "stats": {
                 "start": 42.28,
                 "pre_elim": 51.62,
-                "mean": 49.02,
+                "mean": 49.28,
                 "max": 52.16
             }
         },
@@ -353,20 +353,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 4,
+                "wins": 5,
                 "losses": 5,
                 "ties": 1,
-                "count": 10,
-                "winrate": 0.45
+                "count": 11,
+                "winrate": 0.5
             }
         },
         "district_points": null
@@ -856,14 +856,14 @@
                 "sd": 5.18
             },
             "unitless": 1622.0,
-            "norm": 1590.0,
+            "norm": 1588.0,
             "conf": [
                 -0.77,
                 1.02
             ],
             "breakdown": {
                 "total_points": 45.57,
-                "auto_points": 11.3,
+                "auto_points": 11.31,
                 "teleop_points": 30.08,
                 "endgame_points": 4.19,
                 "auto_rp": 0.4294,
@@ -877,8 +877,8 @@
                 "teleop_coral_points": 27.07,
                 "coral_l1": 0.86,
                 "coral_l2": 1.42,
-                "coral_l3": 2.01,
-                "coral_l4": 3.76,
+                "coral_l3": 2.0,
+                "coral_l4": 3.77,
                 "total_coral_points": 35.1,
                 "processor_algae": 0.78,
                 "processor_algae_points": 2.34,
@@ -894,7 +894,7 @@
             "stats": {
                 "start": 44.7,
                 "pre_elim": 46.17,
-                "mean": 43.36,
+                "mean": 43.56,
                 "max": 46.17
             }
         },
@@ -911,20 +911,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 5,
+                "wins": 6,
                 "losses": 5,
                 "ties": 0,
-                "count": 10,
-                "winrate": 0.5
+                "count": 11,
+                "winrate": 0.5455
             }
         },
         "district_points": null
@@ -1786,7 +1786,7 @@
                 "sd": 7.09
             },
             "unitless": 1758.0,
-            "norm": 1695.0,
+            "norm": 1693.0,
             "conf": [
                 -0.86,
                 0.89
@@ -1824,8 +1824,8 @@
             "stats": {
                 "start": 63.85,
                 "pre_elim": 65.03,
-                "mean": 62.26,
-                "max": 65.03
+                "mean": 62.57,
+                "max": 65.62
             }
         },
         "record": {
@@ -1841,20 +1841,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 5,
+                "wins": 6,
                 "losses": 5,
                 "ties": 0,
-                "count": 10,
-                "winrate": 0.5
+                "count": 11,
+                "winrate": 0.5455
             }
         },
         "district_points": null
@@ -1879,7 +1879,7 @@
                 "sd": 9.73
             },
             "unitless": 1641.0,
-            "norm": 1602.0,
+            "norm": 1600.0,
             "conf": [
                 -0.61,
                 1.08
@@ -1917,8 +1917,8 @@
             "stats": {
                 "start": 30.65,
                 "pre_elim": 45.04,
-                "mean": 37.02,
-                "max": 45.04
+                "mean": 37.96,
+                "max": 48.38
             }
         },
         "record": {
@@ -1934,20 +1934,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 8,
+                "wins": 9,
                 "losses": 2,
                 "ties": 0,
-                "count": 10,
-                "winrate": 0.8
+                "count": 11,
+                "winrate": 0.8182
             }
         },
         "district_points": null
@@ -3367,7 +3367,7 @@
                 "sd": 7.7
             },
             "unitless": 1586.0,
-            "norm": 1567.0,
+            "norm": 1566.0,
             "conf": [
                 -0.76,
                 1.02
@@ -3405,8 +3405,8 @@
             "stats": {
                 "start": 25.47,
                 "pre_elim": 39.9,
-                "mean": 32.13,
-                "max": 39.9
+                "mean": 33.51,
+                "max": 40.37
             }
         },
         "record": {
@@ -3422,20 +3422,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 7,
+                "wins": 8,
                 "losses": 3,
                 "ties": 0,
-                "count": 10,
-                "winrate": 0.7
+                "count": 11,
+                "winrate": 0.7273
             }
         },
         "district_points": null
@@ -3553,37 +3553,37 @@
                 "sd": 6.74
             },
             "unitless": 1622.0,
-            "norm": 1591.0,
+            "norm": 1589.0,
             "conf": [
                 -0.75,
                 1.02
             ],
             "breakdown": {
                 "total_points": 45.66,
-                "auto_points": 6.65,
+                "auto_points": 6.66,
                 "teleop_points": 33.2,
-                "endgame_points": 5.81,
+                "endgame_points": 5.8,
                 "auto_rp": 0.3922,
                 "coral_rp": 0.1412,
                 "barge_rp": 0.3282,
                 "tiebreaker_points": 0.16,
                 "auto_leave_points": 3.22,
                 "auto_coral": 0.49,
-                "auto_coral_points": 3.43,
+                "auto_coral_points": 3.44,
                 "teleop_coral": 7.8,
                 "teleop_coral_points": 29.26,
                 "coral_l1": 0.58,
                 "coral_l2": 1.98,
                 "coral_l3": 2.88,
-                "coral_l4": 2.61,
-                "total_coral_points": 32.69,
+                "coral_l4": 2.62,
+                "total_coral_points": 32.71,
                 "processor_algae": 0.58,
                 "processor_algae_points": 1.75,
                 "net_algae": 0.55,
                 "net_algae_points": 2.19,
                 "total_algae_points": 3.94,
                 "total_game_pieces": 9.19,
-                "barge_points": 5.81,
+                "barge_points": 5.8,
                 "rp_1": 0.3922,
                 "rp_2": 0.1412,
                 "rp_3": 0.3282
@@ -3591,8 +3591,8 @@
             "stats": {
                 "start": 37.56,
                 "pre_elim": 44.08,
-                "mean": 41.68,
-                "max": 44.7
+                "mean": 42.34,
+                "max": 45.66
             }
         },
         "record": {
@@ -3608,20 +3608,20 @@
                 "num_teams": 47
             },
             "elim": {
-                "wins": 0,
+                "wins": 1,
                 "losses": 0,
                 "ties": 0,
-                "count": 0,
-                "winrate": 0,
+                "count": 1,
+                "winrate": 1.0,
                 "alliance": null,
                 "is_captain": null
             },
             "total": {
-                "wins": 4,
+                "wins": 5,
                 "losses": 6,
                 "ties": 0,
-                "count": 10,
-                "winrate": 0.4
+                "count": 11,
+                "winrate": 0.4545
             }
         },
         "district_points": null
