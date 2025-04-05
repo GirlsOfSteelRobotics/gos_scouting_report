@@ -5761,16 +5761,16 @@
         },
         "result": {
             "winner": "red",
-            "red_score": 117,
-            "blue_score": 111,
-            "red_no_foul": 117,
-            "blue_no_foul": 105,
-            "red_auto_points": 26,
-            "blue_auto_points": 33,
-            "red_teleop_points": 65,
-            "blue_teleop_points": 56,
-            "red_endgame_points": 26,
-            "blue_endgame_points": 16,
+            "red_score": 120,
+            "blue_score": 101,
+            "red_no_foul": 120,
+            "blue_no_foul": 101,
+            "red_auto_points": 37,
+            "blue_auto_points": 30,
+            "red_teleop_points": 67,
+            "blue_teleop_points": 57,
+            "red_endgame_points": 16,
+            "blue_endgame_points": 14,
             "red_auto_rp": true,
             "blue_auto_rp": true,
             "red_coral_rp": false,
@@ -5781,38 +5781,38 @@
             "blue_tiebreaker_points": 0,
             "red_auto_leave_points": 9.0,
             "blue_auto_leave_points": 9.0,
-            "red_auto_coral": 3.0,
-            "blue_auto_coral": 4.0,
-            "red_auto_coral_points": 17.0,
-            "blue_auto_coral_points": 24.0,
-            "red_teleop_coral": 17.0,
-            "blue_teleop_coral": 13.0,
-            "red_teleop_coral_points": 65.0,
-            "blue_teleop_coral_points": 44.0,
-            "red_coral_l1": 1.0,
-            "blue_coral_l1": 3.0,
-            "red_coral_l2": 2.0,
+            "red_auto_coral": 4.0,
+            "blue_auto_coral": 3.0,
+            "red_auto_coral_points": 28.0,
+            "blue_auto_coral_points": 21.0,
+            "red_teleop_coral": 19.0,
+            "blue_teleop_coral": 16.0,
+            "red_teleop_coral_points": 67.0,
+            "blue_teleop_coral_points": 57.0,
+            "red_coral_l1": 0.0,
+            "blue_coral_l1": 2.0,
+            "red_coral_l2": 1.0,
             "blue_coral_l2": 0.0,
             "red_coral_l3": 6.0,
-            "blue_coral_l3": 0.0,
-            "red_coral_l4": 9.0,
-            "blue_coral_l4": 11.0,
-            "red_total_coral_points": 82.0,
-            "blue_total_coral_points": 68.0,
+            "blue_coral_l3": 2.0,
+            "red_coral_l4": 12.0,
+            "blue_coral_l4": 12.0,
+            "red_total_coral_points": 95.0,
+            "blue_total_coral_points": 78.0,
             "red_processor_algae": 0.0,
             "blue_processor_algae": 0.0,
             "red_processor_algae_points": 0.0,
             "blue_processor_algae_points": 0.0,
             "red_net_algae": 0.0,
-            "blue_net_algae": 3.0,
+            "blue_net_algae": 0.0,
             "red_net_algae_points": 0.0,
-            "blue_net_algae_points": 12.0,
+            "blue_net_algae_points": 0.0,
             "red_total_algae_points": 0.0,
-            "blue_total_algae_points": 12.0,
-            "red_total_game_pieces": 18.0,
-            "blue_total_game_pieces": 17.0,
-            "red_barge_points": 26.0,
-            "blue_barge_points": 16.0,
+            "blue_total_algae_points": 0.0,
+            "red_total_game_pieces": 19.0,
+            "blue_total_game_pieces": 16.0,
+            "red_barge_points": 16.0,
+            "blue_barge_points": 14.0,
             "red_rp_1": true,
             "blue_rp_1": true,
             "red_rp_2": false,
@@ -6313,9 +6313,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.2182,
-            "red_score": 68.56,
-            "blue_score": 102.92,
+            "red_win_prob": 0.217,
+            "red_score": 68.09,
+            "blue_score": 102.64,
             "red_auto_rp": 0.51,
             "blue_auto_rp": 0.8452,
             "red_coral_rp": 0.0581,
@@ -6427,9 +6427,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.0832,
+            "red_win_prob": 0.0826,
             "red_score": 63.63,
-            "blue_score": 128.24,
+            "blue_score": 128.45,
             "red_auto_rp": 0.361,
             "blue_auto_rp": 0.7622,
             "red_coral_rp": 0.0415,
@@ -6518,7 +6518,7 @@
         "time": 1743857400,
         "predicted_time": 1743855671,
         "status": "Completed",
-        "video": null,
+        "video": "D2km-tNn5Lk",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6541,9 +6541,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.8362,
+            "red_win_prob": 0.8351,
             "red_score": 140.13,
-            "blue_score": 96.24,
+            "blue_score": 96.45,
             "red_auto_rp": 0.9144,
             "blue_auto_rp": 0.6579,
             "red_coral_rp": 0.2108,
@@ -6632,7 +6632,7 @@
         "time": 1743857940,
         "predicted_time": 1743857870,
         "status": "Completed",
-        "video": null,
+        "video": "_uXQHYFYBso",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6655,8 +6655,8 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.7002,
-            "red_score": 135.24,
+            "red_win_prob": 0.7018,
+            "red_score": 135.45,
             "blue_score": 112.4,
             "red_auto_rp": 0.8469,
             "blue_auto_rp": 0.8621,
@@ -7088,7 +7088,7 @@
         "time": 1743860100,
         "predicted_time": 1743860015,
         "status": "Completed",
-        "video": null,
+        "video": "IKd6YDyku-E",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7111,9 +7111,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.6126,
-            "red_score": 104.9,
-            "blue_score": 92.56,
+            "red_win_prob": 0.6105,
+            "red_score": 104.65,
+            "blue_score": 92.55,
             "red_auto_rp": 0.6749,
             "blue_auto_rp": 0.6864,
             "red_coral_rp": 0.0719,
@@ -7202,7 +7202,7 @@
         "time": 1743860640,
         "predicted_time": 1743860514,
         "status": "Completed",
-        "video": null,
+        "video": "dwizy196i_E",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7225,9 +7225,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.9258,
-            "red_score": 151.19,
-            "blue_score": 83.26,
+            "red_win_prob": 0.9268,
+            "red_score": 151.18,
+            "blue_score": 82.84,
             "red_auto_rp": 0.8181,
             "blue_auto_rp": 0.7684,
             "red_coral_rp": 0.7031,
@@ -7316,7 +7316,7 @@
         "time": 1743861180,
         "predicted_time": 1743860928,
         "status": "Completed",
-        "video": null,
+        "video": "fgJHsnUGnWs",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7339,9 +7339,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.7184,
-            "red_score": 147.26,
-            "blue_score": 122.05,
+            "red_win_prob": 0.722,
+            "red_score": 147.46,
+            "blue_score": 121.77,
             "red_auto_rp": 0.9452,
             "blue_auto_rp": 0.8226,
             "red_coral_rp": 0.4122,
@@ -7430,7 +7430,7 @@
         "time": 1743861720,
         "predicted_time": 1743861445,
         "status": "Completed",
-        "video": null,
+        "video": "UVT8YOilpHs",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7453,9 +7453,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.3189,
-            "red_score": 63.6,
-            "blue_score": 84.03,
+            "red_win_prob": 0.3177,
+            "red_score": 63.65,
+            "blue_score": 84.23,
             "red_auto_rp": 0.3363,
             "blue_auto_rp": 0.6194,
             "red_coral_rp": 0.1232,
@@ -7658,7 +7658,7 @@
         "time": 1743862680,
         "predicted_time": 1743862785,
         "status": "Completed",
-        "video": null,
+        "video": "9akR0-PdkxI",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7681,8 +7681,8 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.9461,
-            "red_score": 171.96,
+            "red_win_prob": 0.946,
+            "red_score": 171.95,
             "blue_score": 94.84,
             "red_auto_rp": 0.9487,
             "blue_auto_rp": 0.8986,
@@ -7772,7 +7772,7 @@
         "time": 1743863160,
         "predicted_time": 1743863135,
         "status": "Completed",
-        "video": null,
+        "video": "z7_wnD7w8PA",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7795,9 +7795,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.4276,
-            "red_score": 91.92,
-            "blue_score": 99.78,
+            "red_win_prob": 0.4275,
+            "red_score": 91.94,
+            "blue_score": 99.8,
             "red_auto_rp": 0.4861,
             "blue_auto_rp": 0.6543,
             "red_coral_rp": 0.0469,
@@ -7886,7 +7886,7 @@
         "time": 1743863640,
         "predicted_time": 1743863560,
         "status": "Completed",
-        "video": null,
+        "video": "ltsUQj-YUeY",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -7909,9 +7909,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.5943,
-            "red_score": 115.8,
-            "blue_score": 105.51,
+            "red_win_prob": 0.5922,
+            "red_score": 115.53,
+            "blue_score": 105.49,
             "red_auto_rp": 0.6604,
             "blue_auto_rp": 0.8199,
             "red_coral_rp": 0.1305,
@@ -8000,7 +8000,7 @@
         "time": 1743864120,
         "predicted_time": 1743864090,
         "status": "Completed",
-        "video": null,
+        "video": "jP_T4-Qciag",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -8023,9 +8023,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.6511,
-            "red_score": 102.55,
-            "blue_score": 85.76,
+            "red_win_prob": 0.6464,
+            "red_score": 102.17,
+            "blue_score": 85.93,
             "red_auto_rp": 0.699,
             "blue_auto_rp": 0.6431,
             "red_coral_rp": 0.0777,
@@ -8114,7 +8114,7 @@
         "time": 1743864600,
         "predicted_time": 1743864649,
         "status": "Completed",
-        "video": null,
+        "video": "CsXauPYUzgo",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -8137,9 +8137,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.5421,
-            "red_score": 122.42,
-            "blue_score": 117.88,
+            "red_win_prob": 0.54,
+            "red_score": 122.43,
+            "blue_score": 118.11,
             "red_auto_rp": 0.7243,
             "blue_auto_rp": 0.9266,
             "red_coral_rp": 0.4524,
@@ -8228,7 +8228,7 @@
         "time": 1743865080,
         "predicted_time": 1743865143,
         "status": "Completed",
-        "video": null,
+        "video": "F9g4jFzPdsk",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -8252,8 +8252,8 @@
         "pred": {
             "winner": "red",
             "red_win_prob": 0.7954,
-            "red_score": 141.91,
-            "blue_score": 105.37,
+            "red_score": 141.92,
+            "blue_score": 105.36,
             "red_auto_rp": 0.7062,
             "blue_auto_rp": 0.7229,
             "red_coral_rp": 0.5089,
@@ -8342,7 +8342,7 @@
         "time": 1743865560,
         "predicted_time": 1743865779,
         "status": "Completed",
-        "video": null,
+        "video": "DZeD156h_bw",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -8365,9 +8365,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.7189,
-            "red_score": 149.34,
-            "blue_score": 124.06,
+            "red_win_prob": 0.7177,
+            "red_score": 149.36,
+            "blue_score": 124.24,
             "red_auto_rp": 0.9486,
             "blue_auto_rp": 0.9211,
             "red_coral_rp": 0.1998,
@@ -8479,9 +8479,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.1869,
+            "red_win_prob": 0.187,
             "red_score": 67.82,
-            "blue_score": 107.4,
+            "blue_score": 107.38,
             "red_auto_rp": 0.2661,
             "blue_auto_rp": 0.5661,
             "red_coral_rp": 0.0545,
@@ -8593,9 +8593,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.5297,
-            "red_score": 137.87,
-            "blue_score": 134.67,
+            "red_win_prob": 0.5299,
+            "red_score": 137.9,
+            "blue_score": 134.68,
             "red_auto_rp": 0.9061,
             "blue_auto_rp": 0.7512,
             "red_coral_rp": 0.3776,
@@ -8707,9 +8707,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.8838,
-            "red_score": 156.95,
-            "blue_score": 102.33,
+            "red_win_prob": 0.8827,
+            "red_score": 156.67,
+            "blue_score": 102.34,
             "red_auto_rp": 0.8928,
             "blue_auto_rp": 0.7739,
             "red_coral_rp": 0.2879,
@@ -8821,9 +8821,9 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.796,
-            "red_score": 107.67,
-            "blue_score": 71.02,
+            "red_win_prob": 0.7974,
+            "red_score": 107.71,
+            "blue_score": 70.82,
             "red_auto_rp": 0.2263,
             "blue_auto_rp": 0.5899,
             "red_coral_rp": 0.0636,
@@ -8935,9 +8935,9 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.4202,
-            "red_score": 99.31,
-            "blue_score": 107.98,
+            "red_win_prob": 0.4179,
+            "red_score": 99.26,
+            "blue_score": 108.18,
             "red_auto_rp": 0.8441,
             "blue_auto_rp": 0.8409,
             "red_coral_rp": 0.0775,
