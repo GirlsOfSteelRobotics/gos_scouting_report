@@ -167,6 +167,13 @@ ui.page_sidebar(
             ui.output_ui("statbotics_scatter")
         ),
         ui.card(
+            ui.output_ui("statbotics_scatter2")
+        ),
+        
+        ui.card(
+            ui.output_ui("pieces_scatter")
+        ),
+        ui.card(
             ui.output_data_frame("key_stats_dt")
         ),
     ),
@@ -835,7 +842,77 @@ def server(input, output, session):
                         textposition="middle left")
         
         return ui.HTML(fig.to_html(full_html=False))
+        
+    # print(df.keys())
+    @output
+    @render.ui
+    def statbotics_scatter2():
+        new_df, color_map, red_teams, blue_teams, all_teams, averages_by_team, averages_by_team_all = get_match_data()
+        teams = averages_by_team_all["team_key"]
+        
+        x = averages_by_team_all["totalAutoPoints"]
+        y = averages_by_team_all["totalTeleopPoints"]
+
+        # Create the plot
+        fig = px.scatter(averages_by_team_all, x="totalAutoPoints", y="totalTeleopPoints", text=teams, 
+                         title="Auto vs Teleop", color="totalPieces", hover_name="team_key", hover_data={
+                            "team_key": "",
+                            "totalPieces":":.2f", 
+
+                            "totalAutoPoints":":.2f", 
+                            "totalAutoCoral":":.2f",
+                            "algaeAuto":":.2f",
+
+                            "totalTeleopPoints":":.2f", 
+                            "totalTeleopCoral":":.2f",
+                            "algaeTeleop":":.2f",
+                            
+                            "endgamePoints":":.2f",
+                            "endgamePlusAuto":":.2f",
+                        })
+
+        # Add custom color for each point based on the team_key
+        fig.update_traces(marker=dict(
+                                    symbol='circle', size=10),
+                        textposition="middle left")
+        
+        return ui.HTML(fig.to_html(full_html=False))
     
+    @output
+    @render.ui
+    def pieces_scatter():
+        new_df, color_map, red_teams, blue_teams, all_teams, averages_by_team, averages_by_team_all = get_match_data()
+        teams = averages_by_team_all["team_key"]
+        
+        y = averages_by_team_all["algaeTeleop"] + averages_by_team_all["algaeAuto"]
+        x = averages_by_team_all["totalTeleopCoral"] + averages_by_team_all["totalAutoCoral"]
+
+        # Create the plot
+        fig = px.scatter(averages_by_team_all, x=x, y=y, text=teams, 
+                         title="Pieces", color="totalPieces", hover_name="team_key", hover_data={
+                            "team_key": "",
+                            "totalPieces":":.2f", 
+
+                            "totalAutoPoints":":.2f", 
+                            "totalAutoCoral":":.2f",
+                            "algaeAuto":":.2f",
+
+                            "totalTeleopPoints":":.2f", 
+                            "totalTeleopCoral":":.2f",
+                            "algaeTeleop":":.2f",
+                            
+                            "endgamePoints":":.2f",
+                            "endgamePlusAuto":":.2f",
+                        })
+
+        # Add custom color for each point based on the team_key
+        fig.update_traces(marker=dict(
+                                    symbol='circle', size=10),
+                        textposition="middle left")
+        
+        return ui.HTML(fig.to_html(full_html=False))
+
+
     @output
     @render.ui
     def avg_coral_red_box():
