@@ -12,7 +12,7 @@
         "time": 1743771000,
         "predicted_time": 1743769822,
         "status": "Completed",
-        "video": null,
+        "video": "3FAd4RozBUo",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -126,7 +126,7 @@
         "time": 1743771540,
         "predicted_time": 1743771802,
         "status": "Completed",
-        "video": null,
+        "video": "wqCfBJdk0Ec",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -354,7 +354,7 @@
         "time": 1743772620,
         "predicted_time": 1743772840,
         "status": "Completed",
-        "video": null,
+        "video": "xEql6pQY9Ys",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -468,7 +468,7 @@
         "time": 1743773160,
         "predicted_time": 1743773530,
         "status": "Completed",
-        "video": null,
+        "video": "GYUue1RzZj0",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -582,7 +582,7 @@
         "time": 1743773700,
         "predicted_time": 1743774161,
         "status": "Completed",
-        "video": null,
+        "video": "WYKzkg7cLX0",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -696,7 +696,7 @@
         "time": 1743774240,
         "predicted_time": 1743774755,
         "status": "Completed",
-        "video": null,
+        "video": "ZPtykjj0Lbc",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -810,7 +810,7 @@
         "time": 1743774780,
         "predicted_time": 1743775190,
         "status": "Completed",
-        "video": null,
+        "video": "CW7kkXLoAio",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -1038,7 +1038,7 @@
         "time": 1743775800,
         "predicted_time": 1743776670,
         "status": "Completed",
-        "video": null,
+        "video": "t0uVLwKyAXA",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -1152,7 +1152,7 @@
         "time": 1743776280,
         "predicted_time": 1743777182,
         "status": "Completed",
-        "video": null,
+        "video": "hQGVJiy81OA",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -1319,12 +1319,12 @@
             "blue_endgame_points": 14,
             "red_auto_rp": true,
             "blue_auto_rp": true,
-            "red_coral_rp": false,
-            "blue_coral_rp": false,
+            "red_coral_rp": true,
+            "blue_coral_rp": true,
             "red_barge_rp": true,
             "blue_barge_rp": true,
-            "red_tiebreaker_points": 0,
-            "blue_tiebreaker_points": 0,
+            "red_tiebreaker_points": 1,
+            "blue_tiebreaker_points": 1,
             "red_auto_leave_points": 9.0,
             "blue_auto_leave_points": 9.0,
             "red_auto_coral": 3.0,
@@ -1346,23 +1346,23 @@
             "red_total_coral_points": 88.0,
             "blue_total_coral_points": 63.0,
             "red_processor_algae": 2.0,
-            "blue_processor_algae": 1.0,
+            "blue_processor_algae": 2.0,
             "red_processor_algae_points": 12.0,
-            "blue_processor_algae_points": 6.0,
+            "blue_processor_algae_points": 12.0,
             "red_net_algae": 2.0,
             "blue_net_algae": 4.0,
             "red_net_algae_points": 8.0,
             "blue_net_algae_points": 16.0,
             "red_total_algae_points": 20.0,
-            "blue_total_algae_points": 22.0,
+            "blue_total_algae_points": 28.0,
             "red_total_game_pieces": 24.0,
-            "blue_total_game_pieces": 21.0,
+            "blue_total_game_pieces": 22.0,
             "red_barge_points": 24.0,
             "blue_barge_points": 14.0,
             "red_rp_1": true,
             "blue_rp_1": true,
-            "red_rp_2": false,
-            "blue_rp_2": false,
+            "red_rp_2": true,
+            "blue_rp_2": true,
             "red_rp_3": true,
             "blue_rp_3": true
         }
@@ -1836,7 +1836,7 @@
         "time": 1743779160,
         "predicted_time": 1743779944,
         "status": "Completed",
-        "video": null,
+        "video": "9ivCUSTL5S0",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -1869,13 +1869,13 @@
             "red_auto_rp": 0.7162,
             "blue_auto_rp": 0.3699,
             "red_coral_rp": 0.0434,
-            "blue_coral_rp": 0.0434,
+            "blue_coral_rp": 0.0559,
             "red_barge_rp": 0.3586,
             "blue_barge_rp": 0.3145,
             "red_rp_1": 0.7162,
             "blue_rp_1": 0.3699,
             "red_rp_2": 0.0434,
-            "blue_rp_2": 0.0434,
+            "blue_rp_2": 0.0559,
             "red_rp_3": 0.3586,
             "blue_rp_3": 0.3145
         },
@@ -2528,7 +2528,7 @@
         "time": 1743786000,
         "predicted_time": 1743785801,
         "status": "Completed",
-        "video": null,
+        "video": "QlP_715a8d8",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -2642,7 +2642,7 @@
         "time": 1743786480,
         "predicted_time": 1743786723,
         "status": "Completed",
-        "video": null,
+        "video": "aHll5OujaWE",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -2870,7 +2870,7 @@
         "time": 1743787440,
         "predicted_time": 1743787686,
         "status": "Completed",
-        "video": null,
+        "video": "7-jdbyjPHGc",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3098,7 +3098,7 @@
         "time": 1743788400,
         "predicted_time": 1743788502,
         "status": "Completed",
-        "video": null,
+        "video": "5Ov5vrRi9t8",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3212,7 +3212,7 @@
         "time": 1743788880,
         "predicted_time": 1743789086,
         "status": "Completed",
-        "video": null,
+        "video": "IsFCG0COHFo",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3326,7 +3326,7 @@
         "time": 1743789360,
         "predicted_time": 1743789644,
         "status": "Completed",
-        "video": null,
+        "video": "a4TnL7p1Hi0",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3554,7 +3554,7 @@
         "time": 1743790320,
         "predicted_time": 1743790712,
         "status": "Completed",
-        "video": null,
+        "video": "O9NxQj5zxUs",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3782,7 +3782,7 @@
         "time": 1743791280,
         "predicted_time": 1743791684,
         "status": "Completed",
-        "video": null,
+        "video": "DSbX1dUQiJw",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -3896,7 +3896,7 @@
         "time": 1743791760,
         "predicted_time": 1743792243,
         "status": "Completed",
-        "video": null,
+        "video": "BwsNaEVl6QY",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4010,7 +4010,7 @@
         "time": 1743792240,
         "predicted_time": 1743792752,
         "status": "Completed",
-        "video": null,
+        "video": "UHvet9fDlhk",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4352,7 +4352,7 @@
         "time": 1743793680,
         "predicted_time": 1743794348,
         "status": "Completed",
-        "video": null,
+        "video": "vb_pie09eio",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4466,7 +4466,7 @@
         "time": 1743794160,
         "predicted_time": 1743795103,
         "status": "Completed",
-        "video": null,
+        "video": "ZpW5-L6vMIY",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4580,7 +4580,7 @@
         "time": 1743794640,
         "predicted_time": 1743795606,
         "status": "Completed",
-        "video": null,
+        "video": "A2nopSHu-TA",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4694,7 +4694,7 @@
         "time": 1743795120,
         "predicted_time": 1743796488,
         "status": "Completed",
-        "video": null,
+        "video": "x-xXtbWoFSw",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4808,7 +4808,7 @@
         "time": 1743795600,
         "predicted_time": 1743796792,
         "status": "Completed",
-        "video": null,
+        "video": "UQz1LOBn4eM",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -4922,7 +4922,7 @@
         "time": 1743796080,
         "predicted_time": 1743797206,
         "status": "Completed",
-        "video": null,
+        "video": "Vic-jZTZA1o",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5036,7 +5036,7 @@
         "time": 1743796560,
         "predicted_time": 1743797651,
         "status": "Completed",
-        "video": null,
+        "video": "8w7OF92lcyc",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5150,7 +5150,7 @@
         "time": 1743797040,
         "predicted_time": 1743798157,
         "status": "Completed",
-        "video": null,
+        "video": "9Tpc6D6ne6E",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5378,7 +5378,7 @@
         "time": 1743798000,
         "predicted_time": 1743799183,
         "status": "Completed",
-        "video": null,
+        "video": "ye33mMZfDD4",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5492,7 +5492,7 @@
         "time": 1743798480,
         "predicted_time": 1743799641,
         "status": "Completed",
-        "video": null,
+        "video": "psJTB130CYM",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5606,7 +5606,7 @@
         "time": 1743798960,
         "predicted_time": 1743800097,
         "status": "Completed",
-        "video": null,
+        "video": "unxF-l1qSoI",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5720,7 +5720,7 @@
         "time": 1743799440,
         "predicted_time": 1743800587,
         "status": "Completed",
-        "video": null,
+        "video": "LZWZEQrnU2Y",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -5948,7 +5948,7 @@
         "time": 1743800400,
         "predicted_time": 1743801593,
         "status": "Completed",
-        "video": null,
+        "video": "6yCoypGtFtw",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6062,7 +6062,7 @@
         "time": 1743800880,
         "predicted_time": 1743802197,
         "status": "Completed",
-        "video": null,
+        "video": "mFJS7tNDyRw",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6290,7 +6290,7 @@
         "time": 1743801840,
         "predicted_time": 1743803714,
         "status": "Completed",
-        "video": null,
+        "video": "ap3C3hj0a_A",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6404,7 +6404,7 @@
         "time": 1743802320,
         "predicted_time": 1743803796,
         "status": "Completed",
-        "video": null,
+        "video": "4MmKXB-aviY",
         "alliances": {
             "red": {
                 "team_keys": [
@@ -6516,8 +6516,8 @@
         "match_number": 58,
         "match_name": "Qual 58",
         "time": 1743857400,
-        "predicted_time": 1743857893,
-        "status": "Upcoming",
+        "predicted_time": 1743855671,
+        "status": "Completed",
         "video": null,
         "alliances": {
             "red": {
@@ -6558,64 +6558,64 @@
             "blue_rp_3": 0.4259
         },
         "result": {
-            "winner": null,
-            "red_score": -1,
-            "blue_score": -1,
-            "red_no_foul": null,
-            "blue_no_foul": null,
-            "red_auto_points": null,
-            "blue_auto_points": null,
-            "red_teleop_points": null,
-            "blue_teleop_points": null,
-            "red_endgame_points": null,
-            "blue_endgame_points": null,
-            "red_auto_rp": false,
-            "blue_auto_rp": false,
-            "red_coral_rp": false,
+            "winner": "red",
+            "red_score": 155,
+            "blue_score": 117,
+            "red_no_foul": 153,
+            "blue_no_foul": 117,
+            "red_auto_points": 44,
+            "blue_auto_points": 23,
+            "red_teleop_points": 93,
+            "blue_teleop_points": 82,
+            "red_endgame_points": 16,
+            "blue_endgame_points": 12,
+            "red_auto_rp": true,
+            "blue_auto_rp": true,
+            "red_coral_rp": true,
             "blue_coral_rp": false,
-            "red_barge_rp": false,
+            "red_barge_rp": true,
             "blue_barge_rp": false,
             "red_tiebreaker_points": 0,
             "blue_tiebreaker_points": 0,
-            "red_auto_leave_points": null,
-            "blue_auto_leave_points": null,
-            "red_auto_coral": null,
-            "blue_auto_coral": null,
-            "red_auto_coral_points": null,
-            "blue_auto_coral_points": null,
-            "red_teleop_coral": null,
-            "blue_teleop_coral": null,
-            "red_teleop_coral_points": null,
-            "blue_teleop_coral_points": null,
-            "red_coral_l1": null,
-            "blue_coral_l1": null,
-            "red_coral_l2": null,
-            "blue_coral_l2": null,
-            "red_coral_l3": null,
-            "blue_coral_l3": null,
-            "red_coral_l4": null,
-            "blue_coral_l4": null,
-            "red_total_coral_points": null,
-            "blue_total_coral_points": null,
-            "red_processor_algae": null,
-            "blue_processor_algae": null,
-            "red_processor_algae_points": null,
-            "blue_processor_algae_points": null,
-            "red_net_algae": null,
-            "blue_net_algae": null,
-            "red_net_algae_points": null,
-            "blue_net_algae_points": null,
-            "red_total_algae_points": null,
-            "blue_total_algae_points": null,
-            "red_total_game_pieces": null,
-            "blue_total_game_pieces": null,
-            "red_barge_points": null,
-            "blue_barge_points": null,
-            "red_rp_1": false,
-            "blue_rp_1": false,
-            "red_rp_2": false,
+            "red_auto_leave_points": 9.0,
+            "blue_auto_leave_points": 9.0,
+            "red_auto_coral": 5.0,
+            "blue_auto_coral": 2.0,
+            "red_auto_coral_points": 35.0,
+            "blue_auto_coral_points": 14.0,
+            "red_teleop_coral": 28.0,
+            "blue_teleop_coral": 18.0,
+            "red_teleop_coral_points": 81.0,
+            "blue_teleop_coral_points": 70.0,
+            "red_coral_l1": 6.0,
+            "blue_coral_l1": 2.0,
+            "red_coral_l2": 5.0,
+            "blue_coral_l2": 0.0,
+            "red_coral_l3": 6.0,
+            "blue_coral_l3": 4.0,
+            "red_coral_l4": 11.0,
+            "blue_coral_l4": 12.0,
+            "red_total_coral_points": 116.0,
+            "blue_total_coral_points": 84.0,
+            "red_processor_algae": 0.0,
+            "blue_processor_algae": 0.0,
+            "red_processor_algae_points": 0.0,
+            "blue_processor_algae_points": 0.0,
+            "red_net_algae": 3.0,
+            "blue_net_algae": 3.0,
+            "red_net_algae_points": 12.0,
+            "blue_net_algae_points": 12.0,
+            "red_total_algae_points": 12.0,
+            "blue_total_algae_points": 12.0,
+            "red_total_game_pieces": 31.0,
+            "blue_total_game_pieces": 21.0,
+            "red_barge_points": 16.0,
+            "blue_barge_points": 12.0,
+            "red_rp_1": true,
+            "blue_rp_1": true,
+            "red_rp_2": true,
             "blue_rp_2": false,
-            "red_rp_3": false,
+            "red_rp_3": true,
             "blue_rp_3": false
         }
     },
@@ -6630,8 +6630,8 @@
         "match_number": 59,
         "match_name": "Qual 59",
         "time": 1743857940,
-        "predicted_time": 1743858386,
-        "status": "Upcoming",
+        "predicted_time": 1743857870,
+        "status": "Completed",
         "video": null,
         "alliances": {
             "red": {
@@ -6672,65 +6672,65 @@
             "blue_rp_3": 0.5719
         },
         "result": {
-            "winner": null,
-            "red_score": -1,
-            "blue_score": -1,
-            "red_no_foul": null,
-            "blue_no_foul": null,
-            "red_auto_points": null,
-            "blue_auto_points": null,
-            "red_teleop_points": null,
-            "blue_teleop_points": null,
-            "red_endgame_points": null,
-            "blue_endgame_points": null,
-            "red_auto_rp": false,
-            "blue_auto_rp": false,
+            "winner": "blue",
+            "red_score": 108,
+            "blue_score": 142,
+            "red_no_foul": 108,
+            "blue_no_foul": 142,
+            "red_auto_points": 28,
+            "blue_auto_points": 30,
+            "red_teleop_points": 54,
+            "blue_teleop_points": 98,
+            "red_endgame_points": 26,
+            "blue_endgame_points": 14,
+            "red_auto_rp": true,
+            "blue_auto_rp": true,
             "red_coral_rp": false,
             "blue_coral_rp": false,
-            "red_barge_rp": false,
-            "blue_barge_rp": false,
+            "red_barge_rp": true,
+            "blue_barge_rp": true,
             "red_tiebreaker_points": 0,
             "blue_tiebreaker_points": 0,
-            "red_auto_leave_points": null,
-            "blue_auto_leave_points": null,
-            "red_auto_coral": null,
-            "blue_auto_coral": null,
-            "red_auto_coral_points": null,
-            "blue_auto_coral_points": null,
-            "red_teleop_coral": null,
-            "blue_teleop_coral": null,
-            "red_teleop_coral_points": null,
-            "blue_teleop_coral_points": null,
-            "red_coral_l1": null,
-            "blue_coral_l1": null,
-            "red_coral_l2": null,
-            "blue_coral_l2": null,
-            "red_coral_l3": null,
-            "blue_coral_l3": null,
-            "red_coral_l4": null,
-            "blue_coral_l4": null,
-            "red_total_coral_points": null,
-            "blue_total_coral_points": null,
-            "red_processor_algae": null,
-            "blue_processor_algae": null,
-            "red_processor_algae_points": null,
-            "blue_processor_algae_points": null,
-            "red_net_algae": null,
-            "blue_net_algae": null,
-            "red_net_algae_points": null,
-            "blue_net_algae_points": null,
-            "red_total_algae_points": null,
-            "blue_total_algae_points": null,
-            "red_total_game_pieces": null,
-            "blue_total_game_pieces": null,
-            "red_barge_points": null,
-            "blue_barge_points": null,
-            "red_rp_1": false,
-            "blue_rp_1": false,
+            "red_auto_leave_points": 9.0,
+            "blue_auto_leave_points": 9.0,
+            "red_auto_coral": 3.0,
+            "blue_auto_coral": 3.0,
+            "red_auto_coral_points": 19.0,
+            "blue_auto_coral_points": 21.0,
+            "red_teleop_coral": 12.0,
+            "blue_teleop_coral": 25.0,
+            "red_teleop_coral_points": 40.0,
+            "blue_teleop_coral_points": 82.0,
+            "red_coral_l1": 1.0,
+            "blue_coral_l1": 5.0,
+            "red_coral_l2": 0.0,
+            "blue_coral_l2": 4.0,
+            "red_coral_l3": 4.0,
+            "blue_coral_l3": 5.0,
+            "red_coral_l4": 7.0,
+            "blue_coral_l4": 11.0,
+            "red_total_coral_points": 59.0,
+            "blue_total_coral_points": 103.0,
+            "red_processor_algae": 1.0,
+            "blue_processor_algae": 2.0,
+            "red_processor_algae_points": 6.0,
+            "blue_processor_algae_points": 12.0,
+            "red_net_algae": 2.0,
+            "blue_net_algae": 1.0,
+            "red_net_algae_points": 8.0,
+            "blue_net_algae_points": 4.0,
+            "red_total_algae_points": 14.0,
+            "blue_total_algae_points": 16.0,
+            "red_total_game_pieces": 15.0,
+            "blue_total_game_pieces": 28.0,
+            "red_barge_points": 26.0,
+            "blue_barge_points": 14.0,
+            "red_rp_1": true,
+            "blue_rp_1": true,
             "red_rp_2": false,
             "blue_rp_2": false,
-            "red_rp_3": false,
-            "blue_rp_3": false
+            "red_rp_3": true,
+            "blue_rp_3": true
         }
     },
     {
@@ -6744,7 +6744,7 @@
         "match_number": 60,
         "match_name": "Qual 60",
         "time": 1743858480,
-        "predicted_time": 1743858879,
+        "predicted_time": 1743858281,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -6858,7 +6858,7 @@
         "match_number": 61,
         "match_name": "Qual 61",
         "time": 1743859020,
-        "predicted_time": 1743859372,
+        "predicted_time": 1743858774,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -6972,7 +6972,7 @@
         "match_number": 62,
         "match_name": "Qual 62",
         "time": 1743859560,
-        "predicted_time": 1743859865,
+        "predicted_time": 1743859267,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7086,7 +7086,7 @@
         "match_number": 63,
         "match_name": "Qual 63",
         "time": 1743860100,
-        "predicted_time": 1743860358,
+        "predicted_time": 1743859760,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7111,21 +7111,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.629,
-            "red_score": 104.99,
-            "blue_score": 90.77,
+            "red_win_prob": 0.6126,
+            "red_score": 104.9,
+            "blue_score": 92.56,
             "red_auto_rp": 0.6749,
-            "blue_auto_rp": 0.6664,
+            "blue_auto_rp": 0.6864,
             "red_coral_rp": 0.0719,
-            "blue_coral_rp": 0.0897,
+            "blue_coral_rp": 0.0863,
             "red_barge_rp": 0.6916,
-            "blue_barge_rp": 0.6096,
+            "blue_barge_rp": 0.5823,
             "red_rp_1": 0.6749,
-            "blue_rp_1": 0.6664,
+            "blue_rp_1": 0.6864,
             "red_rp_2": 0.0719,
-            "blue_rp_2": 0.0897,
+            "blue_rp_2": 0.0863,
             "red_rp_3": 0.6916,
-            "blue_rp_3": 0.6096
+            "blue_rp_3": 0.5823
         },
         "result": {
             "winner": null,
@@ -7200,7 +7200,7 @@
         "match_number": 64,
         "match_name": "Qual 64",
         "time": 1743860640,
-        "predicted_time": 1743860851,
+        "predicted_time": 1743860253,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7225,21 +7225,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.9292,
-            "red_score": 151.5,
-            "blue_score": 82.17,
-            "red_auto_rp": 0.8084,
-            "blue_auto_rp": 0.7643,
-            "red_coral_rp": 0.6763,
-            "blue_coral_rp": 0.0292,
-            "red_barge_rp": 0.656,
-            "blue_barge_rp": 0.4124,
-            "red_rp_1": 0.8084,
-            "blue_rp_1": 0.7643,
-            "red_rp_2": 0.6763,
-            "blue_rp_2": 0.0292,
-            "red_rp_3": 0.656,
-            "blue_rp_3": 0.4124
+            "red_win_prob": 0.9258,
+            "red_score": 151.19,
+            "blue_score": 83.26,
+            "red_auto_rp": 0.8181,
+            "blue_auto_rp": 0.7684,
+            "red_coral_rp": 0.7031,
+            "blue_coral_rp": 0.0358,
+            "red_barge_rp": 0.681,
+            "blue_barge_rp": 0.4301,
+            "red_rp_1": 0.8181,
+            "blue_rp_1": 0.7684,
+            "red_rp_2": 0.7031,
+            "blue_rp_2": 0.0358,
+            "red_rp_3": 0.681,
+            "blue_rp_3": 0.4301
         },
         "result": {
             "winner": null,
@@ -7314,7 +7314,7 @@
         "match_number": 65,
         "match_name": "Qual 65",
         "time": 1743861180,
-        "predicted_time": 1743861344,
+        "predicted_time": 1743860746,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7339,21 +7339,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.704,
-            "red_score": 142.9,
-            "blue_score": 119.57,
-            "red_auto_rp": 0.9382,
-            "blue_auto_rp": 0.8172,
-            "red_coral_rp": 0.4318,
-            "blue_coral_rp": 0.1415,
-            "red_barge_rp": 0.608,
-            "blue_barge_rp": 0.7345,
-            "red_rp_1": 0.9382,
-            "blue_rp_1": 0.8172,
-            "red_rp_2": 0.4318,
-            "blue_rp_2": 0.1415,
-            "red_rp_3": 0.608,
-            "blue_rp_3": 0.7345
+            "red_win_prob": 0.7184,
+            "red_score": 147.26,
+            "blue_score": 122.05,
+            "red_auto_rp": 0.9452,
+            "blue_auto_rp": 0.8226,
+            "red_coral_rp": 0.4122,
+            "blue_coral_rp": 0.137,
+            "red_barge_rp": 0.6082,
+            "blue_barge_rp": 0.7562,
+            "red_rp_1": 0.9452,
+            "blue_rp_1": 0.8226,
+            "red_rp_2": 0.4122,
+            "blue_rp_2": 0.137,
+            "red_rp_3": 0.6082,
+            "blue_rp_3": 0.7562
         },
         "result": {
             "winner": null,
@@ -7428,7 +7428,7 @@
         "match_number": 66,
         "match_name": "Qual 66",
         "time": 1743861720,
-        "predicted_time": 1743861837,
+        "predicted_time": 1743861239,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7453,21 +7453,21 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.2886,
-            "red_score": 60.74,
-            "blue_score": 85.02,
+            "red_win_prob": 0.2994,
+            "red_score": 60.69,
+            "blue_score": 83.58,
             "red_auto_rp": 0.2723,
-            "blue_auto_rp": 0.5853,
+            "blue_auto_rp": 0.5951,
             "red_coral_rp": 0.1113,
-            "blue_coral_rp": 0.1025,
+            "blue_coral_rp": 0.0949,
             "red_barge_rp": 0.2932,
-            "blue_barge_rp": 0.4865,
+            "blue_barge_rp": 0.4966,
             "red_rp_1": 0.2723,
-            "blue_rp_1": 0.5853,
+            "blue_rp_1": 0.5951,
             "red_rp_2": 0.1113,
-            "blue_rp_2": 0.1025,
+            "blue_rp_2": 0.0949,
             "red_rp_3": 0.2932,
-            "blue_rp_3": 0.4865
+            "blue_rp_3": 0.4966
         },
         "result": {
             "winner": null,
@@ -7542,7 +7542,7 @@
         "match_number": 67,
         "match_name": "Qual 67",
         "time": 1743862200,
-        "predicted_time": 1743862330,
+        "predicted_time": 1743861732,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7567,20 +7567,20 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.8954,
-            "red_score": 147.54,
-            "blue_score": 89.73,
-            "red_auto_rp": 0.799,
+            "red_win_prob": 0.9018,
+            "red_score": 149.33,
+            "blue_score": 89.64,
+            "red_auto_rp": 0.8132,
             "blue_auto_rp": 0.658,
-            "red_coral_rp": 0.6035,
+            "red_coral_rp": 0.5933,
             "blue_coral_rp": 0.1363,
-            "red_barge_rp": 0.4306,
+            "red_barge_rp": 0.403,
             "blue_barge_rp": 0.5245,
-            "red_rp_1": 0.799,
+            "red_rp_1": 0.8132,
             "blue_rp_1": 0.658,
-            "red_rp_2": 0.6035,
+            "red_rp_2": 0.5933,
             "blue_rp_2": 0.1363,
-            "red_rp_3": 0.4306,
+            "red_rp_3": 0.403,
             "blue_rp_3": 0.5245
         },
         "result": {
@@ -7656,7 +7656,7 @@
         "match_number": 68,
         "match_name": "Qual 68",
         "time": 1743862680,
-        "predicted_time": 1743862823,
+        "predicted_time": 1743862225,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7681,20 +7681,20 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.9359,
-            "red_score": 171.99,
-            "blue_score": 99.82,
-            "red_auto_rp": 0.9554,
+            "red_win_prob": 0.9409,
+            "red_score": 174.46,
+            "blue_score": 99.93,
+            "red_auto_rp": 0.9569,
             "blue_auto_rp": 0.8464,
-            "red_coral_rp": 0.646,
+            "red_coral_rp": 0.6373,
             "blue_coral_rp": 0.111,
-            "red_barge_rp": 0.8934,
+            "red_barge_rp": 0.9038,
             "blue_barge_rp": 0.3295,
-            "red_rp_1": 0.9554,
+            "red_rp_1": 0.9569,
             "blue_rp_1": 0.8464,
-            "red_rp_2": 0.646,
+            "red_rp_2": 0.6373,
             "blue_rp_2": 0.111,
-            "red_rp_3": 0.8934,
+            "red_rp_3": 0.9038,
             "blue_rp_3": 0.3295
         },
         "result": {
@@ -7770,7 +7770,7 @@
         "match_number": 69,
         "match_name": "Qual 69",
         "time": 1743863160,
-        "predicted_time": 1743863316,
+        "predicted_time": 1743862718,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7884,7 +7884,7 @@
         "match_number": 70,
         "match_name": "Qual 70",
         "time": 1743863640,
-        "predicted_time": 1743863809,
+        "predicted_time": 1743863211,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -7909,21 +7909,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.5822,
-            "red_score": 116.11,
-            "blue_score": 107.18,
+            "red_win_prob": 0.587,
+            "red_score": 115.79,
+            "blue_score": 106.32,
             "red_auto_rp": 0.6493,
-            "blue_auto_rp": 0.7735,
+            "blue_auto_rp": 0.7883,
             "red_coral_rp": 0.1127,
-            "blue_coral_rp": 0.0971,
+            "blue_coral_rp": 0.1042,
             "red_barge_rp": 0.6331,
-            "blue_barge_rp": 0.731,
+            "blue_barge_rp": 0.7568,
             "red_rp_1": 0.6493,
-            "blue_rp_1": 0.7735,
+            "blue_rp_1": 0.7883,
             "red_rp_2": 0.1127,
-            "blue_rp_2": 0.0971,
+            "blue_rp_2": 0.1042,
             "red_rp_3": 0.6331,
-            "blue_rp_3": 0.731
+            "blue_rp_3": 0.7568
         },
         "result": {
             "winner": null,
@@ -7998,7 +7998,7 @@
         "match_number": 71,
         "match_name": "Qual 71",
         "time": 1743864120,
-        "predicted_time": 1743864302,
+        "predicted_time": 1743863704,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8023,21 +8023,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.6896,
-            "red_score": 103.04,
-            "blue_score": 81.55,
+            "red_win_prob": 0.6706,
+            "red_score": 103.15,
+            "blue_score": 84.01,
             "red_auto_rp": 0.6295,
-            "blue_auto_rp": 0.6073,
+            "blue_auto_rp": 0.616,
             "red_coral_rp": 0.0827,
-            "blue_coral_rp": 0.0569,
+            "blue_coral_rp": 0.0549,
             "red_barge_rp": 0.5017,
-            "blue_barge_rp": 0.5509,
+            "blue_barge_rp": 0.5789,
             "red_rp_1": 0.6295,
-            "blue_rp_1": 0.6073,
+            "blue_rp_1": 0.616,
             "red_rp_2": 0.0827,
-            "blue_rp_2": 0.0569,
+            "blue_rp_2": 0.0549,
             "red_rp_3": 0.5017,
-            "blue_rp_3": 0.5509
+            "blue_rp_3": 0.5789
         },
         "result": {
             "winner": null,
@@ -8112,7 +8112,7 @@
         "match_number": 72,
         "match_name": "Qual 72",
         "time": 1743864600,
-        "predicted_time": 1743864795,
+        "predicted_time": 1743864197,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8138,20 +8138,20 @@
         "pred": {
             "winner": "red",
             "red_win_prob": 0.583,
-            "red_score": 120.92,
-            "blue_score": 111.89,
-            "red_auto_rp": 0.7273,
-            "blue_auto_rp": 0.8967,
-            "red_coral_rp": 0.4322,
-            "blue_coral_rp": 0.1859,
-            "red_barge_rp": 0.6439,
-            "blue_barge_rp": 0.5077,
-            "red_rp_1": 0.7273,
-            "blue_rp_1": 0.8967,
-            "red_rp_2": 0.4322,
-            "blue_rp_2": 0.1859,
-            "red_rp_3": 0.6439,
-            "blue_rp_3": 0.5077
+            "red_score": 122.62,
+            "blue_score": 113.59,
+            "red_auto_rp": 0.745,
+            "blue_auto_rp": 0.9049,
+            "red_coral_rp": 0.4218,
+            "blue_coral_rp": 0.1796,
+            "red_barge_rp": 0.6175,
+            "blue_barge_rp": 0.4793,
+            "red_rp_1": 0.745,
+            "blue_rp_1": 0.9049,
+            "red_rp_2": 0.4218,
+            "blue_rp_2": 0.1796,
+            "red_rp_3": 0.6175,
+            "blue_rp_3": 0.4793
         },
         "result": {
             "winner": null,
@@ -8226,7 +8226,7 @@
         "match_number": 73,
         "match_name": "Qual 73",
         "time": 1743865080,
-        "predicted_time": 1743865288,
+        "predicted_time": 1743864690,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8251,21 +8251,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.7936,
-            "red_score": 136.59,
-            "blue_score": 100.33,
-            "red_auto_rp": 0.7637,
-            "blue_auto_rp": 0.6767,
-            "red_coral_rp": 0.3404,
-            "blue_coral_rp": 0.1305,
-            "red_barge_rp": 0.6267,
-            "blue_barge_rp": 0.7337,
-            "red_rp_1": 0.7637,
-            "blue_rp_1": 0.6767,
-            "red_rp_2": 0.3404,
-            "blue_rp_2": 0.1305,
-            "red_rp_3": 0.6267,
-            "blue_rp_3": 0.7337
+            "red_win_prob": 0.7892,
+            "red_score": 138.09,
+            "blue_score": 102.55,
+            "red_auto_rp": 0.7678,
+            "blue_auto_rp": 0.6847,
+            "red_coral_rp": 0.3891,
+            "blue_coral_rp": 0.1262,
+            "red_barge_rp": 0.6435,
+            "blue_barge_rp": 0.7554,
+            "red_rp_1": 0.7678,
+            "blue_rp_1": 0.6847,
+            "red_rp_2": 0.3891,
+            "blue_rp_2": 0.1262,
+            "red_rp_3": 0.6435,
+            "blue_rp_3": 0.7554
         },
         "result": {
             "winner": null,
@@ -8340,7 +8340,7 @@
         "match_number": 74,
         "match_name": "Qual 74",
         "time": 1743865560,
-        "predicted_time": 1743865781,
+        "predicted_time": 1743865183,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8365,21 +8365,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.6607,
-            "red_score": 148.85,
-            "blue_score": 130.91,
-            "red_auto_rp": 0.9441,
-            "blue_auto_rp": 0.912,
-            "red_coral_rp": 0.1675,
-            "blue_coral_rp": 0.4368,
-            "red_barge_rp": 0.8585,
-            "blue_barge_rp": 0.6973,
-            "red_rp_1": 0.9441,
-            "blue_rp_1": 0.912,
-            "red_rp_2": 0.1675,
-            "blue_rp_2": 0.4368,
-            "red_rp_3": 0.8585,
-            "blue_rp_3": 0.6973
+            "red_win_prob": 0.6854,
+            "red_score": 150.18,
+            "blue_score": 129.21,
+            "red_auto_rp": 0.9453,
+            "blue_auto_rp": 0.9152,
+            "red_coral_rp": 0.1989,
+            "blue_coral_rp": 0.416,
+            "red_barge_rp": 0.8671,
+            "blue_barge_rp": 0.7058,
+            "red_rp_1": 0.9453,
+            "blue_rp_1": 0.9152,
+            "red_rp_2": 0.1989,
+            "blue_rp_2": 0.416,
+            "red_rp_3": 0.8671,
+            "blue_rp_3": 0.7058
         },
         "result": {
             "winner": null,
@@ -8454,7 +8454,7 @@
         "match_number": 75,
         "match_name": "Qual 75",
         "time": 1743866040,
-        "predicted_time": 1743866274,
+        "predicted_time": 1743865676,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8479,21 +8479,21 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.1711,
-            "red_score": 62.21,
-            "blue_score": 104.69,
-            "red_auto_rp": 0.2841,
-            "blue_auto_rp": 0.4502,
-            "red_coral_rp": 0.0597,
-            "blue_coral_rp": 0.1855,
-            "red_barge_rp": 0.3722,
-            "blue_barge_rp": 0.3151,
-            "red_rp_1": 0.2841,
-            "blue_rp_1": 0.4502,
-            "red_rp_2": 0.0597,
-            "blue_rp_2": 0.1855,
-            "red_rp_3": 0.3722,
-            "blue_rp_3": 0.3151
+            "red_win_prob": 0.1508,
+            "red_score": 59.87,
+            "blue_score": 106.4,
+            "red_auto_rp": 0.2971,
+            "blue_auto_rp": 0.4728,
+            "red_coral_rp": 0.0527,
+            "blue_coral_rp": 0.1792,
+            "red_barge_rp": 0.387,
+            "blue_barge_rp": 0.2911,
+            "red_rp_1": 0.2971,
+            "blue_rp_1": 0.4728,
+            "red_rp_2": 0.0527,
+            "blue_rp_2": 0.1792,
+            "red_rp_3": 0.387,
+            "blue_rp_3": 0.2911
         },
         "result": {
             "winner": null,
@@ -8568,7 +8568,7 @@
         "match_number": 76,
         "match_name": "Qual 76",
         "time": 1743866520,
-        "predicted_time": 1743866767,
+        "predicted_time": 1743866169,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8592,22 +8592,22 @@
             }
         },
         "pred": {
-            "winner": "blue",
-            "red_win_prob": 0.4997,
-            "red_score": 135.99,
-            "blue_score": 136.03,
+            "winner": "red",
+            "red_win_prob": 0.5126,
+            "red_score": 135.94,
+            "blue_score": 134.58,
             "red_auto_rp": 0.9006,
-            "blue_auto_rp": 0.7688,
+            "blue_auto_rp": 0.776,
             "red_coral_rp": 0.3778,
-            "blue_coral_rp": 0.5664,
+            "blue_coral_rp": 0.5453,
             "red_barge_rp": 0.8109,
-            "blue_barge_rp": 0.5178,
+            "blue_barge_rp": 0.5278,
             "red_rp_1": 0.9006,
-            "blue_rp_1": 0.7688,
+            "blue_rp_1": 0.776,
             "red_rp_2": 0.3778,
-            "blue_rp_2": 0.5664,
+            "blue_rp_2": 0.5453,
             "red_rp_3": 0.8109,
-            "blue_rp_3": 0.5178
+            "blue_rp_3": 0.5278
         },
         "result": {
             "winner": null,
@@ -8682,7 +8682,7 @@
         "match_number": 77,
         "match_name": "Qual 77",
         "time": 1743867000,
-        "predicted_time": 1743867260,
+        "predicted_time": 1743866662,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8707,21 +8707,21 @@
         },
         "pred": {
             "winner": "red",
-            "red_win_prob": 0.8844,
-            "red_score": 152.2,
-            "blue_score": 97.41,
+            "red_win_prob": 0.8752,
+            "red_score": 152.31,
+            "blue_score": 99.87,
             "red_auto_rp": 0.8508,
-            "blue_auto_rp": 0.7333,
+            "blue_auto_rp": 0.7404,
             "red_coral_rp": 0.2153,
-            "blue_coral_rp": 0.1967,
+            "blue_coral_rp": 0.1908,
             "red_barge_rp": 0.7949,
-            "blue_barge_rp": 0.3415,
+            "blue_barge_rp": 0.3676,
             "red_rp_1": 0.8508,
-            "blue_rp_1": 0.7333,
+            "blue_rp_1": 0.7404,
             "red_rp_2": 0.2153,
-            "blue_rp_2": 0.1967,
+            "blue_rp_2": 0.1908,
             "red_rp_3": 0.7949,
-            "blue_rp_3": 0.3415
+            "blue_rp_3": 0.3676
         },
         "result": {
             "winner": null,
@@ -8796,7 +8796,7 @@
         "match_number": 78,
         "match_name": "Qual 78",
         "time": 1743867480,
-        "predicted_time": 1743867753,
+        "predicted_time": 1743867155,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8910,7 +8910,7 @@
         "match_number": 79,
         "match_name": "Qual 79",
         "time": 1743867960,
-        "predicted_time": 1743868246,
+        "predicted_time": 1743867648,
         "status": "Upcoming",
         "video": null,
         "alliances": {
@@ -8935,21 +8935,21 @@
         },
         "pred": {
             "winner": "blue",
-            "red_win_prob": 0.3703,
-            "red_score": 89.99,
-            "blue_score": 104.28,
+            "red_win_prob": 0.3682,
+            "red_score": 89.7,
+            "blue_score": 104.23,
             "red_auto_rp": 0.7415,
-            "blue_auto_rp": 0.7899,
+            "blue_auto_rp": 0.8003,
             "red_coral_rp": 0.0793,
-            "blue_coral_rp": 0.1333,
+            "blue_coral_rp": 0.1484,
             "red_barge_rp": 0.3065,
-            "blue_barge_rp": 0.7444,
+            "blue_barge_rp": 0.7653,
             "red_rp_1": 0.7415,
-            "blue_rp_1": 0.7899,
+            "blue_rp_1": 0.8003,
             "red_rp_2": 0.0793,
-            "blue_rp_2": 0.1333,
+            "blue_rp_2": 0.1484,
             "red_rp_3": 0.3065,
-            "blue_rp_3": 0.7444
+            "blue_rp_3": 0.7653
         },
         "result": {
             "winner": null,
