@@ -29,6 +29,7 @@ def __make_request(url):
     headers = {"X-TBA-Auth-Key": __get_api_key()}
 
     import requests
+
     response = requests.get(url, headers=headers)
 
     return response.json()

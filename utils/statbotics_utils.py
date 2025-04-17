@@ -28,7 +28,6 @@ def download_statbotics_matches(event: str, output_path: Path, quals_only=True):
         print("Could not load statbotics match data")
 
 
-
 def load_statbotics_matches(filename: Path) -> pd.DataFrame:
     """
     Loads the match information from a file on disk, potentially pre-calculating helpful aggregate data
@@ -104,4 +103,3 @@ def statbotics_teams_json_to_dataframe(json_data: Dict[str, Any]) -> pd.DataFram
     output = pd.json_normalize(json_data)
 
     return output
-

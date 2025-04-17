@@ -1,5 +1,3 @@
-
-
 # Week 2
 # OUR_TEAM_NUMBER = 4467
 # SCOUT_RADIOZ_ORG = "frc4467"
