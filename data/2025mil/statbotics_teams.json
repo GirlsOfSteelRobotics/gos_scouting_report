@@ -11,7 +11,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -56,9 +56,9 @@
             },
             "stats": {
                 "start": 63.19,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 63.19,
+                "mean": 63.19,
+                "max": 63.19
             }
         },
         "record": {
@@ -104,7 +104,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -148,10 +148,10 @@
                 "rp_3": 0.8498
             },
             "stats": {
-                "start": 108.87,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "start": 108.08,
+                "pre_elim": 108.08,
+                "mean": 108.08,
+                "max": 108.08
             }
         },
         "record": {
@@ -197,7 +197,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -242,9 +242,9 @@
             },
             "stats": {
                 "start": 56.98,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 56.98,
+                "mean": 56.98,
+                "max": 56.98
             }
         },
         "record": {
@@ -290,7 +290,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -335,9 +335,9 @@
             },
             "stats": {
                 "start": 57.71,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 57.71,
+                "mean": 57.71,
+                "max": 57.71
             }
         },
         "record": {
@@ -383,7 +383,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -428,9 +428,9 @@
             },
             "stats": {
                 "start": 92.35,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 92.35,
+                "mean": 92.35,
+                "max": 92.35
             }
         },
         "record": {
@@ -476,7 +476,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -521,9 +521,9 @@
             },
             "stats": {
                 "start": 45.88,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 45.88,
+                "mean": 45.88,
+                "max": 45.88
             }
         },
         "record": {
@@ -569,7 +569,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -614,9 +614,9 @@
             },
             "stats": {
                 "start": 52.91,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 52.91,
+                "mean": 52.91,
+                "max": 52.91
             }
         },
         "record": {
@@ -662,7 +662,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -707,9 +707,9 @@
             },
             "stats": {
                 "start": 53.31,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 53.31,
+                "mean": 53.31,
+                "max": 53.31
             }
         },
         "record": {
@@ -755,7 +755,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -800,9 +800,9 @@
             },
             "stats": {
                 "start": 48.65,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 48.65,
+                "mean": 48.65,
+                "max": 48.65
             }
         },
         "record": {
@@ -848,7 +848,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -893,9 +893,9 @@
             },
             "stats": {
                 "start": 54.73,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 54.73,
+                "mean": 54.73,
+                "max": 54.73
             }
         },
         "record": {
@@ -941,7 +941,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -986,9 +986,9 @@
             },
             "stats": {
                 "start": 63.18,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 63.18,
+                "mean": 63.18,
+                "max": 63.18
             }
         },
         "record": {
@@ -1034,7 +1034,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1079,9 +1079,9 @@
             },
             "stats": {
                 "start": 59.44,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.44,
+                "mean": 59.44,
+                "max": 59.44
             }
         },
         "record": {
@@ -1127,7 +1127,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1172,9 +1172,9 @@
             },
             "stats": {
                 "start": 67.92,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 67.92,
+                "mean": 67.92,
+                "max": 67.92
             }
         },
         "record": {
@@ -1220,7 +1220,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1265,9 +1265,9 @@
             },
             "stats": {
                 "start": 59.32,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.32,
+                "mean": 59.32,
+                "max": 59.32
             }
         },
         "record": {
@@ -1313,7 +1313,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1358,9 +1358,9 @@
             },
             "stats": {
                 "start": 30.9,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 30.9,
+                "mean": 30.9,
+                "max": 30.9
             }
         },
         "record": {
@@ -1406,7 +1406,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1451,9 +1451,9 @@
             },
             "stats": {
                 "start": 68.31,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 68.31,
+                "mean": 68.31,
+                "max": 68.31
             }
         },
         "record": {
@@ -1499,7 +1499,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1544,9 +1544,9 @@
             },
             "stats": {
                 "start": 59.6,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.6,
+                "mean": 59.6,
+                "max": 59.6
             }
         },
         "record": {
@@ -1592,7 +1592,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1637,9 +1637,9 @@
             },
             "stats": {
                 "start": 61.38,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 61.38,
+                "mean": 61.38,
+                "max": 61.38
             }
         },
         "record": {
@@ -1685,7 +1685,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1730,9 +1730,9 @@
             },
             "stats": {
                 "start": 52.1,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 52.1,
+                "mean": 52.1,
+                "max": 52.1
             }
         },
         "record": {
@@ -1778,7 +1778,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1823,9 +1823,9 @@
             },
             "stats": {
                 "start": 59.46,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.46,
+                "mean": 59.46,
+                "max": 59.46
             }
         },
         "record": {
@@ -1871,7 +1871,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -1916,9 +1916,9 @@
             },
             "stats": {
                 "start": 59.93,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.93,
+                "mean": 59.93,
+                "max": 59.93
             }
         },
         "record": {
@@ -1964,7 +1964,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2009,9 +2009,9 @@
             },
             "stats": {
                 "start": 41.86,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 41.86,
+                "mean": 41.86,
+                "max": 41.86
             }
         },
         "record": {
@@ -2057,7 +2057,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2102,9 +2102,9 @@
             },
             "stats": {
                 "start": 68.78,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 68.78,
+                "mean": 68.78,
+                "max": 68.78
             }
         },
         "record": {
@@ -2150,7 +2150,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2195,9 +2195,9 @@
             },
             "stats": {
                 "start": 73.52,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 73.52,
+                "mean": 73.52,
+                "max": 73.52
             }
         },
         "record": {
@@ -2243,7 +2243,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2288,9 +2288,9 @@
             },
             "stats": {
                 "start": 60.0,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.0,
+                "mean": 60.0,
+                "max": 60.0
             }
         },
         "record": {
@@ -2336,7 +2336,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2381,9 +2381,9 @@
             },
             "stats": {
                 "start": 49.3,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 49.3,
+                "mean": 49.3,
+                "max": 49.3
             }
         },
         "record": {
@@ -2429,7 +2429,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2473,10 +2473,10 @@
                 "rp_3": 0.4342
             },
             "stats": {
-                "start": 78.78,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "start": 78.97,
+                "pre_elim": 78.97,
+                "mean": 78.97,
+                "max": 78.97
             }
         },
         "record": {
@@ -2522,7 +2522,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2567,9 +2567,9 @@
             },
             "stats": {
                 "start": 60.21,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.21,
+                "mean": 60.21,
+                "max": 60.21
             }
         },
         "record": {
@@ -2615,7 +2615,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2660,9 +2660,9 @@
             },
             "stats": {
                 "start": 34.38,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 34.38,
+                "mean": 34.38,
+                "max": 34.38
             }
         },
         "record": {
@@ -2708,7 +2708,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2753,9 +2753,9 @@
             },
             "stats": {
                 "start": 60.95,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.95,
+                "mean": 60.95,
+                "max": 60.95
             }
         },
         "record": {
@@ -2801,7 +2801,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2846,9 +2846,9 @@
             },
             "stats": {
                 "start": 31.16,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 31.16,
+                "mean": 31.16,
+                "max": 31.16
             }
         },
         "record": {
@@ -2894,7 +2894,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -2939,9 +2939,9 @@
             },
             "stats": {
                 "start": 17.23,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 17.23,
+                "mean": 17.23,
+                "max": 17.23
             }
         },
         "record": {
@@ -2987,7 +2987,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3032,9 +3032,9 @@
             },
             "stats": {
                 "start": 53.57,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 53.57,
+                "mean": 53.57,
+                "max": 53.57
             }
         },
         "record": {
@@ -3080,7 +3080,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3125,9 +3125,9 @@
             },
             "stats": {
                 "start": 59.62,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 59.62,
+                "mean": 59.62,
+                "max": 59.62
             }
         },
         "record": {
@@ -3173,7 +3173,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3218,9 +3218,9 @@
             },
             "stats": {
                 "start": 60.28,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.28,
+                "mean": 60.28,
+                "max": 60.28
             }
         },
         "record": {
@@ -3266,7 +3266,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3311,9 +3311,9 @@
             },
             "stats": {
                 "start": 61.45,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 61.45,
+                "mean": 61.45,
+                "max": 61.45
             }
         },
         "record": {
@@ -3359,7 +3359,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3404,9 +3404,9 @@
             },
             "stats": {
                 "start": 50.79,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 50.79,
+                "mean": 50.79,
+                "max": 50.79
             }
         },
         "record": {
@@ -3452,7 +3452,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3497,9 +3497,9 @@
             },
             "stats": {
                 "start": 61.25,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 61.25,
+                "mean": 61.25,
+                "max": 61.25
             }
         },
         "record": {
@@ -3545,7 +3545,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3590,9 +3590,9 @@
             },
             "stats": {
                 "start": 33.91,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 33.91,
+                "mean": 33.91,
+                "max": 33.91
             }
         },
         "record": {
@@ -3638,7 +3638,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3683,9 +3683,9 @@
             },
             "stats": {
                 "start": 60.72,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.72,
+                "mean": 60.72,
+                "max": 60.72
             }
         },
         "record": {
@@ -3731,7 +3731,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3776,9 +3776,9 @@
             },
             "stats": {
                 "start": 67.54,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 67.54,
+                "mean": 67.54,
+                "max": 67.54
             }
         },
         "record": {
@@ -3824,7 +3824,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3869,9 +3869,9 @@
             },
             "stats": {
                 "start": 50.98,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 50.98,
+                "mean": 50.98,
+                "max": 50.98
             }
         },
         "record": {
@@ -3917,7 +3917,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -3962,9 +3962,9 @@
             },
             "stats": {
                 "start": 53.6,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 53.6,
+                "mean": 53.6,
+                "max": 53.6
             }
         },
         "record": {
@@ -4010,7 +4010,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4055,9 +4055,9 @@
             },
             "stats": {
                 "start": 57.88,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 57.88,
+                "mean": 57.88,
+                "max": 57.88
             }
         },
         "record": {
@@ -4103,7 +4103,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4148,9 +4148,9 @@
             },
             "stats": {
                 "start": 71.38,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 71.38,
+                "mean": 71.38,
+                "max": 71.38
             }
         },
         "record": {
@@ -4196,7 +4196,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4241,9 +4241,9 @@
             },
             "stats": {
                 "start": 55.14,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 55.14,
+                "mean": 55.14,
+                "max": 55.14
             }
         },
         "record": {
@@ -4289,7 +4289,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4334,9 +4334,9 @@
             },
             "stats": {
                 "start": 51.89,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 51.89,
+                "mean": 51.89,
+                "max": 51.89
             }
         },
         "record": {
@@ -4382,7 +4382,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4427,9 +4427,9 @@
             },
             "stats": {
                 "start": 24.1,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 24.1,
+                "mean": 24.1,
+                "max": 24.1
             }
         },
         "record": {
@@ -4475,7 +4475,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4520,9 +4520,9 @@
             },
             "stats": {
                 "start": 40.89,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 40.89,
+                "mean": 40.89,
+                "max": 40.89
             }
         },
         "record": {
@@ -4568,7 +4568,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4613,9 +4613,9 @@
             },
             "stats": {
                 "start": 63.05,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 63.05,
+                "mean": 63.05,
+                "max": 63.05
             }
         },
         "record": {
@@ -4661,7 +4661,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4706,9 +4706,9 @@
             },
             "stats": {
                 "start": 67.98,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 67.98,
+                "mean": 67.98,
+                "max": 67.98
             }
         },
         "record": {
@@ -4754,7 +4754,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4799,9 +4799,9 @@
             },
             "stats": {
                 "start": 54.01,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 54.01,
+                "mean": 54.01,
+                "max": 54.01
             }
         },
         "record": {
@@ -4847,7 +4847,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4892,9 +4892,9 @@
             },
             "stats": {
                 "start": 45.09,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 45.09,
+                "mean": 45.09,
+                "max": 45.09
             }
         },
         "record": {
@@ -4940,7 +4940,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -4985,9 +4985,9 @@
             },
             "stats": {
                 "start": 18.62,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 18.62,
+                "mean": 18.62,
+                "max": 18.62
             }
         },
         "record": {
@@ -5033,7 +5033,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5078,9 +5078,9 @@
             },
             "stats": {
                 "start": 84.58,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 84.58,
+                "mean": 84.58,
+                "max": 84.58
             }
         },
         "record": {
@@ -5126,7 +5126,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5171,9 +5171,9 @@
             },
             "stats": {
                 "start": 103.88,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 103.88,
+                "mean": 103.88,
+                "max": 103.88
             }
         },
         "record": {
@@ -5219,7 +5219,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5264,9 +5264,9 @@
             },
             "stats": {
                 "start": 46.64,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 46.64,
+                "mean": 46.64,
+                "max": 46.64
             }
         },
         "record": {
@@ -5312,7 +5312,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5357,9 +5357,9 @@
             },
             "stats": {
                 "start": 53.57,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 53.57,
+                "mean": 53.57,
+                "max": 53.57
             }
         },
         "record": {
@@ -5405,7 +5405,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5450,9 +5450,9 @@
             },
             "stats": {
                 "start": 35.16,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 35.16,
+                "mean": 35.16,
+                "max": 35.16
             }
         },
         "record": {
@@ -5498,7 +5498,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5543,9 +5543,9 @@
             },
             "stats": {
                 "start": 24.8,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 24.8,
+                "mean": 24.8,
+                "max": 24.8
             }
         },
         "record": {
@@ -5591,7 +5591,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5636,9 +5636,9 @@
             },
             "stats": {
                 "start": 60.51,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 60.51,
+                "mean": 60.51,
+                "max": 60.51
             }
         },
         "record": {
@@ -5684,7 +5684,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5728,10 +5728,10 @@
                 "rp_3": 0.2529
             },
             "stats": {
-                "start": 55.05,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "start": 54.68,
+                "pre_elim": 54.68,
+                "mean": 54.68,
+                "max": 54.68
             }
         },
         "record": {
@@ -5777,7 +5777,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5821,10 +5821,10 @@
                 "rp_3": 0.6944
             },
             "stats": {
-                "start": 77.67,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "start": 78.5,
+                "pre_elim": 78.5,
+                "mean": 78.5,
+                "max": 78.5
             }
         },
         "record": {
@@ -5870,7 +5870,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -5915,9 +5915,9 @@
             },
             "stats": {
                 "start": 55.59,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 55.59,
+                "mean": 55.59,
+                "max": 55.59
             }
         },
         "record": {
@@ -5963,7 +5963,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6008,9 +6008,9 @@
             },
             "stats": {
                 "start": 45.4,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 45.4,
+                "mean": 45.4,
+                "max": 45.4
             }
         },
         "record": {
@@ -6056,7 +6056,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6101,9 +6101,9 @@
             },
             "stats": {
                 "start": 27.17,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 27.17,
+                "mean": 27.17,
+                "max": 27.17
             }
         },
         "record": {
@@ -6149,7 +6149,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6194,9 +6194,9 @@
             },
             "stats": {
                 "start": 45.73,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 45.73,
+                "mean": 45.73,
+                "max": 45.73
             }
         },
         "record": {
@@ -6242,7 +6242,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6287,9 +6287,9 @@
             },
             "stats": {
                 "start": 70.49,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 70.49,
+                "mean": 70.49,
+                "max": 70.49
             }
         },
         "record": {
@@ -6335,7 +6335,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6380,9 +6380,9 @@
             },
             "stats": {
                 "start": 57.53,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 57.53,
+                "mean": 57.53,
+                "max": 57.53
             }
         },
         "record": {
@@ -6428,7 +6428,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6473,9 +6473,9 @@
             },
             "stats": {
                 "start": 32.28,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 32.28,
+                "mean": 32.28,
+                "max": 32.28
             }
         },
         "record": {
@@ -6521,7 +6521,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6566,9 +6566,9 @@
             },
             "stats": {
                 "start": 30.21,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 30.21,
+                "mean": 30.21,
+                "max": 30.21
             }
         },
         "record": {
@@ -6614,7 +6614,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6659,9 +6659,9 @@
             },
             "stats": {
                 "start": 67.8,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 67.8,
+                "mean": 67.8,
+                "max": 67.8
             }
         },
         "record": {
@@ -6707,7 +6707,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6752,9 +6752,9 @@
             },
             "stats": {
                 "start": 19.13,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 19.13,
+                "mean": 19.13,
+                "max": 19.13
             }
         },
         "record": {
@@ -6800,7 +6800,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6845,9 +6845,9 @@
             },
             "stats": {
                 "start": 44.53,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 44.53,
+                "mean": 44.53,
+                "max": 44.53
             }
         },
         "record": {
@@ -6893,7 +6893,7 @@
         "district": null,
         "type": "champs_div",
         "week": 8,
-        "status": "Upcoming",
+        "status": "Ongoing",
         "first_event": false,
         "epa": {
             "total_points": {
@@ -6938,9 +6938,9 @@
             },
             "stats": {
                 "start": 16.95,
-                "pre_elim": 0.0,
-                "mean": 0.0,
-                "max": 0.0
+                "pre_elim": 16.95,
+                "mean": 16.95,
+                "max": 16.95
             }
         },
         "record": {
