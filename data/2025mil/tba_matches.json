@@ -291,7 +291,12 @@
         },
         "set_number": 1,
         "time": 1744895400,
-        "videos": [],
+        "videos": [
+            {
+                "key": "YKB0EEhR3jc",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -586,7 +591,12 @@
         },
         "set_number": 1,
         "time": 1744899720,
-        "videos": [],
+        "videos": [
+            {
+                "key": "eIQ7kmgtyx4",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -1241,7 +1251,12 @@
         },
         "set_number": 1,
         "time": 1744900200,
-        "videos": [],
+        "videos": [
+            {
+                "key": "IL1owNsmyqU",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -1896,7 +1911,12 @@
         },
         "set_number": 1,
         "time": 1744900680,
-        "videos": [],
+        "videos": [
+            {
+                "key": "zwrp2decXB8",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -2407,7 +2427,12 @@
         },
         "set_number": 1,
         "time": 1744901160,
-        "videos": [],
+        "videos": [
+            {
+                "key": "XhJLQ3qXUgY",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -2702,7 +2727,12 @@
         },
         "set_number": 1,
         "time": 1744901640,
-        "videos": [],
+        "videos": [
+            {
+                "key": "QGtF81Phyr8",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -2997,7 +3027,12 @@
         },
         "set_number": 1,
         "time": 1744902120,
-        "videos": [],
+        "videos": [
+            {
+                "key": "VXtuRiv-n1c",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -3292,7 +3327,12 @@
         },
         "set_number": 1,
         "time": 1744902600,
-        "videos": [],
+        "videos": [
+            {
+                "key": "beJYrQz-MYU",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -3587,7 +3627,12 @@
         },
         "set_number": 1,
         "time": 1744903080,
-        "videos": [],
+        "videos": [
+            {
+                "key": "GFbsPqO2DOg",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -3618,7 +3663,7 @@
         "event_key": "2025mil",
         "key": "2025mil_qm18",
         "match_number": 18,
-        "post_result_time": null,
+        "post_result_time": 1744905236,
         "predicted_time": 1744905090,
         "score_breakdown": {
             "blue": {
@@ -3882,15 +3927,20 @@
         },
         "set_number": 1,
         "time": 1744903560,
-        "videos": [],
+        "videos": [
+            {
+                "key": "DzaIogyc4Fk",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
-        "actual_time": null,
+        "actual_time": 1744905450,
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 181,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc7056",
@@ -3900,7 +3950,7 @@
             },
             "red": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 181,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc1023",
@@ -3913,12 +3963,276 @@
         "event_key": "2025mil",
         "key": "2025mil_qm19",
         "match_number": 19,
-        "post_result_time": null,
+        "post_result_time": 1744905675,
         "predicted_time": 1744905546,
-        "score_breakdown": null,
+        "score_breakdown": {
+            "blue": {
+                "adjustPoints": 0,
+                "algaePoints": 44,
+                "autoBonusAchieved": true,
+                "autoCoralCount": 3,
+                "autoCoralPoints": 17,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 26,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 2,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": true,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "trough": 1
+                },
+                "bargeBonusAchieved": true,
+                "coopertitionCriteriaMet": true,
+                "coralBonusAchieved": false,
+                "endGameBargePoints": 16,
+                "endGameRobot1": "Parked",
+                "endGameRobot2": "Parked",
+                "endGameRobot3": "DeepCage",
+                "foulCount": 0,
+                "foulPoints": 0,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 8,
+                "rp": 3,
+                "techFoulCount": 0,
+                "teleopCoralCount": 25,
+                "teleopCoralPoints": 95,
+                "teleopPoints": 155,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": true,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 5,
+                    "tba_midRowCount": 7,
+                    "tba_topRowCount": 12,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 181,
+                "wallAlgaeCount": 2
+            },
+            "red": {
+                "adjustPoints": 0,
+                "algaePoints": 24,
+                "autoBonusAchieved": true,
+                "autoCoralCount": 3,
+                "autoCoralPoints": 21,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 30,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 3,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": true,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": false
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": true,
+                "coopertitionCriteriaMet": true,
+                "coralBonusAchieved": true,
+                "endGameBargePoints": 36,
+                "endGameRobot1": "DeepCage",
+                "endGameRobot2": "DeepCage",
+                "endGameRobot3": "DeepCage",
+                "foulCount": 0,
+                "foulPoints": 0,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 3,
+                "rp": 4,
+                "techFoulCount": 0,
+                "teleopCoralCount": 26,
+                "teleopCoralPoints": 91,
+                "teleopPoints": 151,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": true,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 7,
+                    "tba_midRowCount": 7,
+                    "tba_topRowCount": 11,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 181,
+                "wallAlgaeCount": 2
+            }
+        },
         "set_number": 1,
         "time": 1744904040,
-        "videos": [],
+        "videos": [
+            {
+                "key": "V-koNS85Uj4",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": ""
     },
     {
@@ -4213,15 +4527,20 @@
         },
         "set_number": 1,
         "time": 1744895880,
-        "videos": [],
+        "videos": [
+            {
+                "key": "g92XJqt2qLo",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
-        "actual_time": null,
+        "actual_time": 1744905880,
         "alliances": {
             "blue": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 237,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc5572",
@@ -4231,7 +4550,7 @@
             },
             "red": {
                 "dq_team_keys": [],
-                "score": -1,
+                "score": 209,
                 "surrogate_team_keys": [],
                 "team_keys": [
                     "frc4322",
@@ -4244,13 +4563,277 @@
         "event_key": "2025mil",
         "key": "2025mil_qm20",
         "match_number": 20,
-        "post_result_time": null,
-        "predicted_time": 1744906026,
-        "score_breakdown": null,
+        "post_result_time": 1744906083,
+        "predicted_time": 1744905987,
+        "score_breakdown": {
+            "blue": {
+                "adjustPoints": 0,
+                "algaePoints": 40,
+                "autoBonusAchieved": true,
+                "autoCoralCount": 6,
+                "autoCoralPoints": 42,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 51,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "tba_botRowCount": 0,
+                    "tba_midRowCount": 0,
+                    "tba_topRowCount": 6,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": true,
+                        "nodeI": false,
+                        "nodeJ": true,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "trough": 0
+                },
+                "bargeBonusAchieved": true,
+                "coopertitionCriteriaMet": true,
+                "coralBonusAchieved": true,
+                "endGameBargePoints": 36,
+                "endGameRobot1": "DeepCage",
+                "endGameRobot2": "DeepCage",
+                "endGameRobot3": "DeepCage",
+                "foulCount": 1,
+                "foulPoints": 0,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 7,
+                "rp": 6,
+                "techFoulCount": 0,
+                "teleopCoralCount": 35,
+                "teleopCoralPoints": 110,
+                "teleopPoints": 186,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 10,
+                    "tba_midRowCount": 12,
+                    "tba_topRowCount": 12,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 237,
+                "wallAlgaeCount": 2
+            },
+            "red": {
+                "adjustPoints": 0,
+                "algaePoints": 32,
+                "autoBonusAchieved": true,
+                "autoCoralCount": 7,
+                "autoCoralPoints": 36,
+                "autoLineRobot1": "Yes",
+                "autoLineRobot2": "Yes",
+                "autoLineRobot3": "Yes",
+                "autoMobilityPoints": 9,
+                "autoPoints": 45,
+                "autoReef": {
+                    "botRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": false
+                    },
+                    "midRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": false,
+                        "nodeD": false,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 1,
+                    "tba_midRowCount": 2,
+                    "tba_topRowCount": 3,
+                    "topRow": {
+                        "nodeA": false,
+                        "nodeB": false,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": false,
+                        "nodeG": false,
+                        "nodeH": false,
+                        "nodeI": false,
+                        "nodeJ": false,
+                        "nodeK": false,
+                        "nodeL": false
+                    },
+                    "trough": 1
+                },
+                "bargeBonusAchieved": true,
+                "coopertitionCriteriaMet": true,
+                "coralBonusAchieved": true,
+                "endGameBargePoints": 16,
+                "endGameRobot1": "Parked",
+                "endGameRobot2": "DeepCage",
+                "endGameRobot3": "Parked",
+                "foulCount": 0,
+                "foulPoints": 2,
+                "g206Penalty": false,
+                "g410Penalty": false,
+                "g418Penalty": false,
+                "g428Penalty": false,
+                "netAlgaeCount": 5,
+                "rp": 3,
+                "techFoulCount": 0,
+                "teleopCoralCount": 34,
+                "teleopCoralPoints": 114,
+                "teleopPoints": 162,
+                "teleopReef": {
+                    "botRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": false,
+                        "nodeF": false,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": false,
+                        "nodeL": true
+                    },
+                    "midRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "tba_botRowCount": 9,
+                    "tba_midRowCount": 12,
+                    "tba_topRowCount": 12,
+                    "topRow": {
+                        "nodeA": true,
+                        "nodeB": true,
+                        "nodeC": true,
+                        "nodeD": true,
+                        "nodeE": true,
+                        "nodeF": true,
+                        "nodeG": true,
+                        "nodeH": true,
+                        "nodeI": true,
+                        "nodeJ": true,
+                        "nodeK": true,
+                        "nodeL": true
+                    },
+                    "trough": 1
+                },
+                "totalPoints": 209,
+                "wallAlgaeCount": 2
+            }
+        },
         "set_number": 1,
         "time": 1744904520,
-        "videos": [],
-        "winning_alliance": ""
+        "videos": [
+            {
+                "key": "HfMaAj-KSOA",
+                "type": "youtube"
+            }
+        ],
+        "winning_alliance": "blue"
     },
     {
         "actual_time": null,
@@ -4281,7 +4864,7 @@
         "key": "2025mil_qm21",
         "match_number": 21,
         "post_result_time": null,
-        "predicted_time": 1744906506,
+        "predicted_time": 1744906387,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744905000,
@@ -4317,7 +4900,7 @@
         "key": "2025mil_qm22",
         "match_number": 22,
         "post_result_time": null,
-        "predicted_time": 1744906986,
+        "predicted_time": 1744906974,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744905480,
@@ -4353,7 +4936,7 @@
         "key": "2025mil_qm23",
         "match_number": 23,
         "post_result_time": null,
-        "predicted_time": 1744907466,
+        "predicted_time": 1744907454,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744905960,
@@ -4389,7 +4972,7 @@
         "key": "2025mil_qm24",
         "match_number": 24,
         "post_result_time": null,
-        "predicted_time": 1744907946,
+        "predicted_time": 1744907934,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744906440,
@@ -4425,7 +5008,7 @@
         "key": "2025mil_qm25",
         "match_number": 25,
         "post_result_time": null,
-        "predicted_time": 1744908426,
+        "predicted_time": 1744908414,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744906920,
@@ -4461,7 +5044,7 @@
         "key": "2025mil_qm26",
         "match_number": 26,
         "post_result_time": null,
-        "predicted_time": 1744908906,
+        "predicted_time": 1744908894,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744907400,
@@ -4497,7 +5080,7 @@
         "key": "2025mil_qm27",
         "match_number": 27,
         "post_result_time": null,
-        "predicted_time": 1744909386,
+        "predicted_time": 1744909374,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744907880,
@@ -4533,7 +5116,7 @@
         "key": "2025mil_qm28",
         "match_number": 28,
         "post_result_time": null,
-        "predicted_time": 1744909866,
+        "predicted_time": 1744909854,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744908360,
@@ -4569,7 +5152,7 @@
         "key": "2025mil_qm29",
         "match_number": 29,
         "post_result_time": null,
-        "predicted_time": 1744910346,
+        "predicted_time": 1744910334,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744908840,
@@ -4868,7 +5451,12 @@
         },
         "set_number": 1,
         "time": 1744896360,
-        "videos": [],
+        "videos": [
+            {
+                "key": "vuup-mlVH5I",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "red"
     },
     {
@@ -4900,7 +5488,7 @@
         "key": "2025mil_qm30",
         "match_number": 30,
         "post_result_time": null,
-        "predicted_time": 1744910826,
+        "predicted_time": 1744910814,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744909320,
@@ -4936,7 +5524,7 @@
         "key": "2025mil_qm31",
         "match_number": 31,
         "post_result_time": null,
-        "predicted_time": 1744911306,
+        "predicted_time": 1744911294,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744909800,
@@ -4972,7 +5560,7 @@
         "key": "2025mil_qm32",
         "match_number": 32,
         "post_result_time": null,
-        "predicted_time": 1744911786,
+        "predicted_time": 1744911774,
         "score_breakdown": null,
         "set_number": 1,
         "time": 1744910280,
@@ -5523,7 +6111,12 @@
         },
         "set_number": 1,
         "time": 1744896840,
-        "videos": [],
+        "videos": [
+            {
+                "key": "T94zi9ZXVac",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -6178,7 +6771,12 @@
         },
         "set_number": 1,
         "time": 1744897320,
-        "videos": [],
+        "videos": [
+            {
+                "key": "NOMUPLk-GYo",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -6833,7 +7431,12 @@
         },
         "set_number": 1,
         "time": 1744897800,
-        "videos": [],
+        "videos": [
+            {
+                "key": "nBjTjQuhiw8",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -7488,7 +8091,12 @@
         },
         "set_number": 1,
         "time": 1744898280,
-        "videos": [],
+        "videos": [
+            {
+                "key": "rHWU1ImA0PQ",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -8143,7 +8751,12 @@
         },
         "set_number": 1,
         "time": 1744898760,
-        "videos": [],
+        "videos": [
+            {
+                "key": "V7xkE2eZam4",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
@@ -8798,7 +9411,12 @@
         },
         "set_number": 1,
         "time": 1744899240,
-        "videos": [],
+        "videos": [
+            {
+                "key": "HAiymgqy7io",
+                "type": "youtube"
+            }
+        ],
         "winning_alliance": "blue"
     },
     {
