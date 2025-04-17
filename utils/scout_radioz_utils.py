@@ -26,6 +26,15 @@ def request_scout_radioz_match_scouting(org_key, event_key):
 def download_scout_radioz_match_scouting(org_key, event_key, output_file):
     content = request_scout_radioz_match_scouting(org_key, event_key)
 
+    # If the download is empty, this means that the event likely hasn't started yet, so 
+    # we will fill in the important columns and add minimal mock data.
+    if len(content) == 0:
+        import pandas as pd
+        good_df = pd.read_csv("data/2025nysu/match_scouting.csv")
+        columns = list(good_df.keys())
+        content = bytes(",".join(columns), "utf-8")
+
+
     with open(output_file, 'wb') as f:
         f.write(content)
 
