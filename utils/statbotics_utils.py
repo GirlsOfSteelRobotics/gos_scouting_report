@@ -19,10 +19,13 @@ def download_statbotics_matches(event: str, output_path: Path, quals_only=True):
     sb = statbotics.Statbotics()
 
     elims = False if quals_only else None
-    data = sb.get_matches(event=event, elims=elims)
 
-    with open(output_path, "w") as f:
-        json.dump(data, f, indent=4)
+    try:
+        data = sb.get_matches(event=event, elims=elims)
+        with open(output_path, "w") as f:
+            json.dump(data, f, indent=4)
+    except UserWarning:
+        print("Could not load statbotics match data")
 
 
 def load_statbotics_matches(filename: Path) -> pd.DataFrame:
@@ -100,4 +103,3 @@ def statbotics_teams_json_to_dataframe(json_data: Dict[str, Any]) -> pd.DataFram
     output = pd.json_normalize(json_data)
 
     return output
-
